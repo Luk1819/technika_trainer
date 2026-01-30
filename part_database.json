@@ -1,0 +1,3854 @@
+{
+  "32064": {
+    "name": "Baustein 15 mit Bohrung",
+    "description": "Baustein 15 mit Bohrung aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32064",
+      "Kasten": "1",
+      "Fach": "a + c + d",
+      "Anzahl verfügbar": "200"
+    },
+    "imagePath": "assets/images/32064.png"
+  },
+  "32321": {
+    "name": "Baustein 15 mit Ansenkung",
+    "description": "Baustein 15 mit Ansenkung aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32321",
+      "Kasten": "1",
+      "Fach": "b",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/32321.png"
+  },
+  "32881": {
+    "name": "Baustein 15,  1 Zapfen",
+    "description": "Baustein 15,  1 Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32881",
+      "Kasten": "1",
+      "Fach": "f + g + h",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/32881.png"
+  },
+  "32882": {
+    "name": "Baustein 15,  2 Zapfen",
+    "description": "Baustein 15,  2 Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32882",
+      "Kasten": "1",
+      "Fach": "e",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/32882.png"
+  },
+  "108278": {
+    "name": "Magnetbaustein",
+    "description": "Magnetbaustein aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "108278",
+      "Kasten": "1",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/108278.png"
+  },
+  "116252": {
+    "name": "Baustein 15, rot",
+    "description": "Baustein 15, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "116252",
+      "Kasten": "1",
+      "Fach": "f + g + h",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/116252.png"
+  },
+  "136529": {
+    "name": "Baustein 15, gelb",
+    "description": "Baustein 15, gelb aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "136529",
+      "Kasten": "1",
+      "Fach": "f + g + h",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/136529.png"
+  },
+  "32850": {
+    "name": "Riegelstein 15x15",
+    "description": "Riegelstein 15x15 aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "32850",
+      "Kasten": "2",
+      "Fach": "e",
+      "Anzahl verfügbar": "70"
+    },
+    "imagePath": "assets/images/32850.png"
+  },
+  "35979": {
+    "name": "U-Träger Adapter",
+    "description": "U-Träger Adapter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35979",
+      "Kasten": "2",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/35979.png"
+  },
+  "36922": {
+    "name": "Winkelträger 15,  1 Zapfen schwarz",
+    "description": "Winkelträger 15,  1 Zapfen schwarz aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36922",
+      "Kasten": "2",
+      "Fach": "a + c+ d",
+      "Anzahl verfügbar": "220"
+    },
+    "imagePath": "assets/images/36922.png"
+  },
+  "36950": {
+    "name": "Winkelträger 15,  2 Zapfen schwarz",
+    "description": "Winkelträger 15,  2 Zapfen schwarz aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36950",
+      "Kasten": "2",
+      "Fach": "d",
+      "Anzahl verfügbar": "120"
+    },
+    "imagePath": "assets/images/36950.png"
+  },
+  "36973": {
+    "name": "Statikstein rot",
+    "description": "Statikstein rot aus dem fischertechnik Sortiment.",
+    "category": "Statik",
+    "technicalDetails": {
+      "Teile-Nr": "36973",
+      "Kasten": "2",
+      "Fach": "g",
+      "Anzahl verfügbar": "70"
+    },
+    "imagePath": "assets/images/36973.png"
+  },
+  "38240": {
+    "name": "Baustein V15 Eck",
+    "description": "Baustein V15 Eck aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38240",
+      "Kasten": "2",
+      "Fach": "f + h",
+      "Anzahl verfügbar": "150"
+    },
+    "imagePath": "assets/images/38240.png"
+  },
+  "35055": {
+    "name": "Bogenstück 60°",
+    "description": "Bogenstück 60° aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35055",
+      "Kasten": "3",
+      "Fach": "g",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/35055.png"
+  },
+  "36905": {
+    "name": "Flachträger 120, schwarz",
+    "description": "Flachträger 120, schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36905",
+      "Kasten": "3",
+      "Fach": "g",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/36905.png"
+  },
+  "36912": {
+    "name": "I-Strebe mit Loch schwarz 30",
+    "description": "I-Strebe mit Loch schwarz 30 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "36912",
+      "Kasten": "3",
+      "Fach": "d",
+      "Anzahl verfügbar": "110"
+    },
+    "imagePath": "assets/images/36912.png"
+  },
+  "36913": {
+    "name": "I-Strebe mit Loch schwarz 45",
+    "description": "I-Strebe mit Loch schwarz 45 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "36913",
+      "Kasten": "3",
+      "Fach": "b",
+      "Anzahl verfügbar": "145"
+    },
+    "imagePath": "assets/images/36913.png"
+  },
+  "36914": {
+    "name": "I-Strebe mit Loch schwarz 15",
+    "description": "I-Strebe mit Loch schwarz 15 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "36914",
+      "Kasten": "3",
+      "Fach": "d",
+      "Anzahl verfügbar": "52"
+    },
+    "imagePath": "assets/images/36914.png"
+  },
+  "36923": {
+    "name": "I-Strebe mit Loch schwarz 75",
+    "description": "I-Strebe mit Loch schwarz 75 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "36923",
+      "Kasten": "3",
+      "Fach": "c",
+      "Anzahl verfügbar": "75"
+    },
+    "imagePath": "assets/images/36923.png"
+  },
+  "36952": {
+    "name": "I-Strebe mit Loch schwarz 60",
+    "description": "I-Strebe mit Loch schwarz 60 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "36952",
+      "Kasten": "3",
+      "Fach": "b",
+      "Anzahl verfügbar": "75"
+    },
+    "imagePath": "assets/images/36952.png"
+  },
+  "38543": {
+    "name": "I-Strebe mit Loch schwarz 90",
+    "description": "I-Strebe mit Loch schwarz 90 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "38543",
+      "Kasten": "3",
+      "Fach": "c",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/38543.png"
+  },
+  "38546": {
+    "name": "I-Strebe mit Loch schwarz 120",
+    "description": "I-Strebe mit Loch schwarz 120 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "38546",
+      "Kasten": "3",
+      "Fach": "a",
+      "Anzahl verfügbar": "75"
+    },
+    "imagePath": "assets/images/38546.png"
+  },
+  "137654": {
+    "name": "X-Strebe silber 169,6",
+    "description": "X-Strebe silber 169,6 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "137654",
+      "Kasten": "3",
+      "Fach": "e",
+      "Anzahl verfügbar": "44"
+    },
+    "imagePath": "assets/images/137654.png"
+  },
+  "143236": {
+    "name": "I-Strebe mit Loch grün 90",
+    "description": "I-Strebe mit Loch grün 90 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "143236",
+      "Kasten": "3",
+      "Fach": "c",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/143236.png"
+  },
+  "146529": {
+    "name": "I-Strebe mit Loch grün 15",
+    "description": "I-Strebe mit Loch grün 15 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "146529",
+      "Kasten": "3",
+      "Fach": "d",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/146529.png"
+  },
+  "146532": {
+    "name": "I-Strebe mit Loch grün 60",
+    "description": "I-Strebe mit Loch grün 60 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "146532",
+      "Kasten": "3",
+      "Fach": "b",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/146532.png"
+  },
+  "156105": {
+    "name": "X-Strebe silber 42,4",
+    "description": "X-Strebe silber 42,4 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "156105",
+      "Kasten": "3",
+      "Fach": "f",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/156105.png"
+  },
+  "156502": {
+    "name": "I-Strebe mit Loch grün 75",
+    "description": "I-Strebe mit Loch grün 75 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "156502",
+      "Kasten": "3",
+      "Fach": "c",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/156502.png"
+  },
+  "159781": {
+    "name": "I-Strebe mit Loch grün 105",
+    "description": "I-Strebe mit Loch grün 105 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "159781",
+      "Kasten": "3",
+      "Fach": "a",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/159781.png"
+  },
+  "160547": {
+    "name": "X-Strebe silber 63,6",
+    "description": "X-Strebe silber 63,6 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "160547",
+      "Kasten": "3",
+      "Fach": "h",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/160547.png"
+  },
+  "160548": {
+    "name": "X-Strebe silber 106",
+    "description": "X-Strebe silber 106 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "160548",
+      "Kasten": "3",
+      "Fach": "f",
+      "Anzahl verfügbar": "64"
+    },
+    "imagePath": "assets/images/160548.png"
+  },
+  "176669": {
+    "name": "X-Strebe silber 84,8",
+    "description": "X-Strebe silber 84,8 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "176669",
+      "Kasten": "3",
+      "Fach": "h",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/176669.png"
+  },
+  "176775": {
+    "name": "I-Strebe mit Loch schwarz 105",
+    "description": "I-Strebe mit Loch schwarz 105 aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "176775",
+      "Kasten": "3",
+      "Fach": "a",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/176775.png"
+  },
+  "180929": {
+    "name": "Flachstück 120 schwarz",
+    "description": "Flachstück 120 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "180929",
+      "Kasten": "3",
+      "Fach": "g",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/180929.png"
+  },
+  "31060": {
+    "name": "Verbindungsstück 15",
+    "description": "Verbindungsstück 15 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31060",
+      "Kasten": "4",
+      "Fach": "d",
+      "Anzahl verfügbar": "110"
+    },
+    "imagePath": "assets/images/31060.png"
+  },
+  "31061": {
+    "name": "Verbindungsstück 30",
+    "description": "Verbindungsstück 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31061",
+      "Kasten": "4",
+      "Fach": "d",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/31061.png"
+  },
+  "31330": {
+    "name": "Verbindungsstück 45",
+    "description": "Verbindungsstück 45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31330",
+      "Kasten": "4",
+      "Fach": "d",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/31330.png"
+  },
+  "31602": {
+    "name": "Kufe",
+    "description": "Kufe aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31602",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31602.png"
+  },
+  "31667": {
+    "name": "Lasche 15",
+    "description": "Lasche 15 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31667",
+      "Kasten": "4",
+      "Fach": "e",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31667.png"
+  },
+  "31668": {
+    "name": "Lasche 21,2",
+    "description": "Lasche 21,2 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31668",
+      "Kasten": "4",
+      "Fach": "e",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/31668.png"
+  },
+  "31670": {
+    "name": "Winkellasche",
+    "description": "Winkellasche aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "31670",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/31670.png"
+  },
+  "31671": {
+    "name": "L-Lasche",
+    "description": "L-Lasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31671",
+      "Kasten": "4",
+      "Fach": "e",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/31671.png"
+  },
+  "31672": {
+    "name": "T-Lasche",
+    "description": "T-Lasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31672",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31672.png"
+  },
+  "31673": {
+    "name": "Sternlasche",
+    "description": "Sternlasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31673",
+      "Kasten": "4",
+      "Fach": "e",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31673.png"
+  },
+  "31674": {
+    "name": "Adapterlasche",
+    "description": "Adapterlasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31674",
+      "Kasten": "4",
+      "Fach": "a",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31674.png"
+  },
+  "31675": {
+    "name": "Kreuzlasche",
+    "description": "Kreuzlasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31675",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31675.png"
+  },
+  "31848": {
+    "name": "Strebenadapter",
+    "description": "Strebenadapter aus dem fischertechnik Sortiment.",
+    "category": "Strebe",
+    "technicalDetails": {
+      "Teile-Nr": "31848",
+      "Kasten": "4",
+      "Fach": "d",
+      "Anzahl verfügbar": "64"
+    },
+    "imagePath": "assets/images/31848.png"
+  },
+  "31982": {
+    "name": "Federnocken",
+    "description": "Federnocken aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31982",
+      "Kasten": "4",
+      "Fach": "f",
+      "Anzahl verfügbar": "540"
+    },
+    "imagePath": "assets/images/31982.png"
+  },
+  "35799": {
+    "name": "Riegelschlüssel",
+    "description": "Riegelschlüssel aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "35799",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/35799.png"
+  },
+  "36323": {
+    "name": "S-Riegel 4",
+    "description": "S-Riegel 4 aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "36323",
+      "Kasten": "4",
+      "Fach": "b",
+      "Anzahl verfügbar": "1000"
+    },
+    "imagePath": "assets/images/36323.png"
+  },
+  "36324": {
+    "name": "S-Riegel 6",
+    "description": "S-Riegel 6 aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "36324",
+      "Kasten": "4",
+      "Fach": "c",
+      "Anzahl verfügbar": "130"
+    },
+    "imagePath": "assets/images/36324.png"
+  },
+  "36334": {
+    "name": "Riegelscheibe",
+    "description": "Riegelscheibe aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "36334",
+      "Kasten": "4",
+      "Fach": "d",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/36334.png"
+  },
+  "38423": {
+    "name": "Winkelstein 10x15x15",
+    "description": "Winkelstein 10x15x15 aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "38423",
+      "Kasten": "4",
+      "Fach": "a",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/38423.png"
+  },
+  "208424": {
+    "name": "Riegelnocken schwarz",
+    "description": "Riegelnocken schwarz aus dem fischertechnik Sortiment.",
+    "category": "Riegel",
+    "technicalDetails": {
+      "Teile-Nr": "208424",
+      "Kasten": "4",
+      "Fach": "h",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/208424.png"
+  },
+  "31124": {
+    "name": "Aufnahmeachse",
+    "description": "Aufnahmeachse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31124",
+      "Kasten": "5",
+      "Fach": "g",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31124.png"
+  },
+  "31426": {
+    "name": "Gelenkwürfel-Zunge",
+    "description": "Gelenkwürfel-Zunge aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31426",
+      "Kasten": "5",
+      "Fach": "d",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31426.png"
+  },
+  "31436": {
+    "name": "Gelenkwürfel-Klaue",
+    "description": "Gelenkwürfel-Klaue aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31436",
+      "Kasten": "5",
+      "Fach": "d",
+      "Anzahl verfügbar": "90"
+    },
+    "imagePath": "assets/images/31436.png"
+  },
+  "35975": {
+    "name": "Statikadapter",
+    "description": "Statikadapter aus dem fischertechnik Sortiment.",
+    "category": "Statik",
+    "technicalDetails": {
+      "Teile-Nr": "35975",
+      "Kasten": "5",
+      "Fach": "d",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/35975.png"
+  },
+  "36819": {
+    "name": "Lagerhülse",
+    "description": "Lagerhülse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36819",
+      "Kasten": "5",
+      "Fach": "d",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/36819.png"
+  },
+  "37468": {
+    "name": "Baustein 7,5",
+    "description": "Baustein 7,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37468",
+      "Kasten": "5",
+      "Fach": "a",
+      "Anzahl verfügbar": "200"
+    },
+    "imagePath": "assets/images/37468.png"
+  },
+  "38253": {
+    "name": "Kupplungsstück",
+    "description": "Kupplungsstück aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38253",
+      "Kasten": "5",
+      "Fach": "e",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38253.png"
+  },
+  "38260": {
+    "name": "Kupplungsstück 30",
+    "description": "Kupplungsstück 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38260",
+      "Kasten": "5",
+      "Fach": "e",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/38260.png"
+  },
+  "130593": {
+    "name": "Rastachse mit Platte",
+    "description": "Rastachse mit Platte aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "130593",
+      "Kasten": "5",
+      "Fach": "g",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/130593.png"
+  },
+  "163201": {
+    "name": "Baustein 15x15 rund, rot",
+    "description": "Baustein 15x15 rund, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163201",
+      "Kasten": "5",
+      "Fach": "c",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/163201.png"
+  },
+  "163439": {
+    "name": "Baustein 15x30 rund",
+    "description": "Baustein 15x30 rund aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163439",
+      "Kasten": "5",
+      "Fach": "c",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/163439.png"
+  },
+  "172804": {
+    "name": "Drehgelenk Zapfen, schwarz",
+    "description": "Drehgelenk Zapfen, schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172804",
+      "Kasten": "5",
+      "Fach": "b",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/172804.png"
+  },
+  "172805": {
+    "name": "Drehgelenk Lager,schwarz",
+    "description": "Drehgelenk Lager,schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172805",
+      "Kasten": "5",
+      "Fach": "b",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/172805.png"
+  },
+  "31010": {
+    "name": "Winkelstein 60°",
+    "description": "Winkelstein 60° aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "31010",
+      "Kasten": "6",
+      "Fach": "f",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/31010.png"
+  },
+  "31011": {
+    "name": "Winkelstein 30°",
+    "description": "Winkelstein 30° aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "31011",
+      "Kasten": "6",
+      "Fach": "g",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/31011.png"
+  },
+  "31918": {
+    "name": "Winkelstein 60° mit 3 Nuten",
+    "description": "Winkelstein 60° mit 3 Nuten aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "31918",
+      "Kasten": "6",
+      "Fach": "a",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31918.png"
+  },
+  "31981": {
+    "name": "Winkelstein 15°",
+    "description": "Winkelstein 15° aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "31981",
+      "Kasten": "6",
+      "Fach": "e",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/31981.png"
+  },
+  "32071": {
+    "name": "Winkelstein 7,5°",
+    "description": "Winkelstein 7,5° aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "32071",
+      "Kasten": "6",
+      "Fach": "h",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/32071.png"
+  },
+  "32330": {
+    "name": "Bauplatte 15x30x3,75 mit Nut",
+    "description": "Bauplatte 15x30x3,75 mit Nut aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32330",
+      "Kasten": "6",
+      "Fach": "a",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/32330.png"
+  },
+  "35049": {
+    "name": "Baustein 15x30x5 mit Nut und Zapfen",
+    "description": "Baustein 15x30x5 mit Nut und Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35049",
+      "Kasten": "6",
+      "Fach": "d",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/35049.png"
+  },
+  "37237": {
+    "name": "Baustein 5",
+    "description": "Baustein 5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37237",
+      "Kasten": "6",
+      "Fach": "b",
+      "Anzahl verfügbar": "300"
+    },
+    "imagePath": "assets/images/37237.png"
+  },
+  "37238": {
+    "name": "Baustein 5 mit 2 Zapfen",
+    "description": "Baustein 5 mit 2 Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37238",
+      "Kasten": "6",
+      "Fach": "a",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/37238.png"
+  },
+  "38428": {
+    "name": "Bauplatte 15x30x5 mit 3 Nuten",
+    "description": "Bauplatte 15x30x5 mit 3 Nuten aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38428",
+      "Kasten": "6",
+      "Fach": "c",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/38428.png"
+  },
+  "38241": {
+    "name": "Bauplatte 15x30 rot",
+    "description": "Bauplatte 15x30 rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38241",
+      "Kasten": "7",
+      "Fach": "c",
+      "Anzahl verfügbar": "80"
+    },
+    "imagePath": "assets/images/38241.png"
+  },
+  "38242": {
+    "name": "Bauplatte 15x45, rot",
+    "description": "Bauplatte 15x45, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38242",
+      "Kasten": "7",
+      "Fach": "b",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/38242.png"
+  },
+  "38244": {
+    "name": "Bauplatte 15x75, rot",
+    "description": "Bauplatte 15x75, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38244",
+      "Kasten": "7",
+      "Fach": "a",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38244.png"
+  },
+  "38245": {
+    "name": "Bauplatte 15x90, rot",
+    "description": "Bauplatte 15x90, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38245",
+      "Kasten": "7",
+      "Fach": "f",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/38245.png"
+  },
+  "38246": {
+    "name": "Bauplatte 15x15, rot",
+    "description": "Bauplatte 15x15, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38246",
+      "Kasten": "7",
+      "Fach": "h",
+      "Anzahl verfügbar": "80"
+    },
+    "imagePath": "assets/images/38246.png"
+  },
+  "38248": {
+    "name": "Bauplatte 30x45, rot",
+    "description": "Bauplatte 30x45, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38248",
+      "Kasten": "7",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38248.png"
+  },
+  "38249": {
+    "name": "Bauplatte 30x60, rot",
+    "description": "Bauplatte 30x60, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38249",
+      "Kasten": "7",
+      "Fach": "b",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38249.png"
+  },
+  "38251": {
+    "name": "Bauplatte 30x90, rot",
+    "description": "Bauplatte 30x90, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38251",
+      "Kasten": "7",
+      "Fach": "e",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38251.png"
+  },
+  "38259": {
+    "name": "Bauplatte 30x30, rot",
+    "description": "Bauplatte 30x30, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38259",
+      "Kasten": "7",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38259.png"
+  },
+  "38277": {
+    "name": "Bauplatte 15x45 mit 2x2 Zapfen",
+    "description": "Bauplatte 15x45 mit 2x2 Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38277",
+      "Kasten": "7",
+      "Fach": "c",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/38277.png"
+  },
+  "38432": {
+    "name": "Bauplatte 30x60, gelb",
+    "description": "Bauplatte 30x60, gelb aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38432",
+      "Kasten": "7",
+      "Fach": "b",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/38432.png"
+  },
+  "38464": {
+    "name": "Bauplatte 15x60 rot",
+    "description": "Bauplatte 15x60 rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38464",
+      "Kasten": "7",
+      "Fach": "f",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/38464.png"
+  },
+  "152249": {
+    "name": "Bauplatte 30x60, grün",
+    "description": "Bauplatte 30x60, grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "152249",
+      "Kasten": "7",
+      "Fach": "b",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/152249.png"
+  },
+  "172539": {
+    "name": "Kotflügel, rot",
+    "description": "Kotflügel, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172539",
+      "Kasten": "7",
+      "Fach": "a",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/172539.png"
+  },
+  "31592": {
+    "name": "Kesselhalter",
+    "description": "Kesselhalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31592",
+      "Kasten": "8",
+      "Fach": "c",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/31592.png"
+  },
+  "31760": {
+    "name": "Kunststoff-Feder 26 schwarz",
+    "description": "Kunststoff-Feder 26 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31760",
+      "Kasten": "8",
+      "Fach": "c",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31760.png"
+  },
+  "31843": {
+    "name": "Lenkwürfel",
+    "description": "Lenkwürfel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31843",
+      "Kasten": "8",
+      "Fach": "e",
+      "Anzahl verfügbar": "22"
+    },
+    "imagePath": "assets/images/31843.png"
+  },
+  "31888": {
+    "name": "Gelenkstück",
+    "description": "Gelenkstück aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31888",
+      "Kasten": "8",
+      "Fach": "a",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31888.png"
+  },
+  "31891": {
+    "name": "Federboden schwarz",
+    "description": "Federboden schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31891",
+      "Kasten": "8",
+      "Fach": "c",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31891.png"
+  },
+  "31894": {
+    "name": "Anlenkhebel",
+    "description": "Anlenkhebel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31894",
+      "Kasten": "8",
+      "Fach": "e",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/31894.png"
+  },
+  "31896": {
+    "name": "Kotflügel mit Zapfen",
+    "description": "Kotflügel mit Zapfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31896",
+      "Kasten": "8",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31896.png"
+  },
+  "31916": {
+    "name": "Lenkrad",
+    "description": "Lenkrad aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31916",
+      "Kasten": "8",
+      "Fach": "a",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31916.png"
+  },
+  "31984": {
+    "name": "Schalensitz",
+    "description": "Schalensitz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31984",
+      "Kasten": "8",
+      "Fach": "f",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/31984.png"
+  },
+  "32851": {
+    "name": "Lenksäule 34",
+    "description": "Lenksäule 34 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32851",
+      "Kasten": "8",
+      "Fach": "a",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/32851.png"
+  },
+  "35050": {
+    "name": "Kotflügel rot",
+    "description": "Kotflügel rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35050",
+      "Kasten": "8",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35050.png"
+  },
+  "35051": {
+    "name": "Sitz blau / blue",
+    "description": "Sitz blau / blue aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35051",
+      "Kasten": "8",
+      "Fach": "f",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35051.png"
+  },
+  "35068": {
+    "name": "Spurstangengelenk",
+    "description": "Spurstangengelenk aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35068",
+      "Kasten": "8",
+      "Fach": "a",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35068.png"
+  },
+  "35806": {
+    "name": "ft-Männchen, blau/weiß",
+    "description": "ft-Männchen, blau/weiß aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35806",
+      "Kasten": "8",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35806.png"
+  },
+  "35998": {
+    "name": "Lenkklaue",
+    "description": "Lenkklaue aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35998",
+      "Kasten": "8",
+      "Fach": "e",
+      "Anzahl verfügbar": "22"
+    },
+    "imagePath": "assets/images/35998.png"
+  },
+  "38411": {
+    "name": "Schaufelhalter",
+    "description": "Schaufelhalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38411",
+      "Kasten": "8",
+      "Fach": "c",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/38411.png"
+  },
+  "38472": {
+    "name": "Zahnspurstange",
+    "description": "Zahnspurstange aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38472",
+      "Kasten": "8",
+      "Fach": "b",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/38472.png"
+  },
+  "38473": {
+    "name": "Lenkhebel",
+    "description": "Lenkhebel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38473",
+      "Kasten": "8",
+      "Fach": "c",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/38473.png"
+  },
+  "31390": {
+    "name": "Drehkranz-Oberteil",
+    "description": "Drehkranz-Oberteil aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31390",
+      "Kasten": "9",
+      "Fach": "f",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31390.png"
+  },
+  "31391": {
+    "name": "Drehkranz-Unterteil",
+    "description": "Drehkranz-Unterteil aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31391",
+      "Kasten": "9",
+      "Fach": "f",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31391.png"
+  },
+  "31997": {
+    "name": "Seilwindengestell",
+    "description": "Seilwindengestell aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31997",
+      "Kasten": "9",
+      "Fach": "c",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/31997.png"
+  },
+  "31998": {
+    "name": "Seilwindentrommel",
+    "description": "Seilwindentrommel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31998",
+      "Kasten": "9",
+      "Fach": "c",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/31998.png"
+  },
+  "31999": {
+    "name": "Seilwindenbremse",
+    "description": "Seilwindenbremse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31999",
+      "Kasten": "9",
+      "Fach": "c",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/31999.png"
+  },
+  "32085": {
+    "name": "Rollenbock",
+    "description": "Rollenbock aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32085",
+      "Kasten": "9",
+      "Fach": "d",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/32085.png"
+  },
+  "35069": {
+    "name": "Seilwinden-Gestell 30",
+    "description": "Seilwinden-Gestell 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35069",
+      "Kasten": "9",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35069.png"
+  },
+  "35070": {
+    "name": "Seiltrommel für Rastachsen",
+    "description": "Seiltrommel für Rastachsen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35070",
+      "Kasten": "9",
+      "Fach": "c",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35070.png"
+  },
+  "35797": {
+    "name": "Seilrolle ∅21",
+    "description": "Seilrolle ∅21 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35797",
+      "Kasten": "9",
+      "Fach": "e",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/35797.png"
+  },
+  "36573": {
+    "name": "Rad 14",
+    "description": "Rad 14 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36573",
+      "Kasten": "9",
+      "Fach": "a",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/36573.png"
+  },
+  "37636": {
+    "name": "Rollenlager",
+    "description": "Rollenlager aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37636",
+      "Kasten": "9",
+      "Fach": "b",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/37636.png"
+  },
+  "38225": {
+    "name": "Seilhaken",
+    "description": "Seilhaken aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38225",
+      "Kasten": "9",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/38225.png"
+  },
+  "38258": {
+    "name": "Seilrolle ∅12",
+    "description": "Seilrolle ∅12 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38258",
+      "Kasten": "9",
+      "Fach": "g",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/38258.png"
+  },
+  "136775": {
+    "name": "Rastrolle",
+    "description": "Rastrolle aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "136775",
+      "Kasten": "9",
+      "Fach": "g",
+      "Anzahl verfügbar": "14"
+    },
+    "imagePath": "assets/images/136775.png"
+  },
+  "163435": {
+    "name": "Muldenseitenteil silber/silver",
+    "description": "Muldenseitenteil silber/silver aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163435",
+      "Kasten": "9",
+      "Fach": "e",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/163435.png"
+  },
+  "163436": {
+    "name": "Seitenteil silber links",
+    "description": "Seitenteil silber links aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163436",
+      "Kasten": "9",
+      "Fach": "h",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/163436.png"
+  },
+  "163437": {
+    "name": "Seitenteil silber rechts",
+    "description": "Seitenteil silber rechts aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163437",
+      "Kasten": "9",
+      "Fach": "h",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/163437.png"
+  },
+  "163438": {
+    "name": "Verlängerung Seitenteil silber/silver",
+    "description": "Verlängerung Seitenteil silber/silver aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163438",
+      "Kasten": "9",
+      "Fach": "d",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/163438.png"
+  },
+  "172540": {
+    "name": "Muldenklappe 75, silber",
+    "description": "Muldenklappe 75, silber aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172540",
+      "Kasten": "9",
+      "Fach": "b",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/172540.png"
+  },
+  "31023": {
+    "name": "Klemmbuchse 10",
+    "description": "Klemmbuchse 10 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31023",
+      "Kasten": "10",
+      "Fach": "d",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/31023.png"
+  },
+  "31031": {
+    "name": "Metallachse 110",
+    "description": "Metallachse 110 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31031",
+      "Kasten": "10",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31031.png"
+  },
+  "31036": {
+    "name": "Metallachse 125",
+    "description": "Metallachse 125 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31036",
+      "Kasten": "10",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31036.png"
+  },
+  "31040": {
+    "name": "Metallachse 90",
+    "description": "Metallachse 90 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31040",
+      "Kasten": "10",
+      "Fach": "c",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31040.png"
+  },
+  "31597": {
+    "name": "Abstandsring",
+    "description": "Abstandsring aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31597",
+      "Kasten": "10",
+      "Fach": "g",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31597.png"
+  },
+  "31690": {
+    "name": "Rastachse 20, rot",
+    "description": "Rastachse 20, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31690",
+      "Kasten": "10",
+      "Fach": "g",
+      "Anzahl verfügbar": "36"
+    },
+    "imagePath": "assets/images/31690.png"
+  },
+  "31712": {
+    "name": "Mitnehmer",
+    "description": "Mitnehmer aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31712",
+      "Kasten": "10",
+      "Fach": "d",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/31712.png"
+  },
+  "31983": {
+    "name": "Hülse 15",
+    "description": "Hülse 15 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31983",
+      "Kasten": "10",
+      "Fach": "g",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31983.png"
+  },
+  "32316": {
+    "name": "Verbindungsstopfen",
+    "description": "Verbindungsstopfen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32316",
+      "Kasten": "10",
+      "Fach": "h",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/32316.png"
+  },
+  "32870": {
+    "name": "Clipsachse",
+    "description": "Clipsachse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32870",
+      "Kasten": "10",
+      "Fach": "h",
+      "Anzahl verfügbar": "28"
+    },
+    "imagePath": "assets/images/32870.png"
+  },
+  "35063": {
+    "name": "Rastachse 30",
+    "description": "Rastachse 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35063",
+      "Kasten": "10",
+      "Fach": "b",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/35063.png"
+  },
+  "35064": {
+    "name": "Rastachse 45",
+    "description": "Rastachse 45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35064",
+      "Kasten": "10",
+      "Fach": "b",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/35064.png"
+  },
+  "35065": {
+    "name": "Rastachse 60",
+    "description": "Rastachse 60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35065",
+      "Kasten": "10",
+      "Fach": "b",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/35065.png"
+  },
+  "35066": {
+    "name": "Rastachse 90",
+    "description": "Rastachse 90 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35066",
+      "Kasten": "10",
+      "Fach": "b",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/35066.png"
+  },
+  "35073": {
+    "name": "Rastkupplung",
+    "description": "Rastkupplung aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35073",
+      "Kasten": "10",
+      "Fach": "d",
+      "Anzahl verfügbar": "130"
+    },
+    "imagePath": "assets/images/35073.png"
+  },
+  "35087": {
+    "name": "Rastachse 75",
+    "description": "Rastachse 75 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35087",
+      "Kasten": "10",
+      "Fach": "b",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/35087.png"
+  },
+  "35405": {
+    "name": "V-Achse 4x80",
+    "description": "V-Achse 4x80 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35405",
+      "Kasten": "10",
+      "Fach": "g",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35405.png"
+  },
+  "35414": {
+    "name": "V-Achse 4x98",
+    "description": "V-Achse 4x98 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35414",
+      "Kasten": "10",
+      "Fach": "g",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35414.png"
+  },
+  "35971": {
+    "name": "Kardangabel für Rastachsen",
+    "description": "Kardangabel für Rastachsen aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35971",
+      "Kasten": "10",
+      "Fach": "a",
+      "Anzahl verfügbar": "42"
+    },
+    "imagePath": "assets/images/35971.png"
+  },
+  "35972": {
+    "name": "Kardanwürfel",
+    "description": "Kardanwürfel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35972",
+      "Kasten": "10",
+      "Fach": "a",
+      "Anzahl verfügbar": "25"
+    },
+    "imagePath": "assets/images/35972.png"
+  },
+  "35981": {
+    "name": "Hülse mit Scheibe",
+    "description": "Hülse mit Scheibe aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35981",
+      "Kasten": "10",
+      "Fach": "d",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/35981.png"
+  },
+  "36227": {
+    "name": "Rastadapter",
+    "description": "Rastadapter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36227",
+      "Kasten": "10",
+      "Fach": "c",
+      "Anzahl verfügbar": "32"
+    },
+    "imagePath": "assets/images/36227.png"
+  },
+  "36586": {
+    "name": "Radachse",
+    "description": "Radachse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36586",
+      "Kasten": "10",
+      "Fach": "h",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/36586.png"
+  },
+  "37527": {
+    "name": "Rastachse 180",
+    "description": "Rastachse 180 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37527",
+      "Kasten": "10",
+      "Fach": "e",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/37527.png"
+  },
+  "37679": {
+    "name": "Klemmbuchse 5",
+    "description": "Klemmbuchse 5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37679",
+      "Kasten": "10",
+      "Fach": "d",
+      "Anzahl verfügbar": "260"
+    },
+    "imagePath": "assets/images/37679.png"
+  },
+  "38413": {
+    "name": "Kunststoffachse 30",
+    "description": "Kunststoffachse 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38413",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/38413.png"
+  },
+  "38414": {
+    "name": "Kunststoffachse 40",
+    "description": "Kunststoffachse 40 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38414",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "40"
+    },
+    "imagePath": "assets/images/38414.png"
+  },
+  "38415": {
+    "name": "Kunststoffachse 50",
+    "description": "Kunststoffachse 50 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38415",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/38415.png"
+  },
+  "38416": {
+    "name": "Kunststoffachse 60",
+    "description": "Kunststoffachse 60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38416",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/38416.png"
+  },
+  "163203": {
+    "name": "Schlauchadapter D4 abgewinkelt",
+    "description": "Schlauchadapter D4 abgewinkelt aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "163203",
+      "Kasten": "10",
+      "Fach": "h",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/163203.png"
+  },
+  "163518": {
+    "name": "Schlauch LD-PE 6x4 110 mm",
+    "description": "Schlauch LD-PE 6x4 110 mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163518",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/163518.png"
+  },
+  "163519": {
+    "name": "Schlauch LD-PE 6x4 50 mm",
+    "description": "Schlauch LD-PE 6x4 50 mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163519",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/163519.png"
+  },
+  "172541": {
+    "name": "Radachse, schwarz",
+    "description": "Radachse, schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172541",
+      "Kasten": "10",
+      "Fach": "h",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/172541.png"
+  },
+  "172548": {
+    "name": "Schlauch LD-PE 6x4x30",
+    "description": "Schlauch LD-PE 6x4x30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "172548",
+      "Kasten": "10",
+      "Fach": "f",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/172548.png"
+  },
+  "185795": {
+    "name": "Metallachse 90 mit Einstich",
+    "description": "Metallachse 90 mit Einstich aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "185795",
+      "Kasten": "10",
+      "Fach": "a",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/185795.png"
+  },
+  "31019": {
+    "name": "Drehscheibe 60",
+    "description": "Drehscheibe 60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31019",
+      "Kasten": "11",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31019.png"
+  },
+  "31021": {
+    "name": "Zahnrad Z20",
+    "description": "Zahnrad Z20 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31021",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/31021.png"
+  },
+  "31022": {
+    "name": "Zahnrad Z40/32",
+    "description": "Zahnrad Z40/32 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31022",
+      "Kasten": "11",
+      "Fach": "h",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/31022.png"
+  },
+  "31053": {
+    "name": "Zahnstange M1,5 60",
+    "description": "Zahnstange M1,5 60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31053",
+      "Kasten": "11",
+      "Fach": "b",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/31053.png"
+  },
+  "31054": {
+    "name": "Zahnstange M1,5 30",
+    "description": "Zahnstange M1,5 30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31054",
+      "Kasten": "11",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31054.png"
+  },
+  "31058": {
+    "name": "Nabenmutter mit Scheibe",
+    "description": "Nabenmutter mit Scheibe aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31058",
+      "Kasten": "11",
+      "Fach": "c",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/31058.png"
+  },
+  "31411": {
+    "name": "Differential Käfig Z26",
+    "description": "Differential Käfig Z26 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31411",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31411.png"
+  },
+  "31412": {
+    "name": "Differential Planetenrad Z10",
+    "description": "Differential Planetenrad Z10 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31412",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31412.png"
+  },
+  "31413": {
+    "name": "Differential Abtriebsrad Z10",
+    "description": "Differential Abtriebsrad Z10 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31413",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31413.png"
+  },
+  "31779": {
+    "name": "Kettenrad Z20",
+    "description": "Kettenrad Z20 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31779",
+      "Kasten": "11",
+      "Fach": "f",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31779.png"
+  },
+  "35031": {
+    "name": "Flachnabenzange",
+    "description": "Flachnabenzange aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35031",
+      "Kasten": "11",
+      "Fach": "c",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/35031.png"
+  },
+  "35033": {
+    "name": "Nabenmutter rot",
+    "description": "Nabenmutter rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35033",
+      "Kasten": "11",
+      "Fach": "c",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/35033.png"
+  },
+  "35061": {
+    "name": "Rastachse mit Kegelzahnrad",
+    "description": "Rastachse mit Kegelzahnrad aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35061",
+      "Kasten": "11",
+      "Fach": "a",
+      "Anzahl verfügbar": "52"
+    },
+    "imagePath": "assets/images/35061.png"
+  },
+  "35062": {
+    "name": "Kegelzahnrad mit Hülse",
+    "description": "Kegelzahnrad mit Hülse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35062",
+      "Kasten": "11",
+      "Fach": "a",
+      "Anzahl verfügbar": "32"
+    },
+    "imagePath": "assets/images/35062.png"
+  },
+  "35072": {
+    "name": "Rastschnecke",
+    "description": "Rastschnecke aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35072",
+      "Kasten": "11",
+      "Fach": "f",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35072.png"
+  },
+  "35112": {
+    "name": "Ritzel Z10, M1,5",
+    "description": "Ritzel Z10, M1,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35112",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35112.png"
+  },
+  "35466": {
+    "name": "Nockenscheibe schwarz",
+    "description": "Nockenscheibe schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35466",
+      "Kasten": "11",
+      "Fach": "e",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35466.png"
+  },
+  "35694": {
+    "name": "Innenzahnrad Z30",
+    "description": "Innenzahnrad Z30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35694",
+      "Kasten": "11",
+      "Fach": "e",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/35694.png"
+  },
+  "35695": {
+    "name": "Zahnrad Z15",
+    "description": "Zahnrad Z15 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35695",
+      "Kasten": "11",
+      "Fach": "f",
+      "Anzahl verfügbar": "32"
+    },
+    "imagePath": "assets/images/35695.png"
+  },
+  "35945": {
+    "name": "Rast-Ritzel Z10, m=1,5",
+    "description": "Rast-Ritzel Z10, m=1,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35945",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/35945.png"
+  },
+  "35982": {
+    "name": "Deckel für Differential Käfig",
+    "description": "Deckel für Differential Käfig aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35982",
+      "Kasten": "11",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35982.png"
+  },
+  "36264": {
+    "name": "Zahnrad Z30",
+    "description": "Zahnrad Z30 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36264",
+      "Kasten": "11",
+      "Fach": "g",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/36264.png"
+  },
+  "68535": {
+    "name": "Freilaufnabe schwarz",
+    "description": "Freilaufnabe schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "68535",
+      "Kasten": "11",
+      "Fach": "e",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/68535.png"
+  },
+  "137196": {
+    "name": "Differentialrad Motor XM",
+    "description": "Differentialrad Motor XM aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "137196",
+      "Kasten": "11",
+      "Fach": "a",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/137196.png"
+  },
+  "137677": {
+    "name": "Rastkettenrad Z20",
+    "description": "Rastkettenrad Z20 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "137677",
+      "Kasten": "11",
+      "Fach": "a",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/137677.png"
+  },
+  "31063": {
+    "name": "U-Achse 60 mit Zahnrad Z28",
+    "description": "U-Achse 60 mit Zahnrad Z28 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31063",
+      "Kasten": "12",
+      "Fach": "c",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/31063.png"
+  },
+  "31064": {
+    "name": "U-Achse 40 mit Zahnrad Z28",
+    "description": "U-Achse 40 mit Zahnrad Z28 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31064",
+      "Kasten": "12",
+      "Fach": "c",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/31064.png"
+  },
+  "31078": {
+    "name": "U-Getriebe",
+    "description": "U-Getriebe aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31078",
+      "Kasten": "12",
+      "Fach": "c",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/31078.png"
+  },
+  "31082": {
+    "name": "Rastachse mit Zahnrad Z28, m=0,5",
+    "description": "Rastachse mit Zahnrad Z28, m=0,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31082",
+      "Kasten": "12",
+      "Fach": "c",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/31082.png"
+  },
+  "31915": {
+    "name": "Zangenmutter",
+    "description": "Zangenmutter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31915",
+      "Kasten": "12",
+      "Fach": "e",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/31915.png"
+  },
+  "32293": {
+    "name": "Mini Motor, 9.500 U/min- 0,15 Ncm",
+    "description": "Mini Motor, 9.500 U/min- 0,15 Ncm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32293",
+      "Kasten": "12",
+      "Fach": "d",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/32293.png"
+  },
+  "35088": {
+    "name": "Gelenkkurbel",
+    "description": "Gelenkkurbel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35088",
+      "Kasten": "12",
+      "Fach": "f",
+      "Anzahl verfügbar": "22"
+    },
+    "imagePath": "assets/images/35088.png"
+  },
+  "35113": {
+    "name": "Spannzange",
+    "description": "Spannzange aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35113",
+      "Kasten": "12",
+      "Fach": "e",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/35113.png"
+  },
+  "35973": {
+    "name": "Schneckenmutter m=1",
+    "description": "Schneckenmutter m=1 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35973",
+      "Kasten": "12",
+      "Fach": "f",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/35973.png"
+  },
+  "35977": {
+    "name": "Rastachse mit Schnecke m=1",
+    "description": "Rastachse mit Schnecke m=1 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35977",
+      "Kasten": "12",
+      "Fach": "f",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/35977.png"
+  },
+  "36337": {
+    "name": "Luftschraube mit 4 Flügeln",
+    "description": "Luftschraube mit 4 Flügeln aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36337",
+      "Kasten": "12",
+      "Fach": "g",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36337.png"
+  },
+  "37681": {
+    "name": "Adapterspitze für Luftschrauben",
+    "description": "Adapterspitze für Luftschrauben aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37681",
+      "Kasten": "12",
+      "Fach": "g",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/37681.png"
+  },
+  "37858": {
+    "name": "Klemmbare Schnecke m=1,5",
+    "description": "Klemmbare Schnecke m=1,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37858",
+      "Kasten": "12",
+      "Fach": "e",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/37858.png"
+  },
+  "37925": {
+    "name": "Schneckenmutter m=1,5",
+    "description": "Schneckenmutter m=1,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37925",
+      "Kasten": "12",
+      "Fach": "f",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/37925.png"
+  },
+  "37926": {
+    "name": "Schneckenteil m=1,5",
+    "description": "Schneckenteil m=1,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37926",
+      "Kasten": "12",
+      "Fach": "e",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/37926.png"
+  },
+  "135485": {
+    "name": "Motor XM 9V, 338 U/min-8,4 Ncm",
+    "description": "Motor XM 9V, 338 U/min-8,4 Ncm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "135485",
+      "Kasten": "12",
+      "Fach": "h",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/135485.png"
+  },
+  "137096": {
+    "name": "Motor XS, 5995 U/min-0,15 Ncm",
+    "description": "Motor XS, 5995 U/min-0,15 Ncm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "137096",
+      "Kasten": "12",
+      "Fach": "b",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/137096.png"
+  },
+  "153422": {
+    "name": "Encodermotor, rot",
+    "description": "Encodermotor, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "153422",
+      "Kasten": "12",
+      "Fach": "d",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/153422.png"
+  },
+  "156108": {
+    "name": "Luftschraube 100 grün",
+    "description": "Luftschraube 100 grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "156108",
+      "Kasten": "12",
+      "Fach": "g",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/156108.png"
+  },
+  "31790": {
+    "name": "Raupenbelag weich / soft",
+    "description": "Raupenbelag weich / soft aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31790",
+      "Kasten": "13",
+      "Fach": "f + g",
+      "Anzahl verfügbar": "350"
+    },
+    "imagePath": "assets/images/31790.png"
+  },
+  "36248": {
+    "name": "Rastkettenglied 11,5 rot",
+    "description": "Rastkettenglied 11,5 rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36248",
+      "Kasten": "13",
+      "Fach": "c",
+      "Anzahl verfügbar": "1200"
+    },
+    "imagePath": "assets/images/36248.png"
+  },
+  "119850": {
+    "name": "Magnetischer Kugelhalter",
+    "description": "Magnetischer Kugelhalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "119850",
+      "Kasten": "13",
+      "Fach": "d",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/119850.png"
+  },
+  "128659": {
+    "name": "Rastkettenglied 13,5 schwarz",
+    "description": "Rastkettenglied 13,5 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "128659",
+      "Kasten": "13",
+      "Fach": "h",
+      "Anzahl verfügbar": "700"
+    },
+    "imagePath": "assets/images/128659.png"
+  },
+  "144262": {
+    "name": "Stahlkugel D12,5",
+    "description": "Stahlkugel D12,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "144262",
+      "Kasten": "13",
+      "Fach": "d",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/144262.png"
+  },
+  "151715": {
+    "name": "90 Grad Kurve",
+    "description": "90 Grad Kurve aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "151715",
+      "Kasten": "13",
+      "Fach": "a",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/151715.png"
+  },
+  "151716": {
+    "name": "Wechselweiche Unterteil",
+    "description": "Wechselweiche Unterteil aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "151716",
+      "Kasten": "13",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/151716.png"
+  },
+  "151717": {
+    "name": "Wechselweiche Hebel",
+    "description": "Wechselweiche Hebel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "151717",
+      "Kasten": "13",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/151717.png"
+  },
+  "155901": {
+    "name": "Flexprofil 90, grün",
+    "description": "Flexprofil 90, grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "155901",
+      "Kasten": "13",
+      "Fach": "e",
+      "Anzahl verfügbar": "30"
+    },
+    "imagePath": "assets/images/155901.png"
+  },
+  "158962": {
+    "name": "180° Kurve, grün",
+    "description": "180° Kurve, grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "158962",
+      "Kasten": "13",
+      "Fach": "a",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/158962.png"
+  },
+  "167370": {
+    "name": "Weichenzunge klein",
+    "description": "Weichenzunge klein aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167370",
+      "Kasten": "13",
+      "Fach": "b",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/167370.png"
+  },
+  "174118": {
+    "name": "Gausskanone",
+    "description": "Gausskanone aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "174118",
+      "Kasten": "13",
+      "Fach": "d",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/174118.png"
+  },
+  "31422": {
+    "name": "Achsadapter",
+    "description": "Achsadapter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31422",
+      "Kasten": "14",
+      "Fach": "f",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/31422.png"
+  },
+  "31642": {
+    "name": "T-Stück, blau, Pneumatik",
+    "description": "T-Stück, blau, Pneumatik aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31642",
+      "Kasten": "14",
+      "Fach": "h",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/31642.png"
+  },
+  "36915": {
+    "name": "Winkelanschluß",
+    "description": "Winkelanschluß aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36915",
+      "Kasten": "14",
+      "Fach": "e",
+      "Anzahl verfügbar": "24"
+    },
+    "imagePath": "assets/images/36915.png"
+  },
+  "36934": {
+    "name": "Pneumatik - Handventil",
+    "description": "Pneumatik - Handventil aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36934",
+      "Kasten": "14",
+      "Fach": "g",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/36934.png"
+  },
+  "36938": {
+    "name": "Pneumatik Zylinder 60",
+    "description": "Pneumatik Zylinder 60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36938",
+      "Kasten": "14",
+      "Fach": "b",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/36938.png"
+  },
+  "36970": {
+    "name": "Rückschlagventil schwarz",
+    "description": "Rückschlagventil schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36970",
+      "Kasten": "14",
+      "Fach": "f",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/36970.png"
+  },
+  "121470": {
+    "name": "Kompressor 9V komplett montiert",
+    "description": "Kompressor 9V komplett montiert aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "121470",
+      "Kasten": "14",
+      "Fach": "d",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/121470.png"
+  },
+  "121640": {
+    "name": "Schlauchanschluss Kompressor",
+    "description": "Schlauchanschluss Kompressor aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "121640",
+      "Kasten": "14",
+      "Fach": "d",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/121640.png"
+  },
+  "122641": {
+    "name": "Pneumatik Zylinder 45",
+    "description": "Pneumatik Zylinder 45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "122641",
+      "Kasten": "14",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/122641.png"
+  },
+  "133027": {
+    "name": "Zylinder 60 mit Feder",
+    "description": "Zylinder 60 mit Feder aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "133027",
+      "Kasten": "14",
+      "Fach": "b",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/133027.png"
+  },
+  "154485": {
+    "name": "TT-Ball",
+    "description": "TT-Ball aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "154485",
+      "Kasten": "14",
+      "Fach": "h",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/154485.png"
+  },
+  "156493": {
+    "name": "Druckluftspeicher, schwarz",
+    "description": "Druckluftspeicher, schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "156493",
+      "Kasten": "14",
+      "Fach": "h",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/156493.png"
+  },
+  "167983": {
+    "name": "Zylinderrohr 44 mit Deckel",
+    "description": "Zylinderrohr 44 mit Deckel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167983",
+      "Kasten": "14",
+      "Fach": "b",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/167983.png"
+  },
+  "180925": {
+    "name": "Abluftdrossel Gehäuse",
+    "description": "Abluftdrossel Gehäuse aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "180925",
+      "Kasten": "14",
+      "Fach": "f",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/180925.png"
+  },
+  "180926": {
+    "name": "Abluftdrossel Schraube",
+    "description": "Abluftdrossel Schraube aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "180926",
+      "Kasten": "14",
+      "Fach": "f",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/180926.png"
+  },
+  "180927": {
+    "name": "Pneumatikschlauch blau, 3700mm",
+    "description": "Pneumatikschlauch blau, 3700mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "180927",
+      "Kasten": "14",
+      "Fach": "a +c",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/180927.png"
+  },
+  "32698": {
+    "name": "Foto-Widerstand",
+    "description": "Foto-Widerstand aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32698",
+      "Kasten": "15",
+      "Fach": "a",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/32698.png"
+  },
+  "35077": {
+    "name": "Rastleuchtkappe blau",
+    "description": "Rastleuchtkappe blau aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35077",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35077.png"
+  },
+  "35078": {
+    "name": "Rastleuchtkappe orange",
+    "description": "Rastleuchtkappe orange aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35078",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35078.png"
+  },
+  "35079": {
+    "name": "Rastleuchtkappe rot",
+    "description": "Rastleuchtkappe rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35079",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35079.png"
+  },
+  "35084": {
+    "name": "Rastleuchtkappe grün",
+    "description": "Rastleuchtkappe grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35084",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/35084.png"
+  },
+  "35086": {
+    "name": "Rastleuchtkappe transparent",
+    "description": "Rastleuchtkappe transparent aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35086",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/35086.png"
+  },
+  "35969": {
+    "name": "Reedkontakt- und Kabelhalter",
+    "description": "Reedkontakt- und Kabelhalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35969",
+      "Kasten": "15",
+      "Fach": "c",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/35969.png"
+  },
+  "36134": {
+    "name": "Fototransistor montiert",
+    "description": "Fototransistor montiert aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36134",
+      "Kasten": "15",
+      "Fach": "a",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36134.png"
+  },
+  "36437": {
+    "name": "NTC-Widerstand 1,5 kΩ NTC resistor  1,5 kΩ",
+    "description": "NTC-Widerstand 1,5 kΩ NTC resistor  1,5 kΩ aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36437",
+      "Kasten": "15",
+      "Fach": "d",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/36437.png"
+  },
+  "36443": {
+    "name": "Schraubendreher",
+    "description": "Schraubendreher aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36443",
+      "Kasten": "15",
+      "Fach": "e",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/36443.png"
+  },
+  "36532": {
+    "name": "Störlichtkappe, Öffnung 6",
+    "description": "Störlichtkappe, Öffnung 6 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36532",
+      "Kasten": "15",
+      "Fach": "a",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36532.png"
+  },
+  "36708": {
+    "name": "Polwendeschalter",
+    "description": "Polwendeschalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36708",
+      "Kasten": "15",
+      "Fach": "c",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36708.png"
+  },
+  "37783": {
+    "name": "Mini-Taster",
+    "description": "Mini-Taster aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "37783",
+      "Kasten": "15",
+      "Fach": "a",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/37783.png"
+  },
+  "38216": {
+    "name": "Leuchtstein mit Steckfassung",
+    "description": "Leuchtstein mit Steckfassung aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "38216",
+      "Kasten": "15",
+      "Fach": "b",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/38216.png"
+  },
+  "122900": {
+    "name": "Servolasche",
+    "description": "Servolasche aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "122900",
+      "Kasten": "15",
+      "Fach": "e",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/122900.png"
+  },
+  "132004": {
+    "name": "Servohebel",
+    "description": "Servohebel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "132004",
+      "Kasten": "15",
+      "Fach": "e",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/132004.png"
+  },
+  "132290": {
+    "name": "Servohalter",
+    "description": "Servohalter aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "132290",
+      "Kasten": "15",
+      "Fach": "e",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/132290.png"
+  },
+  "132292": {
+    "name": "Micro Servo 4,8/ 9V",
+    "description": "Micro Servo 4,8/ 9V aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "132292",
+      "Kasten": "15",
+      "Fach": "e",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/132292.png"
+  },
+  "161943": {
+    "name": "Empfänger BT Conrol Set",
+    "description": "Empfänger BT Conrol Set aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "161943",
+      "Kasten": "15",
+      "Fach": "c",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/161943.png"
+  },
+  "161944": {
+    "name": "BT Smart Controller",
+    "description": "BT Smart Controller aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "161944",
+      "Kasten": "15",
+      "Fach": "f",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/161944.png"
+  },
+  "162134": {
+    "name": "LED mit Sockel",
+    "description": "LED mit Sockel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "162134",
+      "Kasten": "15",
+      "Fach": "b",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/162134.png"
+  },
+  "162135": {
+    "name": "Lichtschranke LED",
+    "description": "Lichtschranke LED aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "162135",
+      "Kasten": "15",
+      "Fach": "b",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/162135.png"
+  },
+  "162136": {
+    "name": "Rainbow LED mit Sockel",
+    "description": "Rainbow LED mit Sockel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "162136",
+      "Kasten": "15",
+      "Fach": "b",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/162136.png"
+  },
+  "173067": {
+    "name": "TXT 4.0 Controller",
+    "description": "TXT 4.0 Controller aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "173067",
+      "Kasten": "15",
+      "Fach": "g",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/173067.png"
+  },
+  "181583": {
+    "name": "Flachstecker grün",
+    "description": "Flachstecker grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "181583",
+      "Kasten": "15",
+      "Fach": "h",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/181583.png"
+  },
+  "181584": {
+    "name": "Flachstecker rot",
+    "description": "Flachstecker rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "181584",
+      "Kasten": "15",
+      "Fach": "h",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/181584.png"
+  },
+  "32854": {
+    "name": "U-Träger 150 schwarz",
+    "description": "U-Träger 150 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32854",
+      "Kasten": "Box 5",
+      "Fach": "klein",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/32854.png"
+  },
+  "32859": {
+    "name": "Bodenplatte 30x90, rot",
+    "description": "Bodenplatte 30x90, rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32859",
+      "Kasten": "Box 5",
+      "Fach": "klein",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/32859.png"
+  },
+  "32879": {
+    "name": "Baustein 30 schwarz",
+    "description": "Baustein 30 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32879",
+      "Kasten": "Box 1",
+      "Fach": "klein",
+      "Anzahl verfügbar": "100"
+    },
+    "imagePath": "assets/images/32879.png"
+  },
+  "32913": {
+    "name": "Reifen 50",
+    "description": "Reifen 50 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32913",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/32913.png"
+  },
+  "34995": {
+    "name": "Reifen 32,5 Tyre 32,5",
+    "description": "Reifen 32,5 Tyre 32,5 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "34995",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/34995.png"
+  },
+  "35129": {
+    "name": "Grundplatte schwarz 120x60",
+    "description": "Grundplatte schwarz 120x60 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35129",
+      "Kasten": "Box 5",
+      "Fach": "klein",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/35129.png"
+  },
+  "35537": {
+    "name": "Akkupack NiMH 8,4 V 1500  mA",
+    "description": "Akkupack NiMH 8,4 V 1500  mA aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35537",
+      "Kasten": "Box 9",
+      "Fach": "groß",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/35537.png"
+  },
+  "36293": {
+    "name": "Winkelträger 120 schwarz",
+    "description": "Winkelträger 120 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36293",
+      "Kasten": "Box 2",
+      "Fach": "groß",
+      "Anzahl verfügbar": "170"
+    },
+    "imagePath": "assets/images/36293.png"
+  },
+  "36574": {
+    "name": "Rad 23 schwarz",
+    "description": "Rad 23 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36574",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/36574.png"
+  },
+  "36576": {
+    "name": "Grundplatte 90x45",
+    "description": "Grundplatte 90x45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36576",
+      "Kasten": "Box 5",
+      "Fach": "klein",
+      "Anzahl verfügbar": "5"
+    },
+    "imagePath": "assets/images/36576.png"
+  },
+  "36593": {
+    "name": "Grundplatte 45x45",
+    "description": "Grundplatte 45x45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36593",
+      "Kasten": "Box 5",
+      "Fach": "klein",
+      "Anzahl verfügbar": "5"
+    },
+    "imagePath": "assets/images/36593.png"
+  },
+  "36920": {
+    "name": "Winkelträger 30 schwarz",
+    "description": "Winkelträger 30 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36920",
+      "Kasten": "Box 4",
+      "Fach": "klein",
+      "Anzahl verfügbar": "270"
+    },
+    "imagePath": "assets/images/36920.png"
+  },
+  "36921": {
+    "name": "Winkelträger 60 schwarz",
+    "description": "Winkelträger 60 schwarz aus dem fischertechnik Sortiment.",
+    "category": "Winkelträger",
+    "technicalDetails": {
+      "Teile-Nr": "36921",
+      "Kasten": "Box 3",
+      "Fach": "klein",
+      "Anzahl verfügbar": "130"
+    },
+    "imagePath": "assets/images/36921.png"
+  },
+  "36925": {
+    "name": "Schaufel rot",
+    "description": "Schaufel rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36925",
+      "Kasten": "Box 8",
+      "Fach": "klein",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/36925.png"
+  },
+  "106766": {
+    "name": "Traktorreifen D80",
+    "description": "Traktorreifen D80 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "106766",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/106766.png"
+  },
+  "116251": {
+    "name": "Baustein 30 rot",
+    "description": "Baustein 30 rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "116251",
+      "Kasten": "Box 1",
+      "Fach": "klein",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/116251.png"
+  },
+  "116913": {
+    "name": "Felge 30 silber",
+    "description": "Felge 30 silber aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "116913",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "16"
+    },
+    "imagePath": "assets/images/116913.png"
+  },
+  "122646": {
+    "name": "Rasterfelge 43 silber",
+    "description": "Rasterfelge 43 silber aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "122646",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/122646.png"
+  },
+  "135719": {
+    "name": "Batteriehalter (9V Block)",
+    "description": "Batteriehalter (9V Block) aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "135719",
+      "Kasten": "Box 9",
+      "Fach": "groß",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/135719.png"
+  },
+  "136528": {
+    "name": "Baustein 30 gelb",
+    "description": "Baustein 30 gelb aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "136528",
+      "Kasten": "Box 1",
+      "Fach": "klein",
+      "Anzahl verfügbar": "50"
+    },
+    "imagePath": "assets/images/136528.png"
+  },
+  "139778": {
+    "name": "Regler Power Set",
+    "description": "Regler Power Set aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "139778",
+      "Kasten": "Box 9",
+      "Fach": "groß",
+      "Anzahl verfügbar": "3"
+    },
+    "imagePath": "assets/images/139778.png"
+  },
+  "142251": {
+    "name": "Reifen 35 x 15",
+    "description": "Reifen 35 x 15 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "142251",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "48"
+    },
+    "imagePath": "assets/images/142251.png"
+  },
+  "143231": {
+    "name": "Felge 20,4 x 12 rot",
+    "description": "Felge 20,4 x 12 rot aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "143231",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "26"
+    },
+    "imagePath": "assets/images/143231.png"
+  },
+  "143234": {
+    "name": "Flexprofil 180, grün",
+    "description": "Flexprofil 180, grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "143234",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "60"
+    },
+    "imagePath": "assets/images/143234.png"
+  },
+  "155902": {
+    "name": "Trichter, Kugelbahn, grün",
+    "description": "Trichter, Kugelbahn, grün aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "155902",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "5"
+    },
+    "imagePath": "assets/images/155902.png"
+  },
+  "156104": {
+    "name": "Baggerlöffel 45, silber",
+    "description": "Baggerlöffel 45, silber aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "156104",
+      "Kasten": "Box 8",
+      "Fach": "klein",
+      "Anzahl verfügbar": "10"
+    },
+    "imagePath": "assets/images/156104.png"
+  },
+  "159783": {
+    "name": "Highspeed Flexprofil 175 mm",
+    "description": "Highspeed Flexprofil 175 mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "159783",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/159783.png"
+  },
+  "163205": {
+    "name": "Felge 40",
+    "description": "Felge 40 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163205",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/163205.png"
+  },
+  "163206": {
+    "name": "Reifen 65",
+    "description": "Reifen 65 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "163206",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/163206.png"
+  },
+  "167367": {
+    "name": "Flexschlauch",
+    "description": "Flexschlauch aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167367",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/167367.png"
+  },
+  "167368": {
+    "name": "Kupplung für Flexschlauch",
+    "description": "Kupplung für Flexschlauch aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167368",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/167368.png"
+  },
+  "167369": {
+    "name": "Adapter für Flexschlauch",
+    "description": "Adapter für Flexschlauch aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167369",
+      "Kasten": "Box 7",
+      "Fach": "groß",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/167369.png"
+  },
+  "183025": {
+    "name": "Omniwheel Felge Außenring",
+    "description": "Omniwheel Felge Außenring aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "183025",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/183025.png"
+  },
+  "183026": {
+    "name": "Omniwheel Felge Innenring",
+    "description": "Omniwheel Felge Innenring aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "183026",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/183026.png"
+  },
+  "183027": {
+    "name": "Omniwheel Walze",
+    "description": "Omniwheel Walze aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "183027",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/183027.png"
+  },
+  "183028": {
+    "name": "Omniwheel Lagerkugel",
+    "description": "Omniwheel Lagerkugel aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "183028",
+      "Kasten": "Box 6",
+      "Fach": "groß",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/183028.png"
+  },
+  "505287": {
+    "name": "Power Netzgerät 9V",
+    "description": "Power Netzgerät 9V aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "505287",
+      "Kasten": "Box 9",
+      "Fach": "groß",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/505287.png"
+  },
+  "522460": {
+    "name": "Ladegerät 8,4 V / 700 mA (2013)",
+    "description": "Ladegerät 8,4 V / 700 mA (2013) aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "522460",
+      "Kasten": "Box 9",
+      "Fach": "groß",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/522460.png"
+  },
+  "31027": {
+    "name": "Seil blau 2000 mm",
+    "description": "Seil blau 2000 mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31027",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "8"
+    },
+    "imagePath": "assets/images/31027.png"
+  },
+  "31360": {
+    "name": "Kabel, Doppellitze 2000 mm",
+    "description": "Kabel, Doppellitze 2000 mm aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "31360",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "12"
+    },
+    "imagePath": "assets/images/31360.png"
+  },
+  "36120": {
+    "name": "Reedkontakt",
+    "description": "Reedkontakt aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36120",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/36120.png"
+  },
+  "36356": {
+    "name": "Zwischensteg für Box 500,  lang",
+    "description": "Zwischensteg für Box 500,  lang aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36356",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36356.png"
+  },
+  "36357": {
+    "name": "Zwischensteg für Box 500, kurz",
+    "description": "Zwischensteg für Box 500, kurz aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36357",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/36357.png"
+  },
+  "36360": {
+    "name": "Box 258x186",
+    "description": "Box 258x186 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36360",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/36360.png"
+  },
+  "36981": {
+    "name": "O - Ring 54 x 1,5 Silicon",
+    "description": "O - Ring 54 x 1,5 Silicon aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36981",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/36981.png"
+  },
+  "128598": {
+    "name": "IR-Spursensor",
+    "description": "IR-Spursensor aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "128598",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/128598.png"
+  },
+  "128599": {
+    "name": "Farbsensor",
+    "description": "Farbsensor aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "128599",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "2"
+    },
+    "imagePath": "assets/images/128599.png"
+  },
+  "133009": {
+    "name": "Ultraschall-Sensor",
+    "description": "Ultraschall-Sensor aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "133009",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/133009.png"
+  },
+  "137103": {
+    "name": "O - Ring 108",
+    "description": "O - Ring 108 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "137103",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "6"
+    },
+    "imagePath": "assets/images/137103.png"
+  },
+  "137125": {
+    "name": "Encoderkabel 3adrig",
+    "description": "Encoderkabel 3adrig aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "137125",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/137125.png"
+  },
+  "152522": {
+    "name": "USB-Kamera",
+    "description": "USB-Kamera aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "152522",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/152522.png"
+  },
+  "167984": {
+    "name": "Druckfeder 0,35x5,1x45",
+    "description": "Druckfeder 0,35x5,1x45 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "167984",
+      "Kasten": "Box 500",
+      "Fach": "",
+      "Anzahl verfügbar": "4"
+    },
+    "imagePath": "assets/images/167984.png"
+  },
+  "35602": {
+    "name": "Grundplatte 390x270",
+    "description": "Grundplatte 390x270 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "35602",
+      "Kasten": "Alle",
+      "Fach": "",
+      "Anzahl verfügbar": "15"
+    },
+    "imagePath": "assets/images/35602.png"
+  },
+  "36497": {
+    "name": "Box 390x270",
+    "description": "Box 390x270 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36497",
+      "Kasten": "Alle",
+      "Fach": "",
+      "Anzahl verfügbar": "15"
+    },
+    "imagePath": "assets/images/36497.png"
+  },
+  "36587": {
+    "name": "Sortierwanne 128x188",
+    "description": "Sortierwanne 128x188 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36587",
+      "Kasten": "Alle",
+      "Fach": "",
+      "Anzahl verfügbar": "120"
+    },
+    "imagePath": "assets/images/36587.png"
+  },
+  "36588": {
+    "name": "Zwischenwand",
+    "description": "Zwischenwand aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "36588",
+      "Kasten": "Alle",
+      "Fach": "",
+      "Anzahl verfügbar": "200"
+    },
+    "imagePath": "assets/images/36588.png"
+  },
+  "32985": {
+    "name": "Grundplatte 258x186",
+    "description": "Grundplatte 258x186 aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "32985",
+      "Kasten": "Schrank",
+      "Fach": "",
+      "Anzahl verfügbar": "20"
+    },
+    "imagePath": "assets/images/32985.png"
+  },
+  "188047": {
+    "name": "Parcours Hightech",
+    "description": "Parcours Hightech aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "188047",
+      "Kasten": "Schrank",
+      "Fach": "",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/188047.png"
+  },
+  "188845": {
+    "name": "Parcours Robotics Smarttech",
+    "description": "Parcours Robotics Smarttech aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "188845",
+      "Kasten": "Schrank",
+      "Fach": "",
+      "Anzahl verfügbar": "1"
+    },
+    "imagePath": "assets/images/188845.png"
+  },
+  "188460": {
+    "name": "Barcode",
+    "description": "Barcode aus dem fischertechnik Sortiment.",
+    "category": "Baustein",
+    "technicalDetails": {
+      "Teile-Nr": "188460",
+      "Kasten": "Schrank",
+      "Fach": "",
+      "Anzahl verfügbar": "0"
+    },
+    "imagePath": "assets/images/188460.png"
+  }
+}
