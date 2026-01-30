@@ -1,5 +1,6 @@
 import cv2
 import os
+import sys
 import time
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
@@ -7,7 +8,14 @@ import json
 import shutil
 
 # --- KONFIGURATION ---
-script_dir = os.path.dirname(os.path.abspath(__file__))
+# Wichtig für PyInstaller: Pfad zur .exe verwenden, nicht zum temp-Ordner
+if getattr(sys, 'frozen', False):
+    # Läuft als .exe
+    script_dir = os.path.dirname(sys.executable)
+else:
+    # Läuft als .py Script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
 base_dir = os.path.join(script_dir, 'trainingsdaten')
 classes_file = os.path.join(script_dir, 'classes.json')
 # ---------------------
