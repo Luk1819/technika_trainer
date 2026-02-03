@@ -28,7 +28,7 @@ class PartInfo {
         'Fach': 'a + c + d',
         'Anzahl verfügbar': '200',
       },
-      imagePath: 'assets/images/32064.png',
+      imagePath: 'assets/images/32064.jpg',
     ),
     '32321': PartInfo(
       name: 'Baustein 15 mit Ansenkung',
@@ -40,7 +40,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/32321.png',
+      imagePath: 'assets/images/32321.jpg',
     ),
     '32881': PartInfo(
       name: 'Baustein 15,  1 Zapfen',
@@ -52,7 +52,7 @@ class PartInfo {
         'Fach': 'f + g + h',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/32881.png',
+      imagePath: 'assets/images/32881.jpg',
     ),
     '32882': PartInfo(
       name: 'Baustein 15,  2 Zapfen',
@@ -64,7 +64,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/32882.png',
+      imagePath: 'assets/images/32882.jpg',
     ),
     '108278': PartInfo(
       name: 'Magnetbaustein',
@@ -76,7 +76,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/108278.png',
+      imagePath: 'assets/images/108278.jpg',
     ),
     '116252': PartInfo(
       name: 'Baustein 15, rot',
@@ -88,7 +88,7 @@ class PartInfo {
         'Fach': 'f + g + h',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/116252.png',
+      imagePath: 'assets/images/116252.jpg',
     ),
     '136529': PartInfo(
       name: 'Baustein 15, gelb',
@@ -100,7 +100,7 @@ class PartInfo {
         'Fach': 'f + g + h',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/136529.png',
+      imagePath: 'assets/images/136529.jpg',
     ),
     '32850': PartInfo(
       name: 'Riegelstein 15x15',
@@ -112,7 +112,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '70',
       },
-      imagePath: 'assets/images/32850.png',
+      imagePath: 'assets/images/32850.jpg',
     ),
     '35979': PartInfo(
       name: 'U-Träger Adapter',
@@ -124,7 +124,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/35979.png',
+      imagePath: 'assets/images/35979.jpg',
     ),
     '36922': PartInfo(
       name: 'Winkelträger 15,  1 Zapfen schwarz',
@@ -136,7 +136,7 @@ class PartInfo {
         'Fach': 'a + c+ d',
         'Anzahl verfügbar': '220',
       },
-      imagePath: 'assets/images/36922.png',
+      imagePath: 'assets/images/36922.jpg',
     ),
     '36950': PartInfo(
       name: 'Winkelträger 15,  2 Zapfen schwarz',
@@ -148,7 +148,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '120',
       },
-      imagePath: 'assets/images/36950.png',
+      imagePath: 'assets/images/36950.jpg',
     ),
     '36973': PartInfo(
       name: 'Statikstein rot',
@@ -160,7 +160,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '70',
       },
-      imagePath: 'assets/images/36973.png',
+      imagePath: 'assets/images/36973.jpg',
     ),
     '38240': PartInfo(
       name: 'Baustein V15 Eck',
@@ -172,7 +172,7 @@ class PartInfo {
         'Fach': 'f + h',
         'Anzahl verfügbar': '150',
       },
-      imagePath: 'assets/images/38240.png',
+      imagePath: 'assets/images/38240.jpg',
     ),
     '35055': PartInfo(
       name: 'Bogenstück 60°',
@@ -184,7 +184,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/35055.png',
+      imagePath: 'assets/images/35055.jpg',
     ),
     '36905': PartInfo(
       name: 'Flachträger 120, schwarz',
@@ -196,7 +196,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/36905.png',
+      imagePath: 'assets/images/36905.jpg',
     ),
     '36912': PartInfo(
       name: 'I-Strebe mit Loch schwarz 30',
@@ -208,7 +208,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '110',
       },
-      imagePath: 'assets/images/36912.png',
+      imagePath: 'assets/images/36912.jpg',
     ),
     '36913': PartInfo(
       name: 'I-Strebe mit Loch schwarz 45',
@@ -220,7 +220,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '145',
       },
-      imagePath: 'assets/images/36913.png',
+      imagePath: 'assets/images/36913.jpg',
     ),
     '36914': PartInfo(
       name: 'I-Strebe mit Loch schwarz 15',
@@ -232,7 +232,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '52',
       },
-      imagePath: 'assets/images/36914.png',
+      imagePath: 'assets/images/36914.jpg',
     ),
     '36923': PartInfo(
       name: 'I-Strebe mit Loch schwarz 75',
@@ -244,7 +244,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '75',
       },
-      imagePath: 'assets/images/36923.png',
+      imagePath: 'assets/images/36923.jpg',
     ),
     '36952': PartInfo(
       name: 'I-Strebe mit Loch schwarz 60',
@@ -256,7 +256,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '75',
       },
-      imagePath: 'assets/images/36952.png',
+      imagePath: 'assets/images/36952.jpg',
     ),
     '38543': PartInfo(
       name: 'I-Strebe mit Loch schwarz 90',
@@ -268,7 +268,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/38543.png',
+      imagePath: 'assets/images/38543.jpg',
     ),
     '38546': PartInfo(
       name: 'I-Strebe mit Loch schwarz 120',
@@ -280,7 +280,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '75',
       },
-      imagePath: 'assets/images/38546.png',
+      imagePath: 'assets/images/38546.jpg',
     ),
     '137654': PartInfo(
       name: 'X-Strebe silber 169,6',
@@ -292,7 +292,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '44',
       },
-      imagePath: 'assets/images/137654.png',
+      imagePath: 'assets/images/137654.jpg',
     ),
     '143236': PartInfo(
       name: 'I-Strebe mit Loch grün 90',
@@ -304,7 +304,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/143236.png',
+      imagePath: 'assets/images/143236.jpg',
     ),
     '146529': PartInfo(
       name: 'I-Strebe mit Loch grün 15',
@@ -316,7 +316,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/146529.png',
+      imagePath: 'assets/images/146529.jpg',
     ),
     '146532': PartInfo(
       name: 'I-Strebe mit Loch grün 60',
@@ -328,7 +328,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/146532.png',
+      imagePath: 'assets/images/146532.jpg',
     ),
     '156105': PartInfo(
       name: 'X-Strebe silber 42,4',
@@ -340,7 +340,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/156105.png',
+      imagePath: 'assets/images/156105.jpg',
     ),
     '156502': PartInfo(
       name: 'I-Strebe mit Loch grün 75',
@@ -352,7 +352,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/156502.png',
+      imagePath: 'assets/images/156502.jpg',
     ),
     '159781': PartInfo(
       name: 'I-Strebe mit Loch grün 105',
@@ -364,7 +364,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/159781.png',
+      imagePath: 'assets/images/159781.jpg',
     ),
     '160547': PartInfo(
       name: 'X-Strebe silber 63,6',
@@ -376,7 +376,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/160547.png',
+      imagePath: 'assets/images/160547.jpg',
     ),
     '160548': PartInfo(
       name: 'X-Strebe silber 106',
@@ -388,7 +388,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '64',
       },
-      imagePath: 'assets/images/160548.png',
+      imagePath: 'assets/images/160548.jpg',
     ),
     '176669': PartInfo(
       name: 'X-Strebe silber 84,8',
@@ -400,7 +400,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/176669.png',
+      imagePath: 'assets/images/176669.jpg',
     ),
     '176775': PartInfo(
       name: 'I-Strebe mit Loch schwarz 105',
@@ -412,7 +412,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/176775.png',
+      imagePath: 'assets/images/176775.jpg',
     ),
     '180929': PartInfo(
       name: 'Flachstück 120 schwarz',
@@ -424,7 +424,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/180929.png',
+      imagePath: 'assets/images/180929.jpg',
     ),
     '31060': PartInfo(
       name: 'Verbindungsstück 15',
@@ -436,7 +436,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '110',
       },
-      imagePath: 'assets/images/31060.png',
+      imagePath: 'assets/images/31060.jpg',
     ),
     '31061': PartInfo(
       name: 'Verbindungsstück 30',
@@ -448,7 +448,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/31061.png',
+      imagePath: 'assets/images/31061.jpg',
     ),
     '31330': PartInfo(
       name: 'Verbindungsstück 45',
@@ -460,7 +460,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/31330.png',
+      imagePath: 'assets/images/31330.jpg',
     ),
     '31602': PartInfo(
       name: 'Kufe',
@@ -472,7 +472,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31602.png',
+      imagePath: 'assets/images/31602.jpg',
     ),
     '31667': PartInfo(
       name: 'Lasche 15',
@@ -484,7 +484,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31667.png',
+      imagePath: 'assets/images/31667.jpg',
     ),
     '31668': PartInfo(
       name: 'Lasche 21,2',
@@ -496,7 +496,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/31668.png',
+      imagePath: 'assets/images/31668.jpg',
     ),
     '31670': PartInfo(
       name: 'Winkellasche',
@@ -508,7 +508,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/31670.png',
+      imagePath: 'assets/images/31670.jpg',
     ),
     '31671': PartInfo(
       name: 'L-Lasche',
@@ -520,7 +520,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/31671.png',
+      imagePath: 'assets/images/31671.jpg',
     ),
     '31672': PartInfo(
       name: 'T-Lasche',
@@ -532,7 +532,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31672.png',
+      imagePath: 'assets/images/31672.jpg',
     ),
     '31673': PartInfo(
       name: 'Sternlasche',
@@ -544,7 +544,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31673.png',
+      imagePath: 'assets/images/31673.jpg',
     ),
     '31674': PartInfo(
       name: 'Adapterlasche',
@@ -556,7 +556,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31674.png',
+      imagePath: 'assets/images/31674.jpg',
     ),
     '31675': PartInfo(
       name: 'Kreuzlasche',
@@ -568,7 +568,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31675.png',
+      imagePath: 'assets/images/31675.jpg',
     ),
     '31848': PartInfo(
       name: 'Strebenadapter',
@@ -580,7 +580,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '64',
       },
-      imagePath: 'assets/images/31848.png',
+      imagePath: 'assets/images/31848.jpg',
     ),
     '31982': PartInfo(
       name: 'Federnocken',
@@ -592,7 +592,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '540',
       },
-      imagePath: 'assets/images/31982.png',
+      imagePath: 'assets/images/31982.jpg',
     ),
     '35799': PartInfo(
       name: 'Riegelschlüssel',
@@ -604,7 +604,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/35799.png',
+      imagePath: 'assets/images/35799.jpg',
     ),
     '36323': PartInfo(
       name: 'S-Riegel 4',
@@ -616,7 +616,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '1000',
       },
-      imagePath: 'assets/images/36323.png',
+      imagePath: 'assets/images/36323.jpg',
     ),
     '36324': PartInfo(
       name: 'S-Riegel 6',
@@ -628,7 +628,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '130',
       },
-      imagePath: 'assets/images/36324.png',
+      imagePath: 'assets/images/36324.jpg',
     ),
     '36334': PartInfo(
       name: 'Riegelscheibe',
@@ -640,7 +640,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/36334.png',
+      imagePath: 'assets/images/36334.jpg',
     ),
     '38423': PartInfo(
       name: 'Winkelstein 10x15x15',
@@ -652,7 +652,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/38423.png',
+      imagePath: 'assets/images/38423.jpg',
     ),
     '208424': PartInfo(
       name: 'Riegelnocken schwarz',
@@ -664,7 +664,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/208424.png',
+      imagePath: 'assets/images/208424.jpg',
     ),
     '31124': PartInfo(
       name: 'Aufnahmeachse',
@@ -676,7 +676,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31124.png',
+      imagePath: 'assets/images/31124.jpg',
     ),
     '31426': PartInfo(
       name: 'Gelenkwürfel-Zunge',
@@ -688,7 +688,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31426.png',
+      imagePath: 'assets/images/31426.jpg',
     ),
     '31436': PartInfo(
       name: 'Gelenkwürfel-Klaue',
@@ -700,7 +700,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '90',
       },
-      imagePath: 'assets/images/31436.png',
+      imagePath: 'assets/images/31436.jpg',
     ),
     '35975': PartInfo(
       name: 'Statikadapter',
@@ -712,7 +712,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/35975.png',
+      imagePath: 'assets/images/35975.jpg',
     ),
     '36819': PartInfo(
       name: 'Lagerhülse',
@@ -724,7 +724,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/36819.png',
+      imagePath: 'assets/images/36819.jpg',
     ),
     '37468': PartInfo(
       name: 'Baustein 7,5',
@@ -736,7 +736,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '200',
       },
-      imagePath: 'assets/images/37468.png',
+      imagePath: 'assets/images/37468.jpg',
     ),
     '38253': PartInfo(
       name: 'Kupplungsstück',
@@ -748,7 +748,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38253.png',
+      imagePath: 'assets/images/38253.jpg',
     ),
     '38260': PartInfo(
       name: 'Kupplungsstück 30',
@@ -760,7 +760,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/38260.png',
+      imagePath: 'assets/images/38260.jpg',
     ),
     '130593': PartInfo(
       name: 'Rastachse mit Platte',
@@ -772,7 +772,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/130593.png',
+      imagePath: 'assets/images/130593.jpg',
     ),
     '163201': PartInfo(
       name: 'Baustein 15x15 rund, rot',
@@ -784,7 +784,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/163201.png',
+      imagePath: 'assets/images/163201.jpg',
     ),
     '163439': PartInfo(
       name: 'Baustein 15x30 rund',
@@ -796,7 +796,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/163439.png',
+      imagePath: 'assets/images/163439.jpg',
     ),
     '172804': PartInfo(
       name: 'Drehgelenk Zapfen, schwarz',
@@ -808,7 +808,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/172804.png',
+      imagePath: 'assets/images/172804.jpg',
     ),
     '172805': PartInfo(
       name: 'Drehgelenk Lager,schwarz',
@@ -820,7 +820,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/172805.png',
+      imagePath: 'assets/images/172805.jpg',
     ),
     '31010': PartInfo(
       name: 'Winkelstein 60°',
@@ -832,7 +832,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/31010.png',
+      imagePath: 'assets/images/31010.jpg',
     ),
     '31011': PartInfo(
       name: 'Winkelstein 30°',
@@ -844,7 +844,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/31011.png',
+      imagePath: 'assets/images/31011.jpg',
     ),
     '31918': PartInfo(
       name: 'Winkelstein 60° mit 3 Nuten',
@@ -856,7 +856,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31918.png',
+      imagePath: 'assets/images/31918.jpg',
     ),
     '31981': PartInfo(
       name: 'Winkelstein 15°',
@@ -868,7 +868,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/31981.png',
+      imagePath: 'assets/images/31981.jpg',
     ),
     '32071': PartInfo(
       name: 'Winkelstein 7,5°',
@@ -880,7 +880,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/32071.png',
+      imagePath: 'assets/images/32071.jpg',
     ),
     '32330': PartInfo(
       name: 'Bauplatte 15x30x3,75 mit Nut',
@@ -892,7 +892,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/32330.png',
+      imagePath: 'assets/images/32330.jpg',
     ),
     '35049': PartInfo(
       name: 'Baustein 15x30x5 mit Nut und Zapfen',
@@ -904,7 +904,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/35049.png',
+      imagePath: 'assets/images/35049.jpg',
     ),
     '37237': PartInfo(
       name: 'Baustein 5',
@@ -916,7 +916,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '300',
       },
-      imagePath: 'assets/images/37237.png',
+      imagePath: 'assets/images/37237.jpg',
     ),
     '37238': PartInfo(
       name: 'Baustein 5 mit 2 Zapfen',
@@ -928,7 +928,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/37238.png',
+      imagePath: 'assets/images/37238.jpg',
     ),
     '38428': PartInfo(
       name: 'Bauplatte 15x30x5 mit 3 Nuten',
@@ -940,7 +940,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/38428.png',
+      imagePath: 'assets/images/38428.jpg',
     ),
     '38241': PartInfo(
       name: 'Bauplatte 15x30 rot',
@@ -952,7 +952,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '80',
       },
-      imagePath: 'assets/images/38241.png',
+      imagePath: 'assets/images/38241.jpg',
     ),
     '38242': PartInfo(
       name: 'Bauplatte 15x45, rot',
@@ -964,7 +964,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/38242.png',
+      imagePath: 'assets/images/38242.jpg',
     ),
     '38244': PartInfo(
       name: 'Bauplatte 15x75, rot',
@@ -976,7 +976,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38244.png',
+      imagePath: 'assets/images/38244.jpg',
     ),
     '38245': PartInfo(
       name: 'Bauplatte 15x90, rot',
@@ -988,7 +988,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/38245.png',
+      imagePath: 'assets/images/38245.jpg',
     ),
     '38246': PartInfo(
       name: 'Bauplatte 15x15, rot',
@@ -1000,7 +1000,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '80',
       },
-      imagePath: 'assets/images/38246.png',
+      imagePath: 'assets/images/38246.jpg',
     ),
     '38248': PartInfo(
       name: 'Bauplatte 30x45, rot',
@@ -1012,7 +1012,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38248.png',
+      imagePath: 'assets/images/38248.jpg',
     ),
     '38249': PartInfo(
       name: 'Bauplatte 30x60, rot',
@@ -1024,7 +1024,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38249.png',
+      imagePath: 'assets/images/38249.jpg',
     ),
     '38251': PartInfo(
       name: 'Bauplatte 30x90, rot',
@@ -1036,7 +1036,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38251.png',
+      imagePath: 'assets/images/38251.jpg',
     ),
     '38259': PartInfo(
       name: 'Bauplatte 30x30, rot',
@@ -1048,7 +1048,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38259.png',
+      imagePath: 'assets/images/38259.jpg',
     ),
     '38277': PartInfo(
       name: 'Bauplatte 15x45 mit 2x2 Zapfen',
@@ -1060,7 +1060,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/38277.png',
+      imagePath: 'assets/images/38277.jpg',
     ),
     '38432': PartInfo(
       name: 'Bauplatte 30x60, gelb',
@@ -1072,7 +1072,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/38432.png',
+      imagePath: 'assets/images/38432.jpg',
     ),
     '38464': PartInfo(
       name: 'Bauplatte 15x60 rot',
@@ -1084,7 +1084,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/38464.png',
+      imagePath: 'assets/images/38464.jpg',
     ),
     '152249': PartInfo(
       name: 'Bauplatte 30x60, grün',
@@ -1096,7 +1096,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/152249.png',
+      imagePath: 'assets/images/152249.jpg',
     ),
     '172539': PartInfo(
       name: 'Kotflügel, rot',
@@ -1108,7 +1108,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/172539.png',
+      imagePath: 'assets/images/172539.jpg',
     ),
     '31592': PartInfo(
       name: 'Kesselhalter',
@@ -1120,7 +1120,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/31592.png',
+      imagePath: 'assets/images/31592.jpg',
     ),
     '31760': PartInfo(
       name: 'Kunststoff-Feder 26 schwarz',
@@ -1132,7 +1132,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31760.png',
+      imagePath: 'assets/images/31760.jpg',
     ),
     '31843': PartInfo(
       name: 'Lenkwürfel',
@@ -1144,7 +1144,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '22',
       },
-      imagePath: 'assets/images/31843.png',
+      imagePath: 'assets/images/31843.jpg',
     ),
     '31888': PartInfo(
       name: 'Gelenkstück',
@@ -1156,7 +1156,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31888.png',
+      imagePath: 'assets/images/31888.jpg',
     ),
     '31891': PartInfo(
       name: 'Federboden schwarz',
@@ -1168,7 +1168,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31891.png',
+      imagePath: 'assets/images/31891.jpg',
     ),
     '31894': PartInfo(
       name: 'Anlenkhebel',
@@ -1180,7 +1180,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/31894.png',
+      imagePath: 'assets/images/31894.jpg',
     ),
     '31896': PartInfo(
       name: 'Kotflügel mit Zapfen',
@@ -1192,7 +1192,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31896.png',
+      imagePath: 'assets/images/31896.jpg',
     ),
     '31916': PartInfo(
       name: 'Lenkrad',
@@ -1204,7 +1204,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31916.png',
+      imagePath: 'assets/images/31916.jpg',
     ),
     '31984': PartInfo(
       name: 'Schalensitz',
@@ -1216,7 +1216,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/31984.png',
+      imagePath: 'assets/images/31984.jpg',
     ),
     '32851': PartInfo(
       name: 'Lenksäule 34',
@@ -1228,7 +1228,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/32851.png',
+      imagePath: 'assets/images/32851.jpg',
     ),
     '35050': PartInfo(
       name: 'Kotflügel rot',
@@ -1240,7 +1240,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35050.png',
+      imagePath: 'assets/images/35050.jpg',
     ),
     '35051': PartInfo(
       name: 'Sitz blau / blue',
@@ -1252,7 +1252,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35051.png',
+      imagePath: 'assets/images/35051.jpg',
     ),
     '35068': PartInfo(
       name: 'Spurstangengelenk',
@@ -1264,7 +1264,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35068.png',
+      imagePath: 'assets/images/35068.jpg',
     ),
     '35806': PartInfo(
       name: 'ft-Männchen, blau/weiß',
@@ -1276,7 +1276,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35806.png',
+      imagePath: 'assets/images/35806.jpg',
     ),
     '35998': PartInfo(
       name: 'Lenkklaue',
@@ -1288,7 +1288,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '22',
       },
-      imagePath: 'assets/images/35998.png',
+      imagePath: 'assets/images/35998.jpg',
     ),
     '38411': PartInfo(
       name: 'Schaufelhalter',
@@ -1300,7 +1300,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/38411.png',
+      imagePath: 'assets/images/38411.jpg',
     ),
     '38472': PartInfo(
       name: 'Zahnspurstange',
@@ -1312,7 +1312,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/38472.png',
+      imagePath: 'assets/images/38472.jpg',
     ),
     '38473': PartInfo(
       name: 'Lenkhebel',
@@ -1324,7 +1324,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/38473.png',
+      imagePath: 'assets/images/38473.jpg',
     ),
     '31390': PartInfo(
       name: 'Drehkranz-Oberteil',
@@ -1336,7 +1336,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31390.png',
+      imagePath: 'assets/images/31390.jpg',
     ),
     '31391': PartInfo(
       name: 'Drehkranz-Unterteil',
@@ -1348,7 +1348,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31391.png',
+      imagePath: 'assets/images/31391.jpg',
     ),
     '31997': PartInfo(
       name: 'Seilwindengestell',
@@ -1360,7 +1360,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/31997.png',
+      imagePath: 'assets/images/31997.jpg',
     ),
     '31998': PartInfo(
       name: 'Seilwindentrommel',
@@ -1372,7 +1372,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/31998.png',
+      imagePath: 'assets/images/31998.jpg',
     ),
     '31999': PartInfo(
       name: 'Seilwindenbremse',
@@ -1384,7 +1384,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/31999.png',
+      imagePath: 'assets/images/31999.jpg',
     ),
     '32085': PartInfo(
       name: 'Rollenbock',
@@ -1396,7 +1396,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/32085.png',
+      imagePath: 'assets/images/32085.jpg',
     ),
     '35069': PartInfo(
       name: 'Seilwinden-Gestell 30',
@@ -1408,7 +1408,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35069.png',
+      imagePath: 'assets/images/35069.jpg',
     ),
     '35070': PartInfo(
       name: 'Seiltrommel für Rastachsen',
@@ -1420,7 +1420,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35070.png',
+      imagePath: 'assets/images/35070.jpg',
     ),
     '35797': PartInfo(
       name: 'Seilrolle ∅21',
@@ -1432,7 +1432,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/35797.png',
+      imagePath: 'assets/images/35797.jpg',
     ),
     '36573': PartInfo(
       name: 'Rad 14',
@@ -1444,7 +1444,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/36573.png',
+      imagePath: 'assets/images/36573.jpg',
     ),
     '37636': PartInfo(
       name: 'Rollenlager',
@@ -1456,7 +1456,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/37636.png',
+      imagePath: 'assets/images/37636.jpg',
     ),
     '38225': PartInfo(
       name: 'Seilhaken',
@@ -1468,7 +1468,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/38225.png',
+      imagePath: 'assets/images/38225.jpg',
     ),
     '38258': PartInfo(
       name: 'Seilrolle ∅12',
@@ -1480,7 +1480,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/38258.png',
+      imagePath: 'assets/images/38258.jpg',
     ),
     '136775': PartInfo(
       name: 'Rastrolle',
@@ -1492,7 +1492,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '14',
       },
-      imagePath: 'assets/images/136775.png',
+      imagePath: 'assets/images/136775.jpg',
     ),
     '163435': PartInfo(
       name: 'Muldenseitenteil silber/silver',
@@ -1504,7 +1504,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/163435.png',
+      imagePath: 'assets/images/163435.jpg',
     ),
     '163436': PartInfo(
       name: 'Seitenteil silber links',
@@ -1516,7 +1516,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/163436.png',
+      imagePath: 'assets/images/163436.jpg',
     ),
     '163437': PartInfo(
       name: 'Seitenteil silber rechts',
@@ -1528,7 +1528,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/163437.png',
+      imagePath: 'assets/images/163437.jpg',
     ),
     '163438': PartInfo(
       name: 'Verlängerung Seitenteil silber/silver',
@@ -1540,7 +1540,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/163438.png',
+      imagePath: 'assets/images/163438.jpg',
     ),
     '172540': PartInfo(
       name: 'Muldenklappe 75, silber',
@@ -1552,7 +1552,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/172540.png',
+      imagePath: 'assets/images/172540.jpg',
     ),
     '31023': PartInfo(
       name: 'Klemmbuchse 10',
@@ -1564,7 +1564,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/31023.png',
+      imagePath: 'assets/images/31023.jpg',
     ),
     '31031': PartInfo(
       name: 'Metallachse 110',
@@ -1576,7 +1576,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31031.png',
+      imagePath: 'assets/images/31031.jpg',
     ),
     '31036': PartInfo(
       name: 'Metallachse 125',
@@ -1588,7 +1588,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31036.png',
+      imagePath: 'assets/images/31036.jpg',
     ),
     '31040': PartInfo(
       name: 'Metallachse 90',
@@ -1600,7 +1600,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31040.png',
+      imagePath: 'assets/images/31040.jpg',
     ),
     '31597': PartInfo(
       name: 'Abstandsring',
@@ -1612,7 +1612,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31597.png',
+      imagePath: 'assets/images/31597.jpg',
     ),
     '31690': PartInfo(
       name: 'Rastachse 20, rot',
@@ -1624,7 +1624,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '36',
       },
-      imagePath: 'assets/images/31690.png',
+      imagePath: 'assets/images/31690.jpg',
     ),
     '31712': PartInfo(
       name: 'Mitnehmer',
@@ -1636,7 +1636,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/31712.png',
+      imagePath: 'assets/images/31712.jpg',
     ),
     '31983': PartInfo(
       name: 'Hülse 15',
@@ -1648,7 +1648,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31983.png',
+      imagePath: 'assets/images/31983.jpg',
     ),
     '32316': PartInfo(
       name: 'Verbindungsstopfen',
@@ -1660,7 +1660,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/32316.png',
+      imagePath: 'assets/images/32316.jpg',
     ),
     '32870': PartInfo(
       name: 'Clipsachse',
@@ -1672,7 +1672,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '28',
       },
-      imagePath: 'assets/images/32870.png',
+      imagePath: 'assets/images/32870.jpg',
     ),
     '35063': PartInfo(
       name: 'Rastachse 30',
@@ -1684,7 +1684,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/35063.png',
+      imagePath: 'assets/images/35063.jpg',
     ),
     '35064': PartInfo(
       name: 'Rastachse 45',
@@ -1696,7 +1696,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/35064.png',
+      imagePath: 'assets/images/35064.jpg',
     ),
     '35065': PartInfo(
       name: 'Rastachse 60',
@@ -1708,7 +1708,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/35065.png',
+      imagePath: 'assets/images/35065.jpg',
     ),
     '35066': PartInfo(
       name: 'Rastachse 90',
@@ -1720,7 +1720,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/35066.png',
+      imagePath: 'assets/images/35066.jpg',
     ),
     '35073': PartInfo(
       name: 'Rastkupplung',
@@ -1732,7 +1732,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '130',
       },
-      imagePath: 'assets/images/35073.png',
+      imagePath: 'assets/images/35073.jpg',
     ),
     '35087': PartInfo(
       name: 'Rastachse 75',
@@ -1744,7 +1744,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/35087.png',
+      imagePath: 'assets/images/35087.jpg',
     ),
     '35405': PartInfo(
       name: 'V-Achse 4x80',
@@ -1756,7 +1756,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35405.png',
+      imagePath: 'assets/images/35405.jpg',
     ),
     '35414': PartInfo(
       name: 'V-Achse 4x98',
@@ -1768,7 +1768,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35414.png',
+      imagePath: 'assets/images/35414.jpg',
     ),
     '35971': PartInfo(
       name: 'Kardangabel für Rastachsen',
@@ -1780,7 +1780,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '42',
       },
-      imagePath: 'assets/images/35971.png',
+      imagePath: 'assets/images/35971.jpg',
     ),
     '35972': PartInfo(
       name: 'Kardanwürfel',
@@ -1792,7 +1792,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '25',
       },
-      imagePath: 'assets/images/35972.png',
+      imagePath: 'assets/images/35972.jpg',
     ),
     '35981': PartInfo(
       name: 'Hülse mit Scheibe',
@@ -1804,7 +1804,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/35981.png',
+      imagePath: 'assets/images/35981.jpg',
     ),
     '36227': PartInfo(
       name: 'Rastadapter',
@@ -1816,7 +1816,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '32',
       },
-      imagePath: 'assets/images/36227.png',
+      imagePath: 'assets/images/36227.jpg',
     ),
     '36586': PartInfo(
       name: 'Radachse',
@@ -1828,7 +1828,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/36586.png',
+      imagePath: 'assets/images/36586.jpg',
     ),
     '37527': PartInfo(
       name: 'Rastachse 180',
@@ -1840,7 +1840,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/37527.png',
+      imagePath: 'assets/images/37527.jpg',
     ),
     '37679': PartInfo(
       name: 'Klemmbuchse 5',
@@ -1852,7 +1852,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '260',
       },
-      imagePath: 'assets/images/37679.png',
+      imagePath: 'assets/images/37679.jpg',
     ),
     '38413': PartInfo(
       name: 'Kunststoffachse 30',
@@ -1864,7 +1864,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/38413.png',
+      imagePath: 'assets/images/38413.jpg',
     ),
     '38414': PartInfo(
       name: 'Kunststoffachse 40',
@@ -1876,7 +1876,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '40',
       },
-      imagePath: 'assets/images/38414.png',
+      imagePath: 'assets/images/38414.jpg',
     ),
     '38415': PartInfo(
       name: 'Kunststoffachse 50',
@@ -1888,7 +1888,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/38415.png',
+      imagePath: 'assets/images/38415.jpg',
     ),
     '38416': PartInfo(
       name: 'Kunststoffachse 60',
@@ -1900,7 +1900,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/38416.png',
+      imagePath: 'assets/images/38416.jpg',
     ),
     '163203': PartInfo(
       name: 'Schlauchadapter D4 abgewinkelt',
@@ -1912,7 +1912,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/163203.png',
+      imagePath: 'assets/images/163203.jpg',
     ),
     '163518': PartInfo(
       name: 'Schlauch LD-PE 6x4 110 mm',
@@ -1924,7 +1924,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/163518.png',
+      imagePath: 'assets/images/163518.jpg',
     ),
     '163519': PartInfo(
       name: 'Schlauch LD-PE 6x4 50 mm',
@@ -1936,7 +1936,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/163519.png',
+      imagePath: 'assets/images/163519.jpg',
     ),
     '172541': PartInfo(
       name: 'Radachse, schwarz',
@@ -1948,7 +1948,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/172541.png',
+      imagePath: 'assets/images/172541.jpg',
     ),
     '172548': PartInfo(
       name: 'Schlauch LD-PE 6x4x30',
@@ -1960,7 +1960,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/172548.png',
+      imagePath: 'assets/images/172548.jpg',
     ),
     '185795': PartInfo(
       name: 'Metallachse 90 mit Einstich',
@@ -1972,7 +1972,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/185795.png',
+      imagePath: 'assets/images/185795.jpg',
     ),
     '31019': PartInfo(
       name: 'Drehscheibe 60',
@@ -1984,7 +1984,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31019.png',
+      imagePath: 'assets/images/31019.jpg',
     ),
     '31021': PartInfo(
       name: 'Zahnrad Z20',
@@ -1996,7 +1996,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/31021.png',
+      imagePath: 'assets/images/31021.jpg',
     ),
     '31022': PartInfo(
       name: 'Zahnrad Z40/32',
@@ -2008,7 +2008,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/31022.png',
+      imagePath: 'assets/images/31022.jpg',
     ),
     '31053': PartInfo(
       name: 'Zahnstange M1,5 60',
@@ -2020,7 +2020,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/31053.png',
+      imagePath: 'assets/images/31053.jpg',
     ),
     '31054': PartInfo(
       name: 'Zahnstange M1,5 30',
@@ -2032,7 +2032,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31054.png',
+      imagePath: 'assets/images/31054.jpg',
     ),
     '31058': PartInfo(
       name: 'Nabenmutter mit Scheibe',
@@ -2044,7 +2044,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/31058.png',
+      imagePath: 'assets/images/31058.jpg',
     ),
     '31411': PartInfo(
       name: 'Differential Käfig Z26',
@@ -2056,7 +2056,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31411.png',
+      imagePath: 'assets/images/31411.jpg',
     ),
     '31412': PartInfo(
       name: 'Differential Planetenrad Z10',
@@ -2068,7 +2068,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31412.png',
+      imagePath: 'assets/images/31412.jpg',
     ),
     '31413': PartInfo(
       name: 'Differential Abtriebsrad Z10',
@@ -2080,7 +2080,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31413.png',
+      imagePath: 'assets/images/31413.jpg',
     ),
     '31779': PartInfo(
       name: 'Kettenrad Z20',
@@ -2092,7 +2092,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31779.png',
+      imagePath: 'assets/images/31779.jpg',
     ),
     '35031': PartInfo(
       name: 'Flachnabenzange',
@@ -2104,7 +2104,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/35031.png',
+      imagePath: 'assets/images/35031.jpg',
     ),
     '35033': PartInfo(
       name: 'Nabenmutter rot',
@@ -2116,7 +2116,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/35033.png',
+      imagePath: 'assets/images/35033.jpg',
     ),
     '35061': PartInfo(
       name: 'Rastachse mit Kegelzahnrad',
@@ -2128,7 +2128,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '52',
       },
-      imagePath: 'assets/images/35061.png',
+      imagePath: 'assets/images/35061.jpg',
     ),
     '35062': PartInfo(
       name: 'Kegelzahnrad mit Hülse',
@@ -2140,7 +2140,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '32',
       },
-      imagePath: 'assets/images/35062.png',
+      imagePath: 'assets/images/35062.jpg',
     ),
     '35072': PartInfo(
       name: 'Rastschnecke',
@@ -2152,7 +2152,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35072.png',
+      imagePath: 'assets/images/35072.jpg',
     ),
     '35112': PartInfo(
       name: 'Ritzel Z10, M1,5',
@@ -2164,7 +2164,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35112.png',
+      imagePath: 'assets/images/35112.jpg',
     ),
     '35466': PartInfo(
       name: 'Nockenscheibe schwarz',
@@ -2176,7 +2176,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35466.png',
+      imagePath: 'assets/images/35466.jpg',
     ),
     '35694': PartInfo(
       name: 'Innenzahnrad Z30',
@@ -2188,7 +2188,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/35694.png',
+      imagePath: 'assets/images/35694.jpg',
     ),
     '35695': PartInfo(
       name: 'Zahnrad Z15',
@@ -2200,7 +2200,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '32',
       },
-      imagePath: 'assets/images/35695.png',
+      imagePath: 'assets/images/35695.jpg',
     ),
     '35945': PartInfo(
       name: 'Rast-Ritzel Z10, m=1,5',
@@ -2212,7 +2212,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/35945.png',
+      imagePath: 'assets/images/35945.jpg',
     ),
     '35982': PartInfo(
       name: 'Deckel für Differential Käfig',
@@ -2224,7 +2224,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35982.png',
+      imagePath: 'assets/images/35982.jpg',
     ),
     '36264': PartInfo(
       name: 'Zahnrad Z30',
@@ -2236,7 +2236,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/36264.png',
+      imagePath: 'assets/images/36264.jpg',
     ),
     '68535': PartInfo(
       name: 'Freilaufnabe schwarz',
@@ -2248,7 +2248,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/68535.png',
+      imagePath: 'assets/images/68535.jpg',
     ),
     '137196': PartInfo(
       name: 'Differentialrad Motor XM',
@@ -2260,7 +2260,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/137196.png',
+      imagePath: 'assets/images/137196.jpg',
     ),
     '137677': PartInfo(
       name: 'Rastkettenrad Z20',
@@ -2272,7 +2272,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/137677.png',
+      imagePath: 'assets/images/137677.jpg',
     ),
     '31063': PartInfo(
       name: 'U-Achse 60 mit Zahnrad Z28',
@@ -2284,7 +2284,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/31063.png',
+      imagePath: 'assets/images/31063.jpg',
     ),
     '31064': PartInfo(
       name: 'U-Achse 40 mit Zahnrad Z28',
@@ -2296,7 +2296,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/31064.png',
+      imagePath: 'assets/images/31064.jpg',
     ),
     '31078': PartInfo(
       name: 'U-Getriebe',
@@ -2308,7 +2308,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/31078.png',
+      imagePath: 'assets/images/31078.jpg',
     ),
     '31082': PartInfo(
       name: 'Rastachse mit Zahnrad Z28, m=0,5',
@@ -2320,7 +2320,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/31082.png',
+      imagePath: 'assets/images/31082.jpg',
     ),
     '31915': PartInfo(
       name: 'Zangenmutter',
@@ -2332,7 +2332,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/31915.png',
+      imagePath: 'assets/images/31915.jpg',
     ),
     '32293': PartInfo(
       name: 'Mini Motor, 9.500 U/min- 0,15 Ncm',
@@ -2344,7 +2344,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/32293.png',
+      imagePath: 'assets/images/32293.jpg',
     ),
     '35088': PartInfo(
       name: 'Gelenkkurbel',
@@ -2356,7 +2356,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '22',
       },
-      imagePath: 'assets/images/35088.png',
+      imagePath: 'assets/images/35088.jpg',
     ),
     '35113': PartInfo(
       name: 'Spannzange',
@@ -2368,7 +2368,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/35113.png',
+      imagePath: 'assets/images/35113.jpg',
     ),
     '35973': PartInfo(
       name: 'Schneckenmutter m=1',
@@ -2380,7 +2380,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/35973.png',
+      imagePath: 'assets/images/35973.jpg',
     ),
     '35977': PartInfo(
       name: 'Rastachse mit Schnecke m=1',
@@ -2392,7 +2392,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/35977.png',
+      imagePath: 'assets/images/35977.jpg',
     ),
     '36337': PartInfo(
       name: 'Luftschraube mit 4 Flügeln',
@@ -2404,7 +2404,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36337.png',
+      imagePath: 'assets/images/36337.jpg',
     ),
     '37681': PartInfo(
       name: 'Adapterspitze für Luftschrauben',
@@ -2416,7 +2416,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/37681.png',
+      imagePath: 'assets/images/37681.jpg',
     ),
     '37858': PartInfo(
       name: 'Klemmbare Schnecke m=1,5',
@@ -2428,7 +2428,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/37858.png',
+      imagePath: 'assets/images/37858.jpg',
     ),
     '37925': PartInfo(
       name: 'Schneckenmutter m=1,5',
@@ -2440,7 +2440,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/37925.png',
+      imagePath: 'assets/images/37925.jpg',
     ),
     '37926': PartInfo(
       name: 'Schneckenteil m=1,5',
@@ -2452,7 +2452,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/37926.png',
+      imagePath: 'assets/images/37926.jpg',
     ),
     '135485': PartInfo(
       name: 'Motor XM 9V, 338 U/min-8,4 Ncm',
@@ -2464,7 +2464,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/135485.png',
+      imagePath: 'assets/images/135485.jpg',
     ),
     '137096': PartInfo(
       name: 'Motor XS, 5995 U/min-0,15 Ncm',
@@ -2476,7 +2476,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/137096.png',
+      imagePath: 'assets/images/137096.jpg',
     ),
     '153422': PartInfo(
       name: 'Encodermotor, rot',
@@ -2488,7 +2488,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/153422.png',
+      imagePath: 'assets/images/153422.jpg',
     ),
     '156108': PartInfo(
       name: 'Luftschraube 100 grün',
@@ -2500,7 +2500,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/156108.png',
+      imagePath: 'assets/images/156108.jpg',
     ),
     '31790': PartInfo(
       name: 'Raupenbelag weich / soft',
@@ -2512,7 +2512,7 @@ class PartInfo {
         'Fach': 'f + g',
         'Anzahl verfügbar': '350',
       },
-      imagePath: 'assets/images/31790.png',
+      imagePath: 'assets/images/31790.jpg',
     ),
     '36248': PartInfo(
       name: 'Rastkettenglied 11,5 rot',
@@ -2524,7 +2524,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '1200',
       },
-      imagePath: 'assets/images/36248.png',
+      imagePath: 'assets/images/36248.jpg',
     ),
     '119850': PartInfo(
       name: 'Magnetischer Kugelhalter',
@@ -2536,7 +2536,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/119850.png',
+      imagePath: 'assets/images/119850.jpg',
     ),
     '128659': PartInfo(
       name: 'Rastkettenglied 13,5 schwarz',
@@ -2548,7 +2548,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '700',
       },
-      imagePath: 'assets/images/128659.png',
+      imagePath: 'assets/images/128659.jpg',
     ),
     '144262': PartInfo(
       name: 'Stahlkugel D12,5',
@@ -2560,7 +2560,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/144262.png',
+      imagePath: 'assets/images/144262.jpg',
     ),
     '151715': PartInfo(
       name: '90 Grad Kurve',
@@ -2572,7 +2572,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/151715.png',
+      imagePath: 'assets/images/151715.jpg',
     ),
     '151716': PartInfo(
       name: 'Wechselweiche Unterteil',
@@ -2584,7 +2584,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/151716.png',
+      imagePath: 'assets/images/151716.jpg',
     ),
     '151717': PartInfo(
       name: 'Wechselweiche Hebel',
@@ -2596,7 +2596,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/151717.png',
+      imagePath: 'assets/images/151717.jpg',
     ),
     '155901': PartInfo(
       name: 'Flexprofil 90, grün',
@@ -2608,7 +2608,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '30',
       },
-      imagePath: 'assets/images/155901.png',
+      imagePath: 'assets/images/155901.jpg',
     ),
     '158962': PartInfo(
       name: '180° Kurve, grün',
@@ -2620,7 +2620,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/158962.png',
+      imagePath: 'assets/images/158962.jpg',
     ),
     '167370': PartInfo(
       name: 'Weichenzunge klein',
@@ -2632,7 +2632,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/167370.png',
+      imagePath: 'assets/images/167370.jpg',
     ),
     '174118': PartInfo(
       name: 'Gausskanone',
@@ -2644,7 +2644,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/174118.png',
+      imagePath: 'assets/images/174118.jpg',
     ),
     '31422': PartInfo(
       name: 'Achsadapter',
@@ -2656,7 +2656,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/31422.png',
+      imagePath: 'assets/images/31422.jpg',
     ),
     '31642': PartInfo(
       name: 'T-Stück, blau, Pneumatik',
@@ -2668,7 +2668,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/31642.png',
+      imagePath: 'assets/images/31642.jpg',
     ),
     '36915': PartInfo(
       name: 'Winkelanschluß',
@@ -2680,7 +2680,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '24',
       },
-      imagePath: 'assets/images/36915.png',
+      imagePath: 'assets/images/36915.jpg',
     ),
     '36934': PartInfo(
       name: 'Pneumatik - Handventil',
@@ -2692,7 +2692,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/36934.png',
+      imagePath: 'assets/images/36934.jpg',
     ),
     '36938': PartInfo(
       name: 'Pneumatik Zylinder 60',
@@ -2704,7 +2704,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/36938.png',
+      imagePath: 'assets/images/36938.jpg',
     ),
     '36970': PartInfo(
       name: 'Rückschlagventil schwarz',
@@ -2716,7 +2716,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/36970.png',
+      imagePath: 'assets/images/36970.jpg',
     ),
     '121470': PartInfo(
       name: 'Kompressor 9V komplett montiert',
@@ -2728,7 +2728,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/121470.png',
+      imagePath: 'assets/images/121470.jpg',
     ),
     '121640': PartInfo(
       name: 'Schlauchanschluss Kompressor',
@@ -2740,7 +2740,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/121640.png',
+      imagePath: 'assets/images/121640.jpg',
     ),
     '122641': PartInfo(
       name: 'Pneumatik Zylinder 45',
@@ -2752,7 +2752,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/122641.png',
+      imagePath: 'assets/images/122641.jpg',
     ),
     '133027': PartInfo(
       name: 'Zylinder 60 mit Feder',
@@ -2764,7 +2764,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/133027.png',
+      imagePath: 'assets/images/133027.jpg',
     ),
     '154485': PartInfo(
       name: 'TT-Ball',
@@ -2776,7 +2776,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/154485.png',
+      imagePath: 'assets/images/154485.jpg',
     ),
     '156493': PartInfo(
       name: 'Druckluftspeicher, schwarz',
@@ -2788,7 +2788,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/156493.png',
+      imagePath: 'assets/images/156493.jpg',
     ),
     '167983': PartInfo(
       name: 'Zylinderrohr 44 mit Deckel',
@@ -2800,7 +2800,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/167983.png',
+      imagePath: 'assets/images/167983.jpg',
     ),
     '180925': PartInfo(
       name: 'Abluftdrossel Gehäuse',
@@ -2812,7 +2812,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/180925.png',
+      imagePath: 'assets/images/180925.jpg',
     ),
     '180926': PartInfo(
       name: 'Abluftdrossel Schraube',
@@ -2824,7 +2824,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/180926.png',
+      imagePath: 'assets/images/180926.jpg',
     ),
     '180927': PartInfo(
       name: 'Pneumatikschlauch blau, 3700mm',
@@ -2836,7 +2836,7 @@ class PartInfo {
         'Fach': 'a +c',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/180927.png',
+      imagePath: 'assets/images/180927.jpg',
     ),
     '32698': PartInfo(
       name: 'Foto-Widerstand',
@@ -2848,7 +2848,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/32698.png',
+      imagePath: 'assets/images/32698.jpg',
     ),
     '35077': PartInfo(
       name: 'Rastleuchtkappe blau',
@@ -2860,7 +2860,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35077.png',
+      imagePath: 'assets/images/35077.jpg',
     ),
     '35078': PartInfo(
       name: 'Rastleuchtkappe orange',
@@ -2872,7 +2872,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35078.png',
+      imagePath: 'assets/images/35078.jpg',
     ),
     '35079': PartInfo(
       name: 'Rastleuchtkappe rot',
@@ -2884,7 +2884,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35079.png',
+      imagePath: 'assets/images/35079.jpg',
     ),
     '35084': PartInfo(
       name: 'Rastleuchtkappe grün',
@@ -2896,7 +2896,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/35084.png',
+      imagePath: 'assets/images/35084.jpg',
     ),
     '35086': PartInfo(
       name: 'Rastleuchtkappe transparent',
@@ -2908,7 +2908,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/35086.png',
+      imagePath: 'assets/images/35086.jpg',
     ),
     '35969': PartInfo(
       name: 'Reedkontakt- und Kabelhalter',
@@ -2920,7 +2920,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/35969.png',
+      imagePath: 'assets/images/35969.jpg',
     ),
     '36134': PartInfo(
       name: 'Fototransistor montiert',
@@ -2932,7 +2932,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36134.png',
+      imagePath: 'assets/images/36134.jpg',
     ),
     '36437': PartInfo(
       name: 'NTC-Widerstand 1,5 kΩ NTC resistor  1,5 kΩ',
@@ -2944,7 +2944,7 @@ class PartInfo {
         'Fach': 'd',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/36437.png',
+      imagePath: 'assets/images/36437.jpg',
     ),
     '36443': PartInfo(
       name: 'Schraubendreher',
@@ -2956,7 +2956,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/36443.png',
+      imagePath: 'assets/images/36443.jpg',
     ),
     '36532': PartInfo(
       name: 'Störlichtkappe, Öffnung 6',
@@ -2968,7 +2968,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36532.png',
+      imagePath: 'assets/images/36532.jpg',
     ),
     '36708': PartInfo(
       name: 'Polwendeschalter',
@@ -2980,7 +2980,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36708.png',
+      imagePath: 'assets/images/36708.jpg',
     ),
     '37783': PartInfo(
       name: 'Mini-Taster',
@@ -2992,7 +2992,7 @@ class PartInfo {
         'Fach': 'a',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/37783.png',
+      imagePath: 'assets/images/37783.jpg',
     ),
     '38216': PartInfo(
       name: 'Leuchtstein mit Steckfassung',
@@ -3004,7 +3004,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/38216.png',
+      imagePath: 'assets/images/38216.jpg',
     ),
     '122900': PartInfo(
       name: 'Servolasche',
@@ -3016,7 +3016,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/122900.png',
+      imagePath: 'assets/images/122900.jpg',
     ),
     '132004': PartInfo(
       name: 'Servohebel',
@@ -3028,7 +3028,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/132004.png',
+      imagePath: 'assets/images/132004.jpg',
     ),
     '132290': PartInfo(
       name: 'Servohalter',
@@ -3040,7 +3040,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/132290.png',
+      imagePath: 'assets/images/132290.jpg',
     ),
     '132292': PartInfo(
       name: 'Micro Servo 4,8/ 9V',
@@ -3052,7 +3052,7 @@ class PartInfo {
         'Fach': 'e',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/132292.png',
+      imagePath: 'assets/images/132292.jpg',
     ),
     '161943': PartInfo(
       name: 'Empfänger BT Conrol Set',
@@ -3064,7 +3064,7 @@ class PartInfo {
         'Fach': 'c',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/161943.png',
+      imagePath: 'assets/images/161943.jpg',
     ),
     '161944': PartInfo(
       name: 'BT Smart Controller',
@@ -3076,7 +3076,7 @@ class PartInfo {
         'Fach': 'f',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/161944.png',
+      imagePath: 'assets/images/161944.jpg',
     ),
     '162134': PartInfo(
       name: 'LED mit Sockel',
@@ -3088,7 +3088,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/162134.png',
+      imagePath: 'assets/images/162134.jpg',
     ),
     '162135': PartInfo(
       name: 'Lichtschranke LED',
@@ -3100,7 +3100,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/162135.png',
+      imagePath: 'assets/images/162135.jpg',
     ),
     '162136': PartInfo(
       name: 'Rainbow LED mit Sockel',
@@ -3112,7 +3112,7 @@ class PartInfo {
         'Fach': 'b',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/162136.png',
+      imagePath: 'assets/images/162136.jpg',
     ),
     '173067': PartInfo(
       name: 'TXT 4.0 Controller',
@@ -3124,7 +3124,7 @@ class PartInfo {
         'Fach': 'g',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/173067.png',
+      imagePath: 'assets/images/173067.jpg',
     ),
     '181583': PartInfo(
       name: 'Flachstecker grün',
@@ -3136,7 +3136,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/181583.png',
+      imagePath: 'assets/images/181583.jpg',
     ),
     '181584': PartInfo(
       name: 'Flachstecker rot',
@@ -3148,7 +3148,7 @@ class PartInfo {
         'Fach': 'h',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/181584.png',
+      imagePath: 'assets/images/181584.jpg',
     ),
     '32854': PartInfo(
       name: 'U-Träger 150 schwarz',
@@ -3160,7 +3160,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/32854.png',
+      imagePath: 'assets/images/32854.jpg',
     ),
     '32859': PartInfo(
       name: 'Bodenplatte 30x90, rot',
@@ -3172,7 +3172,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/32859.png',
+      imagePath: 'assets/images/32859.jpg',
     ),
     '32879': PartInfo(
       name: 'Baustein 30 schwarz',
@@ -3184,7 +3184,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '100',
       },
-      imagePath: 'assets/images/32879.png',
+      imagePath: 'assets/images/32879.jpg',
     ),
     '32913': PartInfo(
       name: 'Reifen 50',
@@ -3196,7 +3196,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/32913.png',
+      imagePath: 'assets/images/32913.jpg',
     ),
     '34995': PartInfo(
       name: 'Reifen 32,5 Tyre 32,5',
@@ -3208,7 +3208,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/34995.png',
+      imagePath: 'assets/images/34995.jpg',
     ),
     '35129': PartInfo(
       name: 'Grundplatte schwarz 120x60',
@@ -3220,7 +3220,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/35129.png',
+      imagePath: 'assets/images/35129.jpg',
     ),
     '35537': PartInfo(
       name: 'Akkupack NiMH 8,4 V 1500  mA',
@@ -3232,7 +3232,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/35537.png',
+      imagePath: 'assets/images/35537.jpg',
     ),
     '36293': PartInfo(
       name: 'Winkelträger 120 schwarz',
@@ -3244,7 +3244,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '170',
       },
-      imagePath: 'assets/images/36293.png',
+      imagePath: 'assets/images/36293.jpg',
     ),
     '36574': PartInfo(
       name: 'Rad 23 schwarz',
@@ -3256,7 +3256,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/36574.png',
+      imagePath: 'assets/images/36574.jpg',
     ),
     '36576': PartInfo(
       name: 'Grundplatte 90x45',
@@ -3268,7 +3268,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '5',
       },
-      imagePath: 'assets/images/36576.png',
+      imagePath: 'assets/images/36576.jpg',
     ),
     '36593': PartInfo(
       name: 'Grundplatte 45x45',
@@ -3280,7 +3280,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '5',
       },
-      imagePath: 'assets/images/36593.png',
+      imagePath: 'assets/images/36593.jpg',
     ),
     '36920': PartInfo(
       name: 'Winkelträger 30 schwarz',
@@ -3292,7 +3292,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '270',
       },
-      imagePath: 'assets/images/36920.png',
+      imagePath: 'assets/images/36920.jpg',
     ),
     '36921': PartInfo(
       name: 'Winkelträger 60 schwarz',
@@ -3304,7 +3304,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '130',
       },
-      imagePath: 'assets/images/36921.png',
+      imagePath: 'assets/images/36921.jpg',
     ),
     '36925': PartInfo(
       name: 'Schaufel rot',
@@ -3316,7 +3316,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/36925.png',
+      imagePath: 'assets/images/36925.jpg',
     ),
     '106766': PartInfo(
       name: 'Traktorreifen D80',
@@ -3328,7 +3328,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/106766.png',
+      imagePath: 'assets/images/106766.jpg',
     ),
     '116251': PartInfo(
       name: 'Baustein 30 rot',
@@ -3340,7 +3340,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/116251.png',
+      imagePath: 'assets/images/116251.jpg',
     ),
     '116913': PartInfo(
       name: 'Felge 30 silber',
@@ -3352,7 +3352,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '16',
       },
-      imagePath: 'assets/images/116913.png',
+      imagePath: 'assets/images/116913.jpg',
     ),
     '122646': PartInfo(
       name: 'Rasterfelge 43 silber',
@@ -3364,7 +3364,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/122646.png',
+      imagePath: 'assets/images/122646.jpg',
     ),
     '135719': PartInfo(
       name: 'Batteriehalter (9V Block)',
@@ -3376,7 +3376,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/135719.png',
+      imagePath: 'assets/images/135719.jpg',
     ),
     '136528': PartInfo(
       name: 'Baustein 30 gelb',
@@ -3388,7 +3388,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '50',
       },
-      imagePath: 'assets/images/136528.png',
+      imagePath: 'assets/images/136528.jpg',
     ),
     '139778': PartInfo(
       name: 'Regler Power Set',
@@ -3400,7 +3400,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '3',
       },
-      imagePath: 'assets/images/139778.png',
+      imagePath: 'assets/images/139778.jpg',
     ),
     '142251': PartInfo(
       name: 'Reifen 35 x 15',
@@ -3412,7 +3412,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '48',
       },
-      imagePath: 'assets/images/142251.png',
+      imagePath: 'assets/images/142251.jpg',
     ),
     '143231': PartInfo(
       name: 'Felge 20,4 x 12 rot',
@@ -3424,7 +3424,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '26',
       },
-      imagePath: 'assets/images/143231.png',
+      imagePath: 'assets/images/143231.jpg',
     ),
     '143234': PartInfo(
       name: 'Flexprofil 180, grün',
@@ -3436,7 +3436,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '60',
       },
-      imagePath: 'assets/images/143234.png',
+      imagePath: 'assets/images/143234.jpg',
     ),
     '155902': PartInfo(
       name: 'Trichter, Kugelbahn, grün',
@@ -3448,7 +3448,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '5',
       },
-      imagePath: 'assets/images/155902.png',
+      imagePath: 'assets/images/155902.jpg',
     ),
     '156104': PartInfo(
       name: 'Baggerlöffel 45, silber',
@@ -3460,7 +3460,7 @@ class PartInfo {
         'Fach': 'klein',
         'Anzahl verfügbar': '10',
       },
-      imagePath: 'assets/images/156104.png',
+      imagePath: 'assets/images/156104.jpg',
     ),
     '159783': PartInfo(
       name: 'Highspeed Flexprofil 175 mm',
@@ -3472,7 +3472,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/159783.png',
+      imagePath: 'assets/images/159783.jpg',
     ),
     '163205': PartInfo(
       name: 'Felge 40',
@@ -3484,7 +3484,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/163205.png',
+      imagePath: 'assets/images/163205.jpg',
     ),
     '163206': PartInfo(
       name: 'Reifen 65',
@@ -3496,7 +3496,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/163206.png',
+      imagePath: 'assets/images/163206.jpg',
     ),
     '167367': PartInfo(
       name: 'Flexschlauch',
@@ -3508,7 +3508,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/167367.png',
+      imagePath: 'assets/images/167367.jpg',
     ),
     '167368': PartInfo(
       name: 'Kupplung für Flexschlauch',
@@ -3520,7 +3520,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/167368.png',
+      imagePath: 'assets/images/167368.jpg',
     ),
     '167369': PartInfo(
       name: 'Adapter für Flexschlauch',
@@ -3532,7 +3532,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/167369.png',
+      imagePath: 'assets/images/167369.jpg',
     ),
     '183025': PartInfo(
       name: 'Omniwheel Felge Außenring',
@@ -3544,7 +3544,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/183025.png',
+      imagePath: 'assets/images/183025.jpg',
     ),
     '183026': PartInfo(
       name: 'Omniwheel Felge Innenring',
@@ -3556,7 +3556,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/183026.png',
+      imagePath: 'assets/images/183026.jpg',
     ),
     '183027': PartInfo(
       name: 'Omniwheel Walze',
@@ -3568,7 +3568,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/183027.png',
+      imagePath: 'assets/images/183027.jpg',
     ),
     '183028': PartInfo(
       name: 'Omniwheel Lagerkugel',
@@ -3580,7 +3580,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/183028.png',
+      imagePath: 'assets/images/183028.jpg',
     ),
     '505287': PartInfo(
       name: 'Power Netzgerät 9V',
@@ -3592,7 +3592,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/505287.png',
+      imagePath: 'assets/images/505287.jpg',
     ),
     '522460': PartInfo(
       name: 'Ladegerät 8,4 V / 700 mA (2013)',
@@ -3604,7 +3604,7 @@ class PartInfo {
         'Fach': 'groß',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/522460.png',
+      imagePath: 'assets/images/522460.jpg',
     ),
     '31027': PartInfo(
       name: 'Seil blau 2000 mm',
@@ -3616,7 +3616,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '8',
       },
-      imagePath: 'assets/images/31027.png',
+      imagePath: 'assets/images/31027.jpg',
     ),
     '31360': PartInfo(
       name: 'Kabel, Doppellitze 2000 mm',
@@ -3628,7 +3628,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '12',
       },
-      imagePath: 'assets/images/31360.png',
+      imagePath: 'assets/images/31360.jpg',
     ),
     '36120': PartInfo(
       name: 'Reedkontakt',
@@ -3640,7 +3640,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/36120.png',
+      imagePath: 'assets/images/36120.jpg',
     ),
     '36356': PartInfo(
       name: 'Zwischensteg für Box 500,  lang',
@@ -3652,7 +3652,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36356.png',
+      imagePath: 'assets/images/36356.jpg',
     ),
     '36357': PartInfo(
       name: 'Zwischensteg für Box 500, kurz',
@@ -3664,7 +3664,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/36357.png',
+      imagePath: 'assets/images/36357.jpg',
     ),
     '36360': PartInfo(
       name: 'Box 258x186',
@@ -3676,7 +3676,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/36360.png',
+      imagePath: 'assets/images/36360.jpg',
     ),
     '36981': PartInfo(
       name: 'O - Ring 54 x 1,5 Silicon',
@@ -3688,7 +3688,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/36981.png',
+      imagePath: 'assets/images/36981.jpg',
     ),
     '128598': PartInfo(
       name: 'IR-Spursensor',
@@ -3700,7 +3700,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/128598.png',
+      imagePath: 'assets/images/128598.jpg',
     ),
     '128599': PartInfo(
       name: 'Farbsensor',
@@ -3712,7 +3712,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '2',
       },
-      imagePath: 'assets/images/128599.png',
+      imagePath: 'assets/images/128599.jpg',
     ),
     '133009': PartInfo(
       name: 'Ultraschall-Sensor',
@@ -3724,7 +3724,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/133009.png',
+      imagePath: 'assets/images/133009.jpg',
     ),
     '137103': PartInfo(
       name: 'O - Ring 108',
@@ -3736,7 +3736,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '6',
       },
-      imagePath: 'assets/images/137103.png',
+      imagePath: 'assets/images/137103.jpg',
     ),
     '137125': PartInfo(
       name: 'Encoderkabel 3adrig',
@@ -3748,7 +3748,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/137125.png',
+      imagePath: 'assets/images/137125.jpg',
     ),
     '152522': PartInfo(
       name: 'USB-Kamera',
@@ -3760,7 +3760,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/152522.png',
+      imagePath: 'assets/images/152522.jpg',
     ),
     '167984': PartInfo(
       name: 'Druckfeder 0,35x5,1x45',
@@ -3772,7 +3772,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '4',
       },
-      imagePath: 'assets/images/167984.png',
+      imagePath: 'assets/images/167984.jpg',
     ),
     '35602': PartInfo(
       name: 'Grundplatte 390x270',
@@ -3784,7 +3784,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '15',
       },
-      imagePath: 'assets/images/35602.png',
+      imagePath: 'assets/images/35602.jpg',
     ),
     '36497': PartInfo(
       name: 'Box 390x270',
@@ -3796,7 +3796,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '15',
       },
-      imagePath: 'assets/images/36497.png',
+      imagePath: 'assets/images/36497.jpg',
     ),
     '36587': PartInfo(
       name: 'Sortierwanne 128x188',
@@ -3808,7 +3808,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '120',
       },
-      imagePath: 'assets/images/36587.png',
+      imagePath: 'assets/images/36587.jpg',
     ),
     '36588': PartInfo(
       name: 'Zwischenwand',
@@ -3820,7 +3820,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '200',
       },
-      imagePath: 'assets/images/36588.png',
+      imagePath: 'assets/images/36588.jpg',
     ),
     '32985': PartInfo(
       name: 'Grundplatte 258x186',
@@ -3832,7 +3832,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '20',
       },
-      imagePath: 'assets/images/32985.png',
+      imagePath: 'assets/images/32985.jpg',
     ),
     '188047': PartInfo(
       name: 'Parcours Hightech',
@@ -3844,7 +3844,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/188047.png',
+      imagePath: 'assets/images/188047.jpg',
     ),
     '188845': PartInfo(
       name: 'Parcours Robotics Smarttech',
@@ -3856,7 +3856,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '1',
       },
-      imagePath: 'assets/images/188845.png',
+      imagePath: 'assets/images/188845.jpg',
     ),
     '188460': PartInfo(
       name: 'Barcode',
@@ -3868,7 +3868,7 @@ class PartInfo {
         'Fach': '',
         'Anzahl verfügbar': '0',
       },
-      imagePath: 'assets/images/188460.png',
+      imagePath: 'assets/images/188460.jpg',
     ),
   };
 
@@ -3894,7 +3894,7 @@ class PartInfo {
         'Erkanntes Label': label,
         'Hinweis': 'Bitte füge weitere Informationen zu diesem Teil hinzu.',
       },
-      imagePath: 'assets/images/unknown.png',
+      imagePath: 'assets/images/unknown.jpg',
     );
   }
 }

@@ -7,8 +7,9 @@ DATA_DIR = os.path.join(script_dir, 'trainingsdaten')
 OUTPUT_MODEL = os.path.join(script_dir, 'mein_modell.tflite')
 OUTPUT_LABELS = os.path.join(script_dir, 'labels.txt')
 IMG_SIZE = (224, 224)
-BATCH_SIZE = 32
-EPOCHS = 10 # Erhöhe auf 20-30 für bessere Genauigkeit
+BATCH_SIZE = 16  # Kleinere Batch-Size für besseres Lernen
+EPOCHS = 30  # Mehr Epochen für bessere Genauigkeit
+FINE_TUNE_EPOCHS = 15  # Zusätzliche Epochen für Fine-Tuning
 
 # Prüfen ob Trainingsdaten vorhanden sind
 if not os.path.exists(DATA_DIR):
@@ -38,8 +39,10 @@ val_ds = tf.keras.utils.image_dataset_from_directory(
 
 # 3. DATA AUGMENTATION (Macht das Modell robuster gegen Licht/Drehung)
 data_augmentation = tf.keras.Sequential([
-    tf.keras.layers.RandomFlip("horizontal_and_vertical"),
-    tf.keras.layers.RandomRotation(0.2),
+    tf.keras.layers.RandomFlip("horizontal"),
+    tf.keras.layers.RandomRotation(0.1),
+    tf.keras.layers.RandomZoom(0.1),
+    tf.keras.layers.RandomBrightness(0.2),
 ])
 
 # 4. MODELL AUFBAUEN (MobileNetV2)
@@ -64,8 +67,22 @@ model.compile(optimizer='adam',
               loss='sparse_categorical_crossentropy', 
               metrics=['accuracy'])
 
-print("Starte Training...")
-model.fit(train_ds, validation_data=val_ds, epochs=EPOCHS)
+print("Starte Training (Phase 1: Basis-Training)...")
+history = model.fit(train_ds, validation_data=val_ds, epochs=EPOCHS)
+
+# PHASE 2: FINE-TUNING (Entfriere die letzten Layer des Base Models)
+print("\nStarte Fine-Tuning (Phase 2)...")
+base_model.trainable = True
+# Friere nur die ersten 100 Layer ein, trainiere den Rest
+for layer in base_model.layers[:100]:
+    layer.trainable = False
+
+# Kompiliere neu mit kleinerer Learning Rate für Fine-Tuning
+model.compile(optimizer=tf.keras.optimizers.Adam(1e-5),
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+history_fine = model.fit(train_ds, validation_data=val_ds, epochs=FINE_TUNE_EPOCHS)
 
 # 6. EXPORT NACH TFLITE
 print("Konvertiere zu TFLite...")

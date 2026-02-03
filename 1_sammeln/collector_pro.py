@@ -189,7 +189,7 @@ def select_class_dialog(classes, current_class):
 for c in classes:
     os.makedirs(os.path.join(base_dir, c), exist_ok=True)
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 current_class_idx = 0
 count = get_image_count(classes[current_class_idx])  # Initiale Bildanzahl aus Ordner
 auto_mode = False

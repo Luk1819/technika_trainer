@@ -1,5 +1,18 @@
-24356
-bauteil_a
-bauteil_b
-bauteil_c
-efdgf
+0 Baustein 30
+1 Winkelträger 30
+2 S-Riegel 4
+3 S-Riegel 6
+4 Verbinder 15
+5 Verbinder 30
+6 Verbinder 45
+7 Federnockern
+8 Strebenadabter
+9 Baustein 15 mit Bohrung
+10 Baustein 15
+11 Baustein 15 2Z
+12 Lasche 15
+13 Lasche 21,2
+14 S-Statikadabter
+15 Kupplungsstück 30
+16 L-Lasche
+17 NICHTS
