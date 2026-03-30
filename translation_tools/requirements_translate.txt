@@ -1,0 +1,10 @@
+# Requirements für Übersetzungs-Script
+
+# Option 1: Google Translate (Kostenlos, einfach, moderate Qualität)
+googletrans==4.0.0-rc1
+
+# Option 2: DeepL (Beste Qualität, API Key nötig)
+# deepl
+
+# Option 3: OpenAI (Sehr gut, API Key nötig)
+# openai

@@ -1,0 +1,6414 @@
+{
+  "32064": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32064",
+      "box": "1",
+      "compartment": "a + c + d",
+      "quantity_available": "200"
+    },
+    "imagePath": "assets/images/32064.jpg",
+    "name": {
+      "de": "Baustein 15 mit Bohrung",
+      "en": "Module 15 with hole",
+      "fr": "Module 15 avec trou"
+    },
+    "description": {
+      "de": "Baustein 15 mit Bohrung aus dem fischertechnik Sortiment.",
+      "en": "Building block 15 with hole from the fischertechnik range.",
+      "fr": "Bloc de construction 15 avec trou de la gamme fischertechnik."
+    }
+  },
+  "32321": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32321",
+      "box": "1",
+      "compartment": "b",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/32321.jpg",
+    "name": {
+      "de": "Baustein 15 mit Ansenkung",
+      "en": "Building block 15 with countersink",
+      "fr": "Bloc de construction 15 avec fraisage"
+    },
+    "description": {
+      "de": "Baustein 15 mit Ansenkung aus dem fischertechnik Sortiment.",
+      "en": "Building block 15 with countersink from the fischertechnik range.",
+      "fr": "Bloc de construction 15 avec fraise de la gamme fischertechnik."
+    }
+  },
+  "32881": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32881",
+      "box": "1",
+      "compartment": "f + g + h",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/32881.jpg",
+    "name": {
+      "de": "Baustein 15,  1 Zapfen",
+      "en": "Building block 15, 1 pin",
+      "fr": "Bloc de construction 15, 1 broche"
+    },
+    "description": {
+      "de": "Baustein 15,  1 Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Building block 15, 1 pin from the fischertechnik range.",
+      "fr": "Bloc de construction 15, 1 broche de la gamme fischertechnik."
+    }
+  },
+  "32882": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32882",
+      "box": "1",
+      "compartment": "e",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/32882.jpg",
+    "name": {
+      "de": "Baustein 15,  2 Zapfen",
+      "en": "Building block 15, 2 cones",
+      "fr": "Bloc de construction 15, 2 cônes"
+    },
+    "description": {
+      "de": "Baustein 15,  2 Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Building block 15, 2 cones from the fischertechnik range.",
+      "fr": "Bloc de construction 15, 2 cônes de la gamme fischertechnik."
+    }
+  },
+  "108278": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "108278",
+      "box": "1",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/108278.jpg",
+    "name": {
+      "de": "Magnetbaustein",
+      "en": "Magnetic component",
+      "fr": "Composant magnétique"
+    },
+    "description": {
+      "de": "Magnetbaustein aus dem fischertechnik Sortiment.",
+      "en": "Magnetic module from the fischertechnik range.",
+      "fr": "Module magnétique de la gamme fischertechnik."
+    }
+  },
+  "116252": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "116252",
+      "box": "1",
+      "compartment": "f + g + h",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/116252.jpg",
+    "name": {
+      "de": "Baustein 15, rot",
+      "en": "Building block 15, red",
+      "fr": "Bloc de construction 15, rouge"
+    },
+    "description": {
+      "de": "Baustein 15, rot aus dem fischertechnik Sortiment.",
+      "en": "Building block 15, red from the fischertechnik range.",
+      "fr": "Bloc de construction 15, rouge de la gamme fischertechnik."
+    }
+  },
+  "136529": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "136529",
+      "box": "1",
+      "compartment": "f + g + h",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/136529.jpg",
+    "name": {
+      "de": "Baustein 15, gelb",
+      "en": "Building block 15, yellow",
+      "fr": "Bloc de construction 15, jaune"
+    },
+    "description": {
+      "de": "Baustein 15, gelb aus dem fischertechnik Sortiment.",
+      "en": "Building block 15, yellow from the fischertechnik range.",
+      "fr": "Bloc de construction 15, jaune de la gamme fischertechnik."
+    }
+  },
+  "32850": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "32850",
+      "box": "2",
+      "compartment": "e",
+      "quantity_available": "70"
+    },
+    "imagePath": "assets/images/32850.jpg",
+    "name": {
+      "de": "Riegelstein 15x15",
+      "en": "Locking stone 15x15",
+      "fr": "Pierre de verrouillage 15x15"
+    },
+    "description": {
+      "de": "Riegelstein 15x15 aus dem fischertechnik Sortiment.",
+      "en": "Locking block 15x15 from the fischertechnik range.",
+      "fr": "Bloc de verrouillage 15x15 de la gamme fischertechnik."
+    }
+  },
+  "35979": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35979",
+      "box": "2",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/35979.jpg",
+    "name": {
+      "de": "U-Träger Adapter",
+      "en": "U-beam adapter",
+      "fr": "Adaptateur pour poutre en U"
+    },
+    "description": {
+      "de": "U-Träger Adapter aus dem fischertechnik Sortiment.",
+      "en": "U-beam adapter from the fischertechnik range.",
+      "fr": "Adaptateur pour poutre en U de la gamme fischertechnik."
+    }
+  },
+  "36922": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36922",
+      "box": "2",
+      "compartment": "a + c+ d",
+      "quantity_available": "220"
+    },
+    "imagePath": "assets/images/36922.jpg",
+    "name": {
+      "de": "Winkelträger 15,  1 Zapfen schwarz",
+      "en": "Angle bracket 15, 1 black pin",
+      "fr": "Equerre 15, 1 goupille noire"
+    },
+    "description": {
+      "de": "Winkelträger 15,  1 Zapfen schwarz aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket 15, 1 black pin from the fischertechnik range.",
+      "fr": "Equerre 15, 1 goupille noire de la gamme fischertechnik."
+    }
+  },
+  "36950": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36950",
+      "box": "2",
+      "compartment": "d",
+      "quantity_available": "120"
+    },
+    "imagePath": "assets/images/36950.jpg",
+    "name": {
+      "de": "Winkelträger 15,  2 Zapfen schwarz",
+      "en": "Angle bracket 15, 2 black pins",
+      "fr": "Equerre 15, 2 broches noires"
+    },
+    "description": {
+      "de": "Winkelträger 15,  2 Zapfen schwarz aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket 15, 2 pins black from the fischertechnik range.",
+      "fr": "Equerre 15, 2 broches noir de la gamme fischertechnik."
+    }
+  },
+  "36973": {
+    "category": "structural",
+    "technicalDetails": {
+      "part_number": "36973",
+      "box": "2",
+      "compartment": "g",
+      "quantity_available": "70"
+    },
+    "imagePath": "assets/images/36973.jpg",
+    "name": {
+      "de": "Statikstein rot",
+      "en": "Red static stone",
+      "fr": "Pierre statique rouge"
+    },
+    "description": {
+      "de": "Statikstein rot aus dem fischertechnik Sortiment.",
+      "en": "Red static stone from the fischertechnik range.",
+      "fr": "Pierre statique rouge de la gamme fischertechnik."
+    }
+  },
+  "38240": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38240",
+      "box": "2",
+      "compartment": "f + h",
+      "quantity_available": "150"
+    },
+    "imagePath": "assets/images/38240.jpg",
+    "name": {
+      "de": "Baustein V15 Eck",
+      "en": "Building block V15 corner",
+      "fr": "Coin du bloc de construction V15"
+    },
+    "description": {
+      "de": "Baustein V15 Eck aus dem fischertechnik Sortiment.",
+      "en": "Building block V15 corner from the fischertechnik range.",
+      "fr": "Bloc de construction d'angle V15 de la gamme fischertechnik."
+    }
+  },
+  "35055": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35055",
+      "box": "3",
+      "compartment": "g",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/35055.jpg",
+    "name": {
+      "de": "Bogenstück 60°",
+      "en": "Elbow 60°",
+      "fr": "Coude 60°"
+    },
+    "description": {
+      "de": "Bogenstück 60° aus dem fischertechnik Sortiment.",
+      "en": "Elbow piece 60° from the fischertechnik range.",
+      "fr": "Pièce coudée 60° de la gamme fischertechnik."
+    }
+  },
+  "36905": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36905",
+      "box": "3",
+      "compartment": "g",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/36905.jpg",
+    "name": {
+      "de": "Flachträger 120, schwarz",
+      "en": "Flat support 120, black",
+      "fr": "Support plat 120, noir"
+    },
+    "description": {
+      "de": "Flachträger 120, schwarz aus dem fischertechnik Sortiment.",
+      "en": "Flat support 120, black from the fischertechnik range.",
+      "fr": "Support plat 120, noir de la gamme fischertechnik."
+    }
+  },
+  "36912": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "36912",
+      "box": "3",
+      "compartment": "d",
+      "quantity_available": "110"
+    },
+    "imagePath": "assets/images/36912.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 30",
+      "en": "I-strut with hole black 30",
+      "fr": "Entretoise en I avec trou noir 30"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 30 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 30 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 30 de la gamme fischertechnik."
+    }
+  },
+  "36913": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "36913",
+      "box": "3",
+      "compartment": "b",
+      "quantity_available": "145"
+    },
+    "imagePath": "assets/images/36913.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 45",
+      "en": "I-strut with hole black 45",
+      "fr": "Jambe de force en I avec trou noir 45"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 45 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 45 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 45 de la gamme fischertechnik."
+    }
+  },
+  "36914": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "36914",
+      "box": "3",
+      "compartment": "d",
+      "quantity_available": "52"
+    },
+    "imagePath": "assets/images/36914.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 15",
+      "en": "I-strut with hole black 15",
+      "fr": "Entretoise en I avec trou noir 15"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 15 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 15 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 15 de la gamme fischertechnik."
+    }
+  },
+  "36923": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "36923",
+      "box": "3",
+      "compartment": "c",
+      "quantity_available": "75"
+    },
+    "imagePath": "assets/images/36923.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 75",
+      "en": "I-strut with hole black 75",
+      "fr": "Jambe de force en I avec trou noir 75"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 75 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 75 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 75 de la gamme fischertechnik."
+    }
+  },
+  "36952": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "36952",
+      "box": "3",
+      "compartment": "b",
+      "quantity_available": "75"
+    },
+    "imagePath": "assets/images/36952.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 60",
+      "en": "I-strut with hole black 60",
+      "fr": "Jambe de force en I avec trou noir 60"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 60 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 60 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 60 de la gamme fischertechnik."
+    }
+  },
+  "38543": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "38543",
+      "box": "3",
+      "compartment": "c",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/38543.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 90",
+      "en": "I-strut with hole black 90",
+      "fr": "Jambe de force en I avec trou noir 90"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 90 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 90 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 90 de la gamme fischertechnik."
+    }
+  },
+  "38546": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "38546",
+      "box": "3",
+      "compartment": "a",
+      "quantity_available": "75"
+    },
+    "imagePath": "assets/images/38546.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 120",
+      "en": "I-strut with hole black 120",
+      "fr": "Jambe de force en I avec trou noir 120"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 120 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 120 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 120 de la gamme fischertechnik."
+    }
+  },
+  "137654": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "137654",
+      "box": "3",
+      "compartment": "e",
+      "quantity_available": "44"
+    },
+    "imagePath": "assets/images/137654.jpg",
+    "name": {
+      "de": "X-Strebe silber 169,6",
+      "en": "X-brace silver 169.6",
+      "fr": "Orthèse en X argent 169,6"
+    },
+    "description": {
+      "de": "X-Strebe silber 169,6 aus dem fischertechnik Sortiment.",
+      "en": "X-strut silver 169.6 from the fischertechnik range.",
+      "fr": "X-strut argent 169,6 de la gamme fischertechnik."
+    }
+  },
+  "143236": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "143236",
+      "box": "3",
+      "compartment": "c",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/143236.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch grün 90",
+      "en": "I-strut with hole green 90",
+      "fr": "Entretoise en I avec trou vert 90"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch grün 90 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole green 90 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou vert 90 de la gamme fischertechnik."
+    }
+  },
+  "146529": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "146529",
+      "box": "3",
+      "compartment": "d",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/146529.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch grün 15",
+      "en": "I-strut with hole green 15",
+      "fr": "Entretoise en I avec trou vert 15"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch grün 15 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole green 15 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou vert 15 de la gamme fischertechnik."
+    }
+  },
+  "146532": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "146532",
+      "box": "3",
+      "compartment": "b",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/146532.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch grün 60",
+      "en": "I-strut with hole green 60",
+      "fr": "Entretoise en I avec trou vert 60"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch grün 60 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole green 60 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou vert 60 de la gamme fischertechnik."
+    }
+  },
+  "156105": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "156105",
+      "box": "3",
+      "compartment": "f",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/156105.jpg",
+    "name": {
+      "de": "X-Strebe silber 42,4",
+      "en": "X-brace silver 42.4",
+      "fr": "Orthèse en X argent 42,4"
+    },
+    "description": {
+      "de": "X-Strebe silber 42,4 aus dem fischertechnik Sortiment.",
+      "en": "X-strut silver 42.4 from the fischertechnik range.",
+      "fr": "X-strut silver 42.4 de la gamme fischertechnik."
+    }
+  },
+  "156502": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "156502",
+      "box": "3",
+      "compartment": "c",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/156502.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch grün 75",
+      "en": "I-strut with hole green 75",
+      "fr": "Entretoise en I avec trou vert 75"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch grün 75 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole green 75 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou vert 75 de la gamme fischertechnik."
+    }
+  },
+  "159781": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "159781",
+      "box": "3",
+      "compartment": "a",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/159781.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch grün 105",
+      "en": "I-strut with hole green 105",
+      "fr": "Entretoise en I avec trou vert 105"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch grün 105 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole green 105 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou vert 105 de la gamme fischertechnik."
+    }
+  },
+  "160547": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "160547",
+      "box": "3",
+      "compartment": "h",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/160547.jpg",
+    "name": {
+      "de": "X-Strebe silber 63,6",
+      "en": "X-brace silver 63.6",
+      "fr": "Orthèse en X argent 63,6"
+    },
+    "description": {
+      "de": "X-Strebe silber 63,6 aus dem fischertechnik Sortiment.",
+      "en": "X-strut silver 63.6 from the fischertechnik range.",
+      "fr": "X-strut silver 63.6 de la gamme fischertechnik."
+    }
+  },
+  "160548": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "160548",
+      "box": "3",
+      "compartment": "f",
+      "quantity_available": "64"
+    },
+    "imagePath": "assets/images/160548.jpg",
+    "name": {
+      "de": "X-Strebe silber 106",
+      "en": "X-brace silver 106",
+      "fr": "Orthèse en X argent 106"
+    },
+    "description": {
+      "de": "X-Strebe silber 106 aus dem fischertechnik Sortiment.",
+      "en": "X-strut silver 106 from the fischertechnik range.",
+      "fr": "X-strut silver 106 de la gamme fischertechnik."
+    }
+  },
+  "176669": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "176669",
+      "box": "3",
+      "compartment": "h",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/176669.jpg",
+    "name": {
+      "de": "X-Strebe silber 84,8",
+      "en": "X-brace silver 84.8",
+      "fr": "Orthèse en X argent 84,8"
+    },
+    "description": {
+      "de": "X-Strebe silber 84,8 aus dem fischertechnik Sortiment.",
+      "en": "X-strut silver 84.8 from the fischertechnik range.",
+      "fr": "X-strut argent 84,8 de la gamme fischertechnik."
+    }
+  },
+  "176775": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "176775",
+      "box": "3",
+      "compartment": "a",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/176775.jpg",
+    "name": {
+      "de": "I-Strebe mit Loch schwarz 105",
+      "en": "I-strut with hole black 105",
+      "fr": "Jambe de force en I avec trou noir 105"
+    },
+    "description": {
+      "de": "I-Strebe mit Loch schwarz 105 aus dem fischertechnik Sortiment.",
+      "en": "I-strut with hole black 105 from the fischertechnik range.",
+      "fr": "Jambe de force en I avec trou noir 105 de la gamme fischertechnik."
+    }
+  },
+  "180929": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "180929",
+      "box": "3",
+      "compartment": "g",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/180929.jpg",
+    "name": {
+      "de": "Flachstück 120 schwarz",
+      "en": "Flat piece 120 black",
+      "fr": "Pièce plate 120 noire"
+    },
+    "description": {
+      "de": "Flachstück 120 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Flat piece 120 black from the fischertechnik range.",
+      "fr": "Pièce plate 120 noire de la gamme fischertechnik."
+    }
+  },
+  "31060": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31060",
+      "box": "4",
+      "compartment": "d",
+      "quantity_available": "110"
+    },
+    "imagePath": "assets/images/31060.jpg",
+    "name": {
+      "de": "Verbindungsstück 15",
+      "en": "Connector 15",
+      "fr": "Connecteur 15"
+    },
+    "description": {
+      "de": "Verbindungsstück 15 aus dem fischertechnik Sortiment.",
+      "en": "Connector 15 from the fischertechnik range.",
+      "fr": "Connecteur 15 de la gamme fischertechnik."
+    }
+  },
+  "31061": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31061",
+      "box": "4",
+      "compartment": "d",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/31061.jpg",
+    "name": {
+      "de": "Verbindungsstück 30",
+      "en": "Connector 30",
+      "fr": "Connecteur 30"
+    },
+    "description": {
+      "de": "Verbindungsstück 30 aus dem fischertechnik Sortiment.",
+      "en": "Connector 30 from the fischertechnik range.",
+      "fr": "Connecteur 30 de la gamme fischertechnik."
+    }
+  },
+  "31330": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31330",
+      "box": "4",
+      "compartment": "d",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/31330.jpg",
+    "name": {
+      "de": "Verbindungsstück 45",
+      "en": "Connector 45",
+      "fr": "Connecteur 45"
+    },
+    "description": {
+      "de": "Verbindungsstück 45 aus dem fischertechnik Sortiment.",
+      "en": "Connector 45 from the fischertechnik range.",
+      "fr": "Connecteur 45 de la gamme fischertechnik."
+    }
+  },
+  "31602": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31602",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31602.jpg",
+    "name": {
+      "de": "Kufe",
+      "en": "skid",
+      "fr": "déraper"
+    },
+    "description": {
+      "de": "Kufe aus dem fischertechnik Sortiment.",
+      "en": "Skid from the fischertechnik range.",
+      "fr": "Skid de la gamme fischertechnik."
+    }
+  },
+  "31667": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31667",
+      "box": "4",
+      "compartment": "e",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31667.jpg",
+    "name": {
+      "de": "Lasche 15",
+      "en": "Tab 15",
+      "fr": "Onglet 15"
+    },
+    "description": {
+      "de": "Lasche 15 aus dem fischertechnik Sortiment.",
+      "en": "Tab 15 from the fischertechnik range.",
+      "fr": "Onglet 15 de la gamme fischertechnik."
+    }
+  },
+  "31668": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31668",
+      "box": "4",
+      "compartment": "e",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/31668.jpg",
+    "name": {
+      "de": "Lasche 21,2",
+      "en": "Tab 21.2",
+      "fr": "Onglet 21.2"
+    },
+    "description": {
+      "de": "Lasche 21,2 aus dem fischertechnik Sortiment.",
+      "en": "Tab 21.2 from the fischertechnik range.",
+      "fr": "Onglet 21.2 de la gamme fischertechnik."
+    }
+  },
+  "31670": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "31670",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/31670.jpg",
+    "name": {
+      "de": "Winkellasche",
+      "en": "Angle tab",
+      "fr": "Onglet Angle"
+    },
+    "description": {
+      "de": "Winkellasche aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket from the fischertechnik range.",
+      "fr": "Équerre de la gamme fischertechnik."
+    }
+  },
+  "31671": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31671",
+      "box": "4",
+      "compartment": "e",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/31671.jpg",
+    "name": {
+      "de": "L-Lasche",
+      "en": "L tab",
+      "fr": "Onglet L"
+    },
+    "description": {
+      "de": "L-Lasche aus dem fischertechnik Sortiment.",
+      "en": "L-tab from the fischertechnik range.",
+      "fr": "Languette en L de la gamme fischertechnik."
+    }
+  },
+  "31672": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31672",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31672.jpg",
+    "name": {
+      "de": "T-Lasche",
+      "en": "T-tab",
+      "fr": "Languette en T"
+    },
+    "description": {
+      "de": "T-Lasche aus dem fischertechnik Sortiment.",
+      "en": "T-tab from the fischertechnik range.",
+      "fr": "Languette en T de la gamme fischertechnik."
+    }
+  },
+  "31673": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31673",
+      "box": "4",
+      "compartment": "e",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31673.jpg",
+    "name": {
+      "de": "Sternlasche",
+      "en": "Star tab",
+      "fr": "Onglet Étoile"
+    },
+    "description": {
+      "de": "Sternlasche aus dem fischertechnik Sortiment.",
+      "en": "Star strap from the fischertechnik range.",
+      "fr": "Bracelet étoile de la gamme fischertechnik."
+    }
+  },
+  "31674": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31674",
+      "box": "4",
+      "compartment": "a",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31674.jpg",
+    "name": {
+      "de": "Adapterlasche",
+      "en": "Adapter tab",
+      "fr": "Onglet Adaptateur"
+    },
+    "description": {
+      "de": "Adapterlasche aus dem fischertechnik Sortiment.",
+      "en": "Adapter bracket from the fischertechnik range.",
+      "fr": "Support adaptateur de la gamme fischertechnik."
+    }
+  },
+  "31675": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31675",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31675.jpg",
+    "name": {
+      "de": "Kreuzlasche",
+      "en": "Cross tab",
+      "fr": "Tableau croisé"
+    },
+    "description": {
+      "de": "Kreuzlasche aus dem fischertechnik Sortiment.",
+      "en": "Cross strap from the fischertechnik range.",
+      "fr": "Sangle croisée de la gamme fischertechnik."
+    }
+  },
+  "31848": {
+    "category": "strut",
+    "technicalDetails": {
+      "part_number": "31848",
+      "box": "4",
+      "compartment": "d",
+      "quantity_available": "64"
+    },
+    "imagePath": "assets/images/31848.jpg",
+    "name": {
+      "de": "Strebenadapter",
+      "en": "Strut adapter",
+      "fr": "Adaptateur de jambe de force"
+    },
+    "description": {
+      "de": "Strebenadapter aus dem fischertechnik Sortiment.",
+      "en": "Strut adapter from the fischertechnik range.",
+      "fr": "Adaptateur de jambe de force de la gamme fischertechnik."
+    }
+  },
+  "31982": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31982",
+      "box": "4",
+      "compartment": "f",
+      "quantity_available": "540"
+    },
+    "imagePath": "assets/images/31982.jpg",
+    "name": {
+      "de": "Federnocken",
+      "en": "Spring cams",
+      "fr": "Cames à ressort"
+    },
+    "description": {
+      "de": "Federnocken aus dem fischertechnik Sortiment.",
+      "en": "Spring cams from the fischertechnik range.",
+      "fr": "Cames à ressort de la gamme fischertechnik."
+    }
+  },
+  "35799": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "35799",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/35799.jpg",
+    "name": {
+      "de": "Riegelschlüssel",
+      "en": "Deadbolt key",
+      "fr": "Clé à pêne dormant"
+    },
+    "description": {
+      "de": "Riegelschlüssel aus dem fischertechnik Sortiment.",
+      "en": "Deadbolt key from the fischertechnik range.",
+      "fr": "Clé à pêne dormant de la gamme fischertechnik."
+    }
+  },
+  "36323": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "36323",
+      "box": "4",
+      "compartment": "b",
+      "quantity_available": "1000"
+    },
+    "imagePath": "assets/images/36323.jpg",
+    "name": {
+      "de": "S-Riegel 4",
+      "en": "S-bar 4",
+      "fr": "Barre en S 4"
+    },
+    "description": {
+      "de": "S-Riegel 4 aus dem fischertechnik Sortiment.",
+      "en": "S-bar 4 from the fischertechnik range.",
+      "fr": "Barre en S 4 de la gamme fischertechnik."
+    }
+  },
+  "36324": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "36324",
+      "box": "4",
+      "compartment": "c",
+      "quantity_available": "130"
+    },
+    "imagePath": "assets/images/36324.jpg",
+    "name": {
+      "de": "S-Riegel 6",
+      "en": "S-bar 6",
+      "fr": "Barre en S 6"
+    },
+    "description": {
+      "de": "S-Riegel 6 aus dem fischertechnik Sortiment.",
+      "en": "S-bar 6 from the fischertechnik range.",
+      "fr": "Barre en S 6 de la gamme fischertechnik."
+    }
+  },
+  "36334": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "36334",
+      "box": "4",
+      "compartment": "d",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/36334.jpg",
+    "name": {
+      "de": "Riegelscheibe",
+      "en": "locking disc",
+      "fr": "disque de verrouillage"
+    },
+    "description": {
+      "de": "Riegelscheibe aus dem fischertechnik Sortiment.",
+      "en": "Locking disc from the fischertechnik range.",
+      "fr": "Disque de verrouillage de la gamme fischertechnik."
+    }
+  },
+  "38423": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "38423",
+      "box": "4",
+      "compartment": "a",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/38423.jpg",
+    "name": {
+      "de": "Winkelstein 10x15x15",
+      "en": "Angle stone 10x15x15",
+      "fr": "Pierre d'angle 10x15x15"
+    },
+    "description": {
+      "de": "Winkelstein 10x15x15 aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 10x15x15 from the fischertechnik range.",
+      "fr": "Pierre d'angle 10x15x15 de la gamme fischertechnik."
+    }
+  },
+  "208424": {
+    "category": "latch",
+    "technicalDetails": {
+      "part_number": "208424",
+      "box": "4",
+      "compartment": "h",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/208424.jpg",
+    "name": {
+      "de": "Riegelnocken schwarz",
+      "en": "Black locking cam",
+      "fr": "Came de verrouillage noire"
+    },
+    "description": {
+      "de": "Riegelnocken schwarz aus dem fischertechnik Sortiment.",
+      "en": "Black locking cams from the fischertechnik range.",
+      "fr": "Cames de verrouillage noires de la gamme fischertechnik."
+    }
+  },
+  "31124": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31124",
+      "box": "5",
+      "compartment": "g",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31124.jpg",
+    "name": {
+      "de": "Aufnahmeachse",
+      "en": "Recording axis",
+      "fr": "Axe d'enregistrement"
+    },
+    "description": {
+      "de": "Aufnahmeachse aus dem fischertechnik Sortiment.",
+      "en": "Mounting axle from the fischertechnik range.",
+      "fr": "Axe de montage de la gamme fischertechnik."
+    }
+  },
+  "31426": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31426",
+      "box": "5",
+      "compartment": "d",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31426.jpg",
+    "name": {
+      "de": "Gelenkwürfel-Zunge",
+      "en": "Articulated cube tongue",
+      "fr": "Languette cubique articulée"
+    },
+    "description": {
+      "de": "Gelenkwürfel-Zunge aus dem fischertechnik Sortiment.",
+      "en": "Joint cube tongue from the fischertechnik range.",
+      "fr": "Languette cubique articulée de la gamme fischertechnik."
+    }
+  },
+  "31436": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31436",
+      "box": "5",
+      "compartment": "d",
+      "quantity_available": "90"
+    },
+    "imagePath": "assets/images/31436.jpg",
+    "name": {
+      "de": "Gelenkwürfel-Klaue",
+      "en": "Articulated cube claw",
+      "fr": "Griffe cubique articulée"
+    },
+    "description": {
+      "de": "Gelenkwürfel-Klaue aus dem fischertechnik Sortiment.",
+      "en": "Joint cube claw from the fischertechnik range.",
+      "fr": "Griffe cubique commune de la gamme fischertechnik."
+    }
+  },
+  "35975": {
+    "category": "structural",
+    "technicalDetails": {
+      "part_number": "35975",
+      "box": "5",
+      "compartment": "d",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/35975.jpg",
+    "name": {
+      "de": "Statikadapter",
+      "en": "Static adapter",
+      "fr": "Adaptateur statique"
+    },
+    "description": {
+      "de": "Statikadapter aus dem fischertechnik Sortiment.",
+      "en": "Static adapter from the fischertechnik range.",
+      "fr": "Adaptateur statique de la gamme fischertechnik."
+    }
+  },
+  "36819": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36819",
+      "box": "5",
+      "compartment": "d",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/36819.jpg",
+    "name": {
+      "de": "Lagerhülse",
+      "en": "bearing sleeve",
+      "fr": "manchon de roulement"
+    },
+    "description": {
+      "de": "Lagerhülse aus dem fischertechnik Sortiment.",
+      "en": "Bearing sleeve from the fischertechnik range.",
+      "fr": "Manchon de roulement de la gamme fischertechnik."
+    }
+  },
+  "37468": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37468",
+      "box": "5",
+      "compartment": "a",
+      "quantity_available": "200"
+    },
+    "imagePath": "assets/images/37468.jpg",
+    "name": {
+      "de": "Baustein 7,5",
+      "en": "Building block 7.5",
+      "fr": "Élément de base 7.5"
+    },
+    "description": {
+      "de": "Baustein 7,5 aus dem fischertechnik Sortiment.",
+      "en": "Building block 7.5 from the fischertechnik range.",
+      "fr": "Bloc de construction 7.5 de la gamme fischertechnik."
+    }
+  },
+  "38253": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38253",
+      "box": "5",
+      "compartment": "e",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38253.jpg",
+    "name": {
+      "de": "Kupplungsstück",
+      "en": "Coupling piece",
+      "fr": "Pièce d'accouplement"
+    },
+    "description": {
+      "de": "Kupplungsstück aus dem fischertechnik Sortiment.",
+      "en": "Coupling piece from the fischertechnik range.",
+      "fr": "Pièce d'accouplement de la gamme fischertechnik."
+    }
+  },
+  "38260": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38260",
+      "box": "5",
+      "compartment": "e",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/38260.jpg",
+    "name": {
+      "de": "Kupplungsstück 30",
+      "en": "Coupling piece 30",
+      "fr": "Pièce d'accouplement 30"
+    },
+    "description": {
+      "de": "Kupplungsstück 30 aus dem fischertechnik Sortiment.",
+      "en": "Coupling piece 30 from the fischertechnik range.",
+      "fr": "Pièce d'accouplement 30 de la gamme fischertechnik."
+    }
+  },
+  "130593": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "130593",
+      "box": "5",
+      "compartment": "g",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/130593.jpg",
+    "name": {
+      "de": "Rastachse mit Platte",
+      "en": "Locking axle with plate",
+      "fr": "Axe de blocage avec plaque"
+    },
+    "description": {
+      "de": "Rastachse mit Platte aus dem fischertechnik Sortiment.",
+      "en": "Locking axle with plate from the fischertechnik range.",
+      "fr": "Axe de blocage avec plaque de la gamme fischertechnik."
+    }
+  },
+  "163201": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163201",
+      "box": "5",
+      "compartment": "c",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/163201.jpg",
+    "name": {
+      "de": "Baustein 15x15 rund, rot",
+      "en": "Building block 15x15 round, red",
+      "fr": "Bloc de construction 15x15 rond, rouge"
+    },
+    "description": {
+      "de": "Baustein 15x15 rund, rot aus dem fischertechnik Sortiment.",
+      "en": "Building block 15x15 round, red from the fischertechnik range.",
+      "fr": "Bloc de construction 15x15 rond, rouge de la gamme fischertechnik."
+    }
+  },
+  "163439": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163439",
+      "box": "5",
+      "compartment": "c",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/163439.jpg",
+    "name": {
+      "de": "Baustein 15x30 rund",
+      "en": "Building block 15x30 round",
+      "fr": "Bloc de construction 15x30 rond"
+    },
+    "description": {
+      "de": "Baustein 15x30 rund aus dem fischertechnik Sortiment.",
+      "en": "Building block 15x30 round from the fischertechnik range.",
+      "fr": "Bloc de construction 15x30 rond de la gamme fischertechnik."
+    }
+  },
+  "172804": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172804",
+      "box": "5",
+      "compartment": "b",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/172804.jpg",
+    "name": {
+      "de": "Drehgelenk Zapfen, schwarz",
+      "en": "Swivel pin, black",
+      "fr": "Axe pivotant, noir"
+    },
+    "description": {
+      "de": "Drehgelenk Zapfen, schwarz aus dem fischertechnik Sortiment.",
+      "en": "Swivel joint pin, black from the fischertechnik range.",
+      "fr": "Goupille de joint pivotant, noire de la gamme fischertechnik."
+    }
+  },
+  "172805": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172805",
+      "box": "5",
+      "compartment": "b",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/172805.jpg",
+    "name": {
+      "de": "Drehgelenk Lager,schwarz",
+      "en": "Swivel bearing, black",
+      "fr": "Roulement pivotant, noir"
+    },
+    "description": {
+      "de": "Drehgelenk Lager,schwarz aus dem fischertechnik Sortiment.",
+      "en": "Swivel joint bearing, black from the fischertechnik range.",
+      "fr": "Roulement de joint pivotant, noir de la gamme fischertechnik."
+    }
+  },
+  "31010": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "31010",
+      "box": "6",
+      "compartment": "f",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/31010.jpg",
+    "name": {
+      "de": "Winkelstein 60°",
+      "en": "Angle stone 60°",
+      "fr": "Pierre d'angle 60°"
+    },
+    "description": {
+      "de": "Winkelstein 60° aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 60° from the fischertechnik range.",
+      "fr": "Pierre d'angle 60° de la gamme fischertechnik."
+    }
+  },
+  "31011": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "31011",
+      "box": "6",
+      "compartment": "g",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/31011.jpg",
+    "name": {
+      "de": "Winkelstein 30°",
+      "en": "Angle stone 30°",
+      "fr": "Pierre d'angle 30°"
+    },
+    "description": {
+      "de": "Winkelstein 30° aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 30° from the fischertechnik range.",
+      "fr": "Pierre d'angle 30° de la gamme fischertechnik."
+    }
+  },
+  "31918": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "31918",
+      "box": "6",
+      "compartment": "a",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31918.jpg",
+    "name": {
+      "de": "Winkelstein 60° mit 3 Nuten",
+      "en": "Angle stone 60° with 3 grooves",
+      "fr": "Pierre d'angle 60° avec 3 rainures"
+    },
+    "description": {
+      "de": "Winkelstein 60° mit 3 Nuten aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 60° with 3 grooves from the fischertechnik range.",
+      "fr": "Pierre d'angle 60° avec 3 rainures de la gamme fischertechnik."
+    }
+  },
+  "31981": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "31981",
+      "box": "6",
+      "compartment": "e",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/31981.jpg",
+    "name": {
+      "de": "Winkelstein 15°",
+      "en": "Angle stone 15°",
+      "fr": "Pierre d'angle 15°"
+    },
+    "description": {
+      "de": "Winkelstein 15° aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 15° from the fischertechnik range.",
+      "fr": "Pierre d'angle 15° de la gamme fischertechnik."
+    }
+  },
+  "32071": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "32071",
+      "box": "6",
+      "compartment": "h",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/32071.jpg",
+    "name": {
+      "de": "Winkelstein 7,5°",
+      "en": "Angle stone 7.5°",
+      "fr": "Pierre d'angle 7,5°"
+    },
+    "description": {
+      "de": "Winkelstein 7,5° aus dem fischertechnik Sortiment.",
+      "en": "Angle stone 7.5° from the fischertechnik range.",
+      "fr": "Pierre d'angle 7,5° de la gamme fischertechnik."
+    }
+  },
+  "32330": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32330",
+      "box": "6",
+      "compartment": "a",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/32330.jpg",
+    "name": {
+      "de": "Bauplatte 15x30x3,75 mit Nut",
+      "en": "Building board 15x30x3.75 with groove",
+      "fr": "Panneau de construction 15x30x3,75 avec rainure"
+    },
+    "description": {
+      "de": "Bauplatte 15x30x3,75 mit Nut aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x30x3.75 with groove from the fischertechnik range.",
+      "fr": "Panneau de construction 15x30x3,75 avec rainure de la gamme fischertechnik."
+    }
+  },
+  "35049": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35049",
+      "box": "6",
+      "compartment": "d",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/35049.jpg",
+    "name": {
+      "de": "Baustein 15x30x5 mit Nut und Zapfen",
+      "en": "Building block 15x30x5 with groove and tenon",
+      "fr": "Bloc de construction 15x30x5 avec rainure et tenon"
+    },
+    "description": {
+      "de": "Baustein 15x30x5 mit Nut und Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Building block 15x30x5 with groove and tenon from the fischertechnik range.",
+      "fr": "Bloc de construction 15x30x5 avec rainure et tenon de la gamme fischertechnik."
+    }
+  },
+  "37237": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37237",
+      "box": "6",
+      "compartment": "b",
+      "quantity_available": "300"
+    },
+    "imagePath": "assets/images/37237.jpg",
+    "name": {
+      "de": "Baustein 5",
+      "en": "Building block 5",
+      "fr": "Élément de base 5"
+    },
+    "description": {
+      "de": "Baustein 5 aus dem fischertechnik Sortiment.",
+      "en": "Building block 5 from the fischertechnik range.",
+      "fr": "Bloc de construction 5 de la gamme fischertechnik."
+    }
+  },
+  "37238": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37238",
+      "box": "6",
+      "compartment": "a",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/37238.jpg",
+    "name": {
+      "de": "Baustein 5 mit 2 Zapfen",
+      "en": "Building block 5 with 2 pegs",
+      "fr": "Bloc de construction 5 avec 2 piquets"
+    },
+    "description": {
+      "de": "Baustein 5 mit 2 Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Building block 5 with 2 pins from the fischertechnik range.",
+      "fr": "Bloc de construction 5 avec 2 broches de la gamme fischertechnik."
+    }
+  },
+  "38428": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38428",
+      "box": "6",
+      "compartment": "c",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/38428.jpg",
+    "name": {
+      "de": "Bauplatte 15x30x5 mit 3 Nuten",
+      "en": "Building board 15x30x5 with 3 grooves",
+      "fr": "Panneau de construction 15x30x5 avec 3 rainures"
+    },
+    "description": {
+      "de": "Bauplatte 15x30x5 mit 3 Nuten aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x30x5 with 3 grooves from the fischertechnik range.",
+      "fr": "Panneau de construction 15x30x5 avec 3 rainures de la gamme fischertechnik."
+    }
+  },
+  "38241": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38241",
+      "box": "7",
+      "compartment": "c",
+      "quantity_available": "80"
+    },
+    "imagePath": "assets/images/38241.jpg",
+    "name": {
+      "de": "Bauplatte 15x30 rot",
+      "en": "Building board 15x30 red",
+      "fr": "Panneau de construction 15x30 rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x30 rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x30 red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x30 rouge de la gamme fischertechnik."
+    }
+  },
+  "38242": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38242",
+      "box": "7",
+      "compartment": "b",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/38242.jpg",
+    "name": {
+      "de": "Bauplatte 15x45, rot",
+      "en": "Building board 15x45, red",
+      "fr": "Panneau de construction 15x45, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x45, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x45, red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x45, rouge de la gamme fischertechnik."
+    }
+  },
+  "38244": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38244",
+      "box": "7",
+      "compartment": "a",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38244.jpg",
+    "name": {
+      "de": "Bauplatte 15x75, rot",
+      "en": "Building board 15x75, red",
+      "fr": "Panneau de construction 15x75, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x75, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x75, red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x75, rouge de la gamme fischertechnik."
+    }
+  },
+  "38245": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38245",
+      "box": "7",
+      "compartment": "f",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/38245.jpg",
+    "name": {
+      "de": "Bauplatte 15x90, rot",
+      "en": "Building board 15x90, red",
+      "fr": "Panneau de construction 15x90, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x90, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x90, red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x90, rouge de la gamme fischertechnik."
+    }
+  },
+  "38246": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38246",
+      "box": "7",
+      "compartment": "h",
+      "quantity_available": "80"
+    },
+    "imagePath": "assets/images/38246.jpg",
+    "name": {
+      "de": "Bauplatte 15x15, rot",
+      "en": "Building board 15x15, red",
+      "fr": "Panneau de construction 15x15, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x15, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x15, red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x15, rouge de la gamme fischertechnik."
+    }
+  },
+  "38248": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38248",
+      "box": "7",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38248.jpg",
+    "name": {
+      "de": "Bauplatte 30x45, rot",
+      "en": "Building board 30x45, red",
+      "fr": "Panneau de construction 30x45, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 30x45, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x45, red from the fischertechnik range.",
+      "fr": "Panneau de construction 30x45, rouge de la gamme fischertechnik."
+    }
+  },
+  "38249": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38249",
+      "box": "7",
+      "compartment": "b",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38249.jpg",
+    "name": {
+      "de": "Bauplatte 30x60, rot",
+      "en": "Building board 30x60, red",
+      "fr": "Panneau de construction 30x60, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 30x60, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x60, red from the fischertechnik range.",
+      "fr": "Panneau de construction 30x60, rouge de la gamme fischertechnik."
+    }
+  },
+  "38251": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38251",
+      "box": "7",
+      "compartment": "e",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38251.jpg",
+    "name": {
+      "de": "Bauplatte 30x90, rot",
+      "en": "Building board 30x90, red",
+      "fr": "Panneau de construction 30x90, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 30x90, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x90, red from the fischertechnik range.",
+      "fr": "Panneau de construction 30x90, rouge de la gamme fischertechnik."
+    }
+  },
+  "38259": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38259",
+      "box": "7",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38259.jpg",
+    "name": {
+      "de": "Bauplatte 30x30, rot",
+      "en": "Building board 30x30, red",
+      "fr": "Panneau de construction 30x30, rouge"
+    },
+    "description": {
+      "de": "Bauplatte 30x30, rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x30, red from the fischertechnik range.",
+      "fr": "Panneau de construction 30x30, rouge de la gamme fischertechnik."
+    }
+  },
+  "38277": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38277",
+      "box": "7",
+      "compartment": "c",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/38277.jpg",
+    "name": {
+      "de": "Bauplatte 15x45 mit 2x2 Zapfen",
+      "en": "Building plate 15x45 with 2x2 tenons",
+      "fr": "Plaque de construction 15x45 avec 2x2 tenons"
+    },
+    "description": {
+      "de": "Bauplatte 15x45 mit 2x2 Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x45 with 2x2 tenons from the fischertechnik range.",
+      "fr": "Panneau de construction 15x45 avec tenons 2x2 de la gamme fischertechnik."
+    }
+  },
+  "38432": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38432",
+      "box": "7",
+      "compartment": "b",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/38432.jpg",
+    "name": {
+      "de": "Bauplatte 30x60, gelb",
+      "en": "Building board 30x60, yellow",
+      "fr": "Panneau de construction 30x60, jaune"
+    },
+    "description": {
+      "de": "Bauplatte 30x60, gelb aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x60, yellow from the fischertechnik range.",
+      "fr": "Panneau de construction 30x60, jaune de la gamme fischertechnik."
+    }
+  },
+  "38464": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38464",
+      "box": "7",
+      "compartment": "f",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/38464.jpg",
+    "name": {
+      "de": "Bauplatte 15x60 rot",
+      "en": "Building board 15x60 red",
+      "fr": "Panneau de construction 15x60 rouge"
+    },
+    "description": {
+      "de": "Bauplatte 15x60 rot aus dem fischertechnik Sortiment.",
+      "en": "Building board 15x60 red from the fischertechnik range.",
+      "fr": "Panneau de construction 15x60 rouge de la gamme fischertechnik."
+    }
+  },
+  "152249": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "152249",
+      "box": "7",
+      "compartment": "b",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/152249.jpg",
+    "name": {
+      "de": "Bauplatte 30x60, grün",
+      "en": "Building board 30x60, green",
+      "fr": "Panneau de construction 30x60, vert"
+    },
+    "description": {
+      "de": "Bauplatte 30x60, grün aus dem fischertechnik Sortiment.",
+      "en": "Building board 30x60, green from the fischertechnik range.",
+      "fr": "Panneau de construction 30x60, vert de la gamme fischertechnik."
+    }
+  },
+  "172539": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172539",
+      "box": "7",
+      "compartment": "a",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/172539.jpg",
+    "name": {
+      "de": "Kotflügel, rot",
+      "en": "Fender, red",
+      "fr": "Aile, rouge"
+    },
+    "description": {
+      "de": "Kotflügel, rot aus dem fischertechnik Sortiment.",
+      "en": "Fender, red from the fischertechnik range.",
+      "fr": "Fender, rouge de la gamme fischertechnik."
+    }
+  },
+  "31592": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31592",
+      "box": "8",
+      "compartment": "c",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/31592.jpg",
+    "name": {
+      "de": "Kesselhalter",
+      "en": "Boiler holder",
+      "fr": "Support de chaudière"
+    },
+    "description": {
+      "de": "Kesselhalter aus dem fischertechnik Sortiment.",
+      "en": "Boiler holder from the fischertechnik range.",
+      "fr": "Support de chaudière de la gamme fischertechnik."
+    }
+  },
+  "31760": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31760",
+      "box": "8",
+      "compartment": "c",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31760.jpg",
+    "name": {
+      "de": "Kunststoff-Feder 26 schwarz",
+      "en": "Plastic spring 26 black",
+      "fr": "Ressort en plastique 26 noir"
+    },
+    "description": {
+      "de": "Kunststoff-Feder 26 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Plastic spring 26 black from the fischertechnik range.",
+      "fr": "Ressort en plastique 26 noir de la gamme fischertechnik."
+    }
+  },
+  "31843": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31843",
+      "box": "8",
+      "compartment": "e",
+      "quantity_available": "22"
+    },
+    "imagePath": "assets/images/31843.jpg",
+    "name": {
+      "de": "Lenkwürfel",
+      "en": "Steering cube",
+      "fr": "Cube de direction"
+    },
+    "description": {
+      "de": "Lenkwürfel aus dem fischertechnik Sortiment.",
+      "en": "Steering cube from the fischertechnik range.",
+      "fr": "Cube de direction de la gamme fischertechnik."
+    }
+  },
+  "31888": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31888",
+      "box": "8",
+      "compartment": "a",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31888.jpg",
+    "name": {
+      "de": "Gelenkstück",
+      "en": "Joint piece",
+      "fr": "Pièce de jonction"
+    },
+    "description": {
+      "de": "Gelenkstück aus dem fischertechnik Sortiment.",
+      "en": "Joint piece from the fischertechnik range.",
+      "fr": "Pièce de joint de la gamme fischertechnik."
+    }
+  },
+  "31891": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31891",
+      "box": "8",
+      "compartment": "c",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31891.jpg",
+    "name": {
+      "de": "Federboden schwarz",
+      "en": "Black spring base",
+      "fr": "Base à ressort noire"
+    },
+    "description": {
+      "de": "Federboden schwarz aus dem fischertechnik Sortiment.",
+      "en": "Black spring base from the fischertechnik range.",
+      "fr": "Socle à ressort noir de la gamme fischertechnik."
+    }
+  },
+  "31894": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31894",
+      "box": "8",
+      "compartment": "e",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/31894.jpg",
+    "name": {
+      "de": "Anlenkhebel",
+      "en": "Linkage lever",
+      "fr": "Levier de liaison"
+    },
+    "description": {
+      "de": "Anlenkhebel aus dem fischertechnik Sortiment.",
+      "en": "Pivot lever from the fischertechnik range.",
+      "fr": "Levier pivotant de la gamme fischertechnik."
+    }
+  },
+  "31896": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31896",
+      "box": "8",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31896.jpg",
+    "name": {
+      "de": "Kotflügel mit Zapfen",
+      "en": "Fenders with pins",
+      "fr": "Ailes avec épingles"
+    },
+    "description": {
+      "de": "Kotflügel mit Zapfen aus dem fischertechnik Sortiment.",
+      "en": "Fenders with pins from the fischertechnik range.",
+      "fr": "Ailes avec axes de la gamme fischertechnik."
+    }
+  },
+  "31916": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31916",
+      "box": "8",
+      "compartment": "a",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31916.jpg",
+    "name": {
+      "de": "Lenkrad",
+      "en": "steering wheel",
+      "fr": "volant"
+    },
+    "description": {
+      "de": "Lenkrad aus dem fischertechnik Sortiment.",
+      "en": "Steering wheel from the fischertechnik range.",
+      "fr": "Volant de la gamme fischertechnik."
+    }
+  },
+  "31984": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31984",
+      "box": "8",
+      "compartment": "f",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/31984.jpg",
+    "name": {
+      "de": "Schalensitz",
+      "en": "Bucket seat",
+      "fr": "Siège baquet"
+    },
+    "description": {
+      "de": "Schalensitz aus dem fischertechnik Sortiment.",
+      "en": "Bucket seat from the fischertechnik range.",
+      "fr": "Siège baquet de la gamme fischertechnik."
+    }
+  },
+  "32851": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32851",
+      "box": "8",
+      "compartment": "a",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/32851.jpg",
+    "name": {
+      "de": "Lenksäule 34",
+      "en": "Steering column 34",
+      "fr": "Colonne de direction 34"
+    },
+    "description": {
+      "de": "Lenksäule 34 aus dem fischertechnik Sortiment.",
+      "en": "Steering column 34 from the fischertechnik range.",
+      "fr": "Colonne de direction 34 de la gamme fischertechnik."
+    }
+  },
+  "35050": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35050",
+      "box": "8",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35050.jpg",
+    "name": {
+      "de": "Kotflügel rot",
+      "en": "Red fender",
+      "fr": "Aile rouge"
+    },
+    "description": {
+      "de": "Kotflügel rot aus dem fischertechnik Sortiment.",
+      "en": "Red fender from the fischertechnik range.",
+      "fr": "Garde-boue rouge de la gamme fischertechnik."
+    }
+  },
+  "35051": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35051",
+      "box": "8",
+      "compartment": "f",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35051.jpg",
+    "name": {
+      "de": "Sitz blau / blue",
+      "en": "Seat blue / blue",
+      "fr": "Siège bleu / bleu"
+    },
+    "description": {
+      "de": "Sitz blau / blue aus dem fischertechnik Sortiment.",
+      "en": "Seat blue / blue from the fischertechnik range.",
+      "fr": "Assise bleu/bleu de la gamme fischertechnik."
+    }
+  },
+  "35068": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35068",
+      "box": "8",
+      "compartment": "a",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35068.jpg",
+    "name": {
+      "de": "Spurstangengelenk",
+      "en": "Tie rod joint",
+      "fr": "Joint de biellette de direction"
+    },
+    "description": {
+      "de": "Spurstangengelenk aus dem fischertechnik Sortiment.",
+      "en": "Tie rod joint from the fischertechnik range.",
+      "fr": "Joint de biellette de direction de la gamme fischertechnik."
+    }
+  },
+  "35806": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35806",
+      "box": "8",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35806.jpg",
+    "name": {
+      "de": "ft-Männchen, blau/weiß",
+      "en": "ft male, blue/white",
+      "fr": "ft mâle, bleu/blanc"
+    },
+    "description": {
+      "de": "ft-Männchen, blau/weiß aus dem fischertechnik Sortiment.",
+      "en": "ft-male, blue/white from the fischertechnik range.",
+      "fr": "ft-mâle, bleu/blanc de la gamme fischertechnik."
+    }
+  },
+  "35998": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35998",
+      "box": "8",
+      "compartment": "e",
+      "quantity_available": "22"
+    },
+    "imagePath": "assets/images/35998.jpg",
+    "name": {
+      "de": "Lenkklaue",
+      "en": "Steering claw",
+      "fr": "Griffe de direction"
+    },
+    "description": {
+      "de": "Lenkklaue aus dem fischertechnik Sortiment.",
+      "en": "Steering claw from the fischertechnik range.",
+      "fr": "Griffe de direction de la gamme fischertechnik."
+    }
+  },
+  "38411": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38411",
+      "box": "8",
+      "compartment": "c",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/38411.jpg",
+    "name": {
+      "de": "Schaufelhalter",
+      "en": "Shovel holder",
+      "fr": "Porte-pelle"
+    },
+    "description": {
+      "de": "Schaufelhalter aus dem fischertechnik Sortiment.",
+      "en": "Shovel holder from the fischertechnik range.",
+      "fr": "Porte-pelle de la gamme fischertechnik."
+    }
+  },
+  "38472": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38472",
+      "box": "8",
+      "compartment": "b",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/38472.jpg",
+    "name": {
+      "de": "Zahnspurstange",
+      "en": "Toothed tie rod",
+      "fr": "Tirant denté"
+    },
+    "description": {
+      "de": "Zahnspurstange aus dem fischertechnik Sortiment.",
+      "en": "Toothed tie rod from the fischertechnik range.",
+      "fr": "Tirant denté de la gamme fischertechnik."
+    }
+  },
+  "38473": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38473",
+      "box": "8",
+      "compartment": "c",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/38473.jpg",
+    "name": {
+      "de": "Lenkhebel",
+      "en": "Steering lever",
+      "fr": "Levier de direction"
+    },
+    "description": {
+      "de": "Lenkhebel aus dem fischertechnik Sortiment.",
+      "en": "Steering lever from the fischertechnik range.",
+      "fr": "Levier de direction de la gamme fischertechnik."
+    }
+  },
+  "31390": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31390",
+      "box": "9",
+      "compartment": "f",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31390.jpg",
+    "name": {
+      "de": "Drehkranz-Oberteil",
+      "en": "Slewing ring top",
+      "fr": "Couronne d'orientation supérieure"
+    },
+    "description": {
+      "de": "Drehkranz-Oberteil aus dem fischertechnik Sortiment.",
+      "en": "Slewing ring top part from the fischertechnik range.",
+      "fr": "Partie supérieure de couronne d'orientation de la gamme fischertechnik."
+    }
+  },
+  "31391": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31391",
+      "box": "9",
+      "compartment": "f",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31391.jpg",
+    "name": {
+      "de": "Drehkranz-Unterteil",
+      "en": "Slewing ring base",
+      "fr": "Base de couronne d'orientation"
+    },
+    "description": {
+      "de": "Drehkranz-Unterteil aus dem fischertechnik Sortiment.",
+      "en": "Slewing ring base part from the fischertechnik range.",
+      "fr": "Pièce de base de couronne d'orientation de la gamme fischertechnik."
+    }
+  },
+  "31997": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31997",
+      "box": "9",
+      "compartment": "c",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/31997.jpg",
+    "name": {
+      "de": "Seilwindengestell",
+      "en": "Winch frame",
+      "fr": "Châssis de treuil"
+    },
+    "description": {
+      "de": "Seilwindengestell aus dem fischertechnik Sortiment.",
+      "en": "Cable winch frame from the fischertechnik range.",
+      "fr": "Châssis de treuil à câble de la gamme fischertechnik."
+    }
+  },
+  "31998": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31998",
+      "box": "9",
+      "compartment": "c",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/31998.jpg",
+    "name": {
+      "de": "Seilwindentrommel",
+      "en": "Winch drum",
+      "fr": "Tambour de treuil"
+    },
+    "description": {
+      "de": "Seilwindentrommel aus dem fischertechnik Sortiment.",
+      "en": "Cable winch drum from the fischertechnik range.",
+      "fr": "Tambour de treuil à câble de la gamme fischertechnik."
+    }
+  },
+  "31999": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31999",
+      "box": "9",
+      "compartment": "c",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/31999.jpg",
+    "name": {
+      "de": "Seilwindenbremse",
+      "en": "Winch brake",
+      "fr": "Frein de treuil"
+    },
+    "description": {
+      "de": "Seilwindenbremse aus dem fischertechnik Sortiment.",
+      "en": "Cable winch brake from the fischertechnik range.",
+      "fr": "Frein de treuil à câble de la gamme fischertechnik."
+    }
+  },
+  "32085": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32085",
+      "box": "9",
+      "compartment": "d",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/32085.jpg",
+    "name": {
+      "de": "Rollenbock",
+      "en": "Roller trestle",
+      "fr": "Chevalet à roulettes"
+    },
+    "description": {
+      "de": "Rollenbock aus dem fischertechnik Sortiment.",
+      "en": "Roller stand from the fischertechnik range.",
+      "fr": "Support à roulettes de la gamme fischertechnik."
+    }
+  },
+  "35069": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35069",
+      "box": "9",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35069.jpg",
+    "name": {
+      "de": "Seilwinden-Gestell 30",
+      "en": "Cable winch frame 30",
+      "fr": "Châssis de treuil à câble 30"
+    },
+    "description": {
+      "de": "Seilwinden-Gestell 30 aus dem fischertechnik Sortiment.",
+      "en": "Cable winch frame 30 from the fischertechnik range.",
+      "fr": "Châssis de treuil à câble 30 de la gamme fischertechnik."
+    }
+  },
+  "35070": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35070",
+      "box": "9",
+      "compartment": "c",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35070.jpg",
+    "name": {
+      "de": "Seiltrommel für Rastachsen",
+      "en": "Cable drum for locking axles",
+      "fr": "Tambour de câble pour blocage d'essieux"
+    },
+    "description": {
+      "de": "Seiltrommel für Rastachsen aus dem fischertechnik Sortiment.",
+      "en": "Cable drum for locking axles from the fischertechnik range.",
+      "fr": "Tambour de câble pour blocage d'essieux de la gamme fischertechnik."
+    }
+  },
+  "35797": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35797",
+      "box": "9",
+      "compartment": "e",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/35797.jpg",
+    "name": {
+      "de": "Seilrolle ∅21",
+      "en": "Rope pulley ∅21",
+      "fr": "Poulie à câble ∅21"
+    },
+    "description": {
+      "de": "Seilrolle ∅21 aus dem fischertechnik Sortiment.",
+      "en": "Rope pulley ∅21 from the fischertechnik range.",
+      "fr": "Poulie à câble ∅21 de la gamme fischertechnik."
+    }
+  },
+  "36573": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36573",
+      "box": "9",
+      "compartment": "a",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/36573.jpg",
+    "name": {
+      "de": "Rad 14",
+      "en": "Wheel 14",
+      "fr": "Roue 14"
+    },
+    "description": {
+      "de": "Rad 14 aus dem fischertechnik Sortiment.",
+      "en": "Wheel 14 from the fischertechnik range.",
+      "fr": "Roue 14 de la gamme fischertechnik."
+    }
+  },
+  "37636": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37636",
+      "box": "9",
+      "compartment": "b",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/37636.jpg",
+    "name": {
+      "de": "Rollenlager",
+      "en": "Roller bearings",
+      "fr": "Roulements à rouleaux"
+    },
+    "description": {
+      "de": "Rollenlager aus dem fischertechnik Sortiment.",
+      "en": "Roller bearings from the fischertechnik range.",
+      "fr": "Roulements à rouleaux de la gamme fischertechnik."
+    }
+  },
+  "38225": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38225",
+      "box": "9",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/38225.jpg",
+    "name": {
+      "de": "Seilhaken",
+      "en": "Rope hook",
+      "fr": "Crochet de corde"
+    },
+    "description": {
+      "de": "Seilhaken aus dem fischertechnik Sortiment.",
+      "en": "Rope hooks from the fischertechnik range.",
+      "fr": "Crochets à corde de la gamme fischertechnik."
+    }
+  },
+  "38258": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38258",
+      "box": "9",
+      "compartment": "g",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/38258.jpg",
+    "name": {
+      "de": "Seilrolle ∅12",
+      "en": "Rope pulley ∅12",
+      "fr": "Poulie à câble ∅12"
+    },
+    "description": {
+      "de": "Seilrolle ∅12 aus dem fischertechnik Sortiment.",
+      "en": "Rope pulley ∅12 from the fischertechnik range.",
+      "fr": "Poulie à câble ∅12 de la gamme fischertechnik."
+    }
+  },
+  "136775": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "136775",
+      "box": "9",
+      "compartment": "g",
+      "quantity_available": "14"
+    },
+    "imagePath": "assets/images/136775.jpg",
+    "name": {
+      "de": "Rastrolle",
+      "en": "Rest roll",
+      "fr": "Rouleau de repos"
+    },
+    "description": {
+      "de": "Rastrolle aus dem fischertechnik Sortiment.",
+      "en": "Locking roller from the fischertechnik range.",
+      "fr": "Rouleau de verrouillage de la gamme fischertechnik."
+    }
+  },
+  "163435": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163435",
+      "box": "9",
+      "compartment": "e",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/163435.jpg",
+    "name": {
+      "de": "Muldenseitenteil silber/silver",
+      "en": "Trough side part silver/silver",
+      "fr": "Partie latérale de l'auge argent/argent"
+    },
+    "description": {
+      "de": "Muldenseitenteil silber/silver aus dem fischertechnik Sortiment.",
+      "en": "Trough side panel silver/silver from the fischertechnik range.",
+      "fr": "Panneau latéral d'auge argent/argent de la gamme fischertechnik."
+    }
+  },
+  "163436": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163436",
+      "box": "9",
+      "compartment": "h",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/163436.jpg",
+    "name": {
+      "de": "Seitenteil silber links",
+      "en": "Side panel silver left",
+      "fr": "Panneau latéral argenté gauche"
+    },
+    "description": {
+      "de": "Seitenteil silber links aus dem fischertechnik Sortiment.",
+      "en": "Side panel silver left from the fischertechnik range.",
+      "fr": "Panneau latéral argenté gauche de la gamme fischertechnik."
+    }
+  },
+  "163437": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163437",
+      "box": "9",
+      "compartment": "h",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/163437.jpg",
+    "name": {
+      "de": "Seitenteil silber rechts",
+      "en": "Side panel silver right",
+      "fr": "Panneau latéral argenté droit"
+    },
+    "description": {
+      "de": "Seitenteil silber rechts aus dem fischertechnik Sortiment.",
+      "en": "Side panel silver right from the fischertechnik range.",
+      "fr": "Panneau latéral argenté provenant directement de la gamme fischertechnik."
+    }
+  },
+  "163438": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163438",
+      "box": "9",
+      "compartment": "d",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/163438.jpg",
+    "name": {
+      "de": "Verlängerung Seitenteil silber/silver",
+      "en": "Extension side part silver/silver",
+      "fr": "Partie latérale d'extension argent/argent"
+    },
+    "description": {
+      "de": "Verlängerung Seitenteil silber/silver aus dem fischertechnik Sortiment.",
+      "en": "Extension side part silver/silver from the fischertechnik range.",
+      "fr": "Partie latérale d'extension argent/argent de la gamme fischertechnik."
+    }
+  },
+  "172540": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172540",
+      "box": "9",
+      "compartment": "b",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/172540.jpg",
+    "name": {
+      "de": "Muldenklappe 75, silber",
+      "en": "Trough flap 75, silver",
+      "fr": "Abattant 75, argent"
+    },
+    "description": {
+      "de": "Muldenklappe 75, silber aus dem fischertechnik Sortiment.",
+      "en": "Trough flap 75, silver from the fischertechnik range.",
+      "fr": "Trappe d'auge 75, argent de la gamme fischertechnik."
+    }
+  },
+  "31023": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31023",
+      "box": "10",
+      "compartment": "d",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/31023.jpg",
+    "name": {
+      "de": "Klemmbuchse 10",
+      "en": "Clamping bush 10",
+      "fr": "Douille de serrage 10"
+    },
+    "description": {
+      "de": "Klemmbuchse 10 aus dem fischertechnik Sortiment.",
+      "en": "Clamping socket 10 from the fischertechnik range.",
+      "fr": "Douille de serrage 10 de la gamme fischertechnik."
+    }
+  },
+  "31031": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31031",
+      "box": "10",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31031.jpg",
+    "name": {
+      "de": "Metallachse 110",
+      "en": "Metal axle 110",
+      "fr": "Axe métallique 110"
+    },
+    "description": {
+      "de": "Metallachse 110 aus dem fischertechnik Sortiment.",
+      "en": "Metal axle 110 from the fischertechnik range.",
+      "fr": "Axe métallique 110 de la gamme fischertechnik."
+    }
+  },
+  "31036": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31036",
+      "box": "10",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31036.jpg",
+    "name": {
+      "de": "Metallachse 125",
+      "en": "Metal axle 125",
+      "fr": "Axe métallique 125"
+    },
+    "description": {
+      "de": "Metallachse 125 aus dem fischertechnik Sortiment.",
+      "en": "Metal axle 125 from the fischertechnik range.",
+      "fr": "Axe métallique 125 de la gamme fischertechnik."
+    }
+  },
+  "31040": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31040",
+      "box": "10",
+      "compartment": "c",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31040.jpg",
+    "name": {
+      "de": "Metallachse 90",
+      "en": "Metal axle 90",
+      "fr": "Axe métallique 90"
+    },
+    "description": {
+      "de": "Metallachse 90 aus dem fischertechnik Sortiment.",
+      "en": "Metal axle 90 from the fischertechnik range.",
+      "fr": "Axe métallique 90 de la gamme fischertechnik."
+    }
+  },
+  "31597": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31597",
+      "box": "10",
+      "compartment": "g",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31597.jpg",
+    "name": {
+      "de": "Abstandsring",
+      "en": "Spacer ring",
+      "fr": "Bague d'espacement"
+    },
+    "description": {
+      "de": "Abstandsring aus dem fischertechnik Sortiment.",
+      "en": "Spacer ring from the fischertechnik range.",
+      "fr": "Bague entretoise de la gamme fischertechnik."
+    }
+  },
+  "31690": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31690",
+      "box": "10",
+      "compartment": "g",
+      "quantity_available": "36"
+    },
+    "imagePath": "assets/images/31690.jpg",
+    "name": {
+      "de": "Rastachse 20, rot",
+      "en": "Locking axle 20, red",
+      "fr": "Axe verrouillable 20, rouge"
+    },
+    "description": {
+      "de": "Rastachse 20, rot aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 20, red from the fischertechnik range.",
+      "fr": "Axe verrouillable 20, rouge de la gamme fischertechnik."
+    }
+  },
+  "31712": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31712",
+      "box": "10",
+      "compartment": "d",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/31712.jpg",
+    "name": {
+      "de": "Mitnehmer",
+      "en": "taker",
+      "fr": "preneur"
+    },
+    "description": {
+      "de": "Mitnehmer aus dem fischertechnik Sortiment.",
+      "en": "Drivers from the fischertechnik range.",
+      "fr": "Pilotes de la gamme fischertechnik."
+    }
+  },
+  "31983": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31983",
+      "box": "10",
+      "compartment": "g",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31983.jpg",
+    "name": {
+      "de": "Hülse 15",
+      "en": "Sleeve 15",
+      "fr": "Manche 15"
+    },
+    "description": {
+      "de": "Hülse 15 aus dem fischertechnik Sortiment.",
+      "en": "Sleeve 15 from the fischertechnik range.",
+      "fr": "Manchon 15 de la gamme fischertechnik."
+    }
+  },
+  "32316": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32316",
+      "box": "10",
+      "compartment": "h",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/32316.jpg",
+    "name": {
+      "de": "Verbindungsstopfen",
+      "en": "connection plug",
+      "fr": "fiche de connexion"
+    },
+    "description": {
+      "de": "Verbindungsstopfen aus dem fischertechnik Sortiment.",
+      "en": "Connecting plugs from the fischertechnik range.",
+      "fr": "Fiches de connexion de la gamme fischertechnik."
+    }
+  },
+  "32870": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32870",
+      "box": "10",
+      "compartment": "h",
+      "quantity_available": "28"
+    },
+    "imagePath": "assets/images/32870.jpg",
+    "name": {
+      "de": "Clipsachse",
+      "en": "Clip axle",
+      "fr": "Axe à clipser"
+    },
+    "description": {
+      "de": "Clipsachse aus dem fischertechnik Sortiment.",
+      "en": "Clip axle from the fischertechnik range.",
+      "fr": "Axe à clipser de la gamme fischertechnik."
+    }
+  },
+  "35063": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35063",
+      "box": "10",
+      "compartment": "b",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/35063.jpg",
+    "name": {
+      "de": "Rastachse 30",
+      "en": "Locking axle 30",
+      "fr": "Axe verrouillable 30"
+    },
+    "description": {
+      "de": "Rastachse 30 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 30 from the fischertechnik range.",
+      "fr": "Axe verrouillable 30 de la gamme fischertechnik."
+    }
+  },
+  "35064": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35064",
+      "box": "10",
+      "compartment": "b",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/35064.jpg",
+    "name": {
+      "de": "Rastachse 45",
+      "en": "Locking axle 45",
+      "fr": "Axe verrouillable 45"
+    },
+    "description": {
+      "de": "Rastachse 45 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 45 from the fischertechnik range.",
+      "fr": "Axe verrouillable 45 de la gamme fischertechnik."
+    }
+  },
+  "35065": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35065",
+      "box": "10",
+      "compartment": "b",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/35065.jpg",
+    "name": {
+      "de": "Rastachse 60",
+      "en": "Locking axle 60",
+      "fr": "Axe verrouillable 60"
+    },
+    "description": {
+      "de": "Rastachse 60 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 60 from the fischertechnik range.",
+      "fr": "Axe 60 verrouillable de la gamme fischertechnik."
+    }
+  },
+  "35066": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35066",
+      "box": "10",
+      "compartment": "b",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/35066.jpg",
+    "name": {
+      "de": "Rastachse 90",
+      "en": "Locking axle 90",
+      "fr": "Axe verrouillable 90"
+    },
+    "description": {
+      "de": "Rastachse 90 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 90 from the fischertechnik range.",
+      "fr": "Axe verrouillable 90 de la gamme fischertechnik."
+    }
+  },
+  "35073": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35073",
+      "box": "10",
+      "compartment": "d",
+      "quantity_available": "130"
+    },
+    "imagePath": "assets/images/35073.jpg",
+    "name": {
+      "de": "Rastkupplung",
+      "en": "Detent clutch",
+      "fr": "Embrayage à détente"
+    },
+    "description": {
+      "de": "Rastkupplung aus dem fischertechnik Sortiment.",
+      "en": "Locking coupling from the fischertechnik range.",
+      "fr": "Accouplement de verrouillage de la gamme fischertechnik."
+    }
+  },
+  "35087": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35087",
+      "box": "10",
+      "compartment": "b",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/35087.jpg",
+    "name": {
+      "de": "Rastachse 75",
+      "en": "Locking axle 75",
+      "fr": "Axe verrouillable 75"
+    },
+    "description": {
+      "de": "Rastachse 75 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 75 from the fischertechnik range.",
+      "fr": "Axe verrouillable 75 de la gamme fischertechnik."
+    }
+  },
+  "35405": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35405",
+      "box": "10",
+      "compartment": "g",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35405.jpg",
+    "name": {
+      "de": "V-Achse 4x80",
+      "en": "V-axle 4x80",
+      "fr": "Essieu en V 4x80"
+    },
+    "description": {
+      "de": "V-Achse 4x80 aus dem fischertechnik Sortiment.",
+      "en": "V-axis 4x80 from the fischertechnik range.",
+      "fr": "Axe V 4x80 de la gamme fischertechnik."
+    }
+  },
+  "35414": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35414",
+      "box": "10",
+      "compartment": "g",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35414.jpg",
+    "name": {
+      "de": "V-Achse 4x98",
+      "en": "V-axle 4x98",
+      "fr": "Essieu en V 4x98"
+    },
+    "description": {
+      "de": "V-Achse 4x98 aus dem fischertechnik Sortiment.",
+      "en": "V-axis 4x98 from the fischertechnik range.",
+      "fr": "Axe V 4x98 de la gamme fischertechnik."
+    }
+  },
+  "35971": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35971",
+      "box": "10",
+      "compartment": "a",
+      "quantity_available": "42"
+    },
+    "imagePath": "assets/images/35971.jpg",
+    "name": {
+      "de": "Kardangabel für Rastachsen",
+      "en": "Cardan fork for locking axles",
+      "fr": "Fourche à cardan pour blocage des axes"
+    },
+    "description": {
+      "de": "Kardangabel für Rastachsen aus dem fischertechnik Sortiment.",
+      "en": "Cardan fork for locking axles from the fischertechnik range.",
+      "fr": "Fourche à cardan pour blocage d'essieux de la gamme fischertechnik."
+    }
+  },
+  "35972": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35972",
+      "box": "10",
+      "compartment": "a",
+      "quantity_available": "25"
+    },
+    "imagePath": "assets/images/35972.jpg",
+    "name": {
+      "de": "Kardanwürfel",
+      "en": "Gimbal cube",
+      "fr": "Cube à cardan"
+    },
+    "description": {
+      "de": "Kardanwürfel aus dem fischertechnik Sortiment.",
+      "en": "Cardan cubes from the fischertechnik range.",
+      "fr": "Cubes à cardan de la gamme fischertechnik."
+    }
+  },
+  "35981": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35981",
+      "box": "10",
+      "compartment": "d",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/35981.jpg",
+    "name": {
+      "de": "Hülse mit Scheibe",
+      "en": "Sleeve with washer",
+      "fr": "Manchon avec rondelle"
+    },
+    "description": {
+      "de": "Hülse mit Scheibe aus dem fischertechnik Sortiment.",
+      "en": "Sleeve with washer from the fischertechnik range.",
+      "fr": "Manchon avec rondelle de la gamme fischertechnik."
+    }
+  },
+  "36227": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36227",
+      "box": "10",
+      "compartment": "c",
+      "quantity_available": "32"
+    },
+    "imagePath": "assets/images/36227.jpg",
+    "name": {
+      "de": "Rastadapter",
+      "en": "Snap adapter",
+      "fr": "Adaptateur à pression"
+    },
+    "description": {
+      "de": "Rastadapter aus dem fischertechnik Sortiment.",
+      "en": "Snap adapter from the fischertechnik range.",
+      "fr": "Adaptateur Snap de la gamme fischertechnik."
+    }
+  },
+  "36586": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36586",
+      "box": "10",
+      "compartment": "h",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/36586.jpg",
+    "name": {
+      "de": "Radachse",
+      "en": "wheel axle",
+      "fr": "axe de roue"
+    },
+    "description": {
+      "de": "Radachse aus dem fischertechnik Sortiment.",
+      "en": "Wheel axle from the fischertechnik range.",
+      "fr": "Axe de roue de la gamme fischertechnik."
+    }
+  },
+  "37527": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37527",
+      "box": "10",
+      "compartment": "e",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/37527.jpg",
+    "name": {
+      "de": "Rastachse 180",
+      "en": "Locking axis 180",
+      "fr": "Axe de verrouillage 180"
+    },
+    "description": {
+      "de": "Rastachse 180 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle 180 from the fischertechnik range.",
+      "fr": "Axe verrouillable 180 de la gamme fischertechnik."
+    }
+  },
+  "37679": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37679",
+      "box": "10",
+      "compartment": "d",
+      "quantity_available": "260"
+    },
+    "imagePath": "assets/images/37679.jpg",
+    "name": {
+      "de": "Klemmbuchse 5",
+      "en": "Clamping bush 5",
+      "fr": "Douille de serrage 5"
+    },
+    "description": {
+      "de": "Klemmbuchse 5 aus dem fischertechnik Sortiment.",
+      "en": "Clamping socket 5 from the fischertechnik range.",
+      "fr": "Douille de serrage 5 de la gamme fischertechnik."
+    }
+  },
+  "38413": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38413",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/38413.jpg",
+    "name": {
+      "de": "Kunststoffachse 30",
+      "en": "Plastic axle 30",
+      "fr": "Axe plastique 30"
+    },
+    "description": {
+      "de": "Kunststoffachse 30 aus dem fischertechnik Sortiment.",
+      "en": "Plastic axle 30 from the fischertechnik range.",
+      "fr": "Axe 30 en plastique de la gamme fischertechnik."
+    }
+  },
+  "38414": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38414",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "40"
+    },
+    "imagePath": "assets/images/38414.jpg",
+    "name": {
+      "de": "Kunststoffachse 40",
+      "en": "Plastic axle 40",
+      "fr": "Axe plastique 40"
+    },
+    "description": {
+      "de": "Kunststoffachse 40 aus dem fischertechnik Sortiment.",
+      "en": "Plastic axle 40 from the fischertechnik range.",
+      "fr": "Axe 40 en plastique de la gamme fischertechnik."
+    }
+  },
+  "38415": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38415",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/38415.jpg",
+    "name": {
+      "de": "Kunststoffachse 50",
+      "en": "Plastic axle 50",
+      "fr": "Axe plastique 50"
+    },
+    "description": {
+      "de": "Kunststoffachse 50 aus dem fischertechnik Sortiment.",
+      "en": "Plastic axle 50 from the fischertechnik range.",
+      "fr": "Axe 50 en plastique de la gamme fischertechnik."
+    }
+  },
+  "38416": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38416",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/38416.jpg",
+    "name": {
+      "de": "Kunststoffachse 60",
+      "en": "Plastic axle 60",
+      "fr": "Axe plastique 60"
+    },
+    "description": {
+      "de": "Kunststoffachse 60 aus dem fischertechnik Sortiment.",
+      "en": "Plastic axle 60 from the fischertechnik range.",
+      "fr": "Axe 60 en plastique de la gamme fischertechnik."
+    }
+  },
+  "163203": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "163203",
+      "box": "10",
+      "compartment": "h",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/163203.jpg",
+    "name": {
+      "de": "Schlauchadapter D4 abgewinkelt",
+      "en": "Hose adapter D4 angled",
+      "fr": "Adaptateur de tuyau D4 coudé"
+    },
+    "description": {
+      "de": "Schlauchadapter D4 abgewinkelt aus dem fischertechnik Sortiment.",
+      "en": "Hose adapter D4 angled from the fischertechnik range.",
+      "fr": "Adaptateur de tuyau D4 coudé de la gamme fischertechnik."
+    }
+  },
+  "163518": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163518",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/163518.jpg",
+    "name": {
+      "de": "Schlauch LD-PE 6x4 110 mm",
+      "en": "Hose LD-PE 6x4 110 mm",
+      "fr": "Tuyau LD-PE 6x4 110 mm"
+    },
+    "description": {
+      "de": "Schlauch LD-PE 6x4 110 mm aus dem fischertechnik Sortiment.",
+      "en": "Hose LD-PE 6x4 110 mm from the fischertechnik range.",
+      "fr": "Tuyau LD-PE 6x4 110 mm de la gamme fischertechnik."
+    }
+  },
+  "163519": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163519",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/163519.jpg",
+    "name": {
+      "de": "Schlauch LD-PE 6x4 50 mm",
+      "en": "Hose LD-PE 6x4 50 mm",
+      "fr": "Tuyau LD-PE 6x4 50 mm"
+    },
+    "description": {
+      "de": "Schlauch LD-PE 6x4 50 mm aus dem fischertechnik Sortiment.",
+      "en": "Hose LD-PE 6x4 50 mm from the fischertechnik range.",
+      "fr": "Tuyau LD-PE 6x4 50 mm de la gamme fischertechnik."
+    }
+  },
+  "172541": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172541",
+      "box": "10",
+      "compartment": "h",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/172541.jpg",
+    "name": {
+      "de": "Radachse, schwarz",
+      "en": "Wheel axle, black",
+      "fr": "Axe de roue, noir"
+    },
+    "description": {
+      "de": "Radachse, schwarz aus dem fischertechnik Sortiment.",
+      "en": "Wheel axle, black from the fischertechnik range.",
+      "fr": "Axe de roue noir de la gamme fischertechnik."
+    }
+  },
+  "172548": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "172548",
+      "box": "10",
+      "compartment": "f",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/172548.jpg",
+    "name": {
+      "de": "Schlauch LD-PE 6x4x30",
+      "en": "Hose LD-PE 6x4x30",
+      "fr": "Tuyau LD-PE 6x4x30"
+    },
+    "description": {
+      "de": "Schlauch LD-PE 6x4x30 aus dem fischertechnik Sortiment.",
+      "en": "Hose LD-PE 6x4x30 from the fischertechnik range.",
+      "fr": "Tuyau LD-PE 6x4x30 de la gamme fischertechnik."
+    }
+  },
+  "185795": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "185795",
+      "box": "10",
+      "compartment": "a",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/185795.jpg",
+    "name": {
+      "de": "Metallachse 90 mit Einstich",
+      "en": "Metal axle 90 with recess",
+      "fr": "Axe métallique 90 avec évidement"
+    },
+    "description": {
+      "de": "Metallachse 90 mit Einstich aus dem fischertechnik Sortiment.",
+      "en": "Metal axle 90 with recess from the fischertechnik range.",
+      "fr": "Axe métallique 90 avec évidement de la gamme fischertechnik."
+    }
+  },
+  "31019": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31019",
+      "box": "11",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31019.jpg",
+    "name": {
+      "de": "Drehscheibe 60",
+      "en": "Turntable 60",
+      "fr": "Plateau tournant 60"
+    },
+    "description": {
+      "de": "Drehscheibe 60 aus dem fischertechnik Sortiment.",
+      "en": "Turntable 60 from the fischertechnik range.",
+      "fr": "Plateau tournant 60 de la gamme fischertechnik."
+    }
+  },
+  "31021": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31021",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/31021.jpg",
+    "name": {
+      "de": "Zahnrad Z20",
+      "en": "Gear Z20",
+      "fr": "Engrenage Z20"
+    },
+    "description": {
+      "de": "Zahnrad Z20 aus dem fischertechnik Sortiment.",
+      "en": "Gear Z20 from the fischertechnik range.",
+      "fr": "Engrenage Z20 de la gamme fischertechnik."
+    }
+  },
+  "31022": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31022",
+      "box": "11",
+      "compartment": "h",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/31022.jpg",
+    "name": {
+      "de": "Zahnrad Z40/32",
+      "en": "Gear Z40/32",
+      "fr": "Engrenage Z40/32"
+    },
+    "description": {
+      "de": "Zahnrad Z40/32 aus dem fischertechnik Sortiment.",
+      "en": "Gear Z40/32 from the fischertechnik range.",
+      "fr": "Engrenage Z40/32 de la gamme fischertechnik."
+    }
+  },
+  "31053": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31053",
+      "box": "11",
+      "compartment": "b",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/31053.jpg",
+    "name": {
+      "de": "Zahnstange M1,5 60",
+      "en": "Rack M1.5 60",
+      "fr": "Crémaillère M1.5 60"
+    },
+    "description": {
+      "de": "Zahnstange M1,5 60 aus dem fischertechnik Sortiment.",
+      "en": "Rack M1.5 60 from the fischertechnik range.",
+      "fr": "Crémaillère M1.5 60 de la gamme fischertechnik."
+    }
+  },
+  "31054": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31054",
+      "box": "11",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31054.jpg",
+    "name": {
+      "de": "Zahnstange M1,5 30",
+      "en": "Rack M1.5 30",
+      "fr": "Crémaillère M1.5 30"
+    },
+    "description": {
+      "de": "Zahnstange M1,5 30 aus dem fischertechnik Sortiment.",
+      "en": "Rack M1.5 30 from the fischertechnik range.",
+      "fr": "Crémaillère M1.5 30 de la gamme fischertechnik."
+    }
+  },
+  "31058": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31058",
+      "box": "11",
+      "compartment": "c",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/31058.jpg",
+    "name": {
+      "de": "Nabenmutter mit Scheibe",
+      "en": "Hub nut with washer",
+      "fr": "Écrou de moyeu avec rondelle"
+    },
+    "description": {
+      "de": "Nabenmutter mit Scheibe aus dem fischertechnik Sortiment.",
+      "en": "Hub nut with washer from the fischertechnik range.",
+      "fr": "Écrou de moyeu avec rondelle de la gamme fischertechnik."
+    }
+  },
+  "31411": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31411",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31411.jpg",
+    "name": {
+      "de": "Differential Käfig Z26",
+      "en": "Differential cage Z26",
+      "fr": "Cage différentielle Z26"
+    },
+    "description": {
+      "de": "Differential Käfig Z26 aus dem fischertechnik Sortiment.",
+      "en": "Differential cage Z26 from the fischertechnik range.",
+      "fr": "Cage différentielle Z26 de la gamme fischertechnik."
+    }
+  },
+  "31412": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31412",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31412.jpg",
+    "name": {
+      "de": "Differential Planetenrad Z10",
+      "en": "Differential planetary gear Z10",
+      "fr": "Engrenage planétaire différentiel Z10"
+    },
+    "description": {
+      "de": "Differential Planetenrad Z10 aus dem fischertechnik Sortiment.",
+      "en": "Differential planetary gear Z10 from the fischertechnik range.",
+      "fr": "Engrenage planétaire différentiel Z10 de la gamme fischertechnik."
+    }
+  },
+  "31413": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31413",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31413.jpg",
+    "name": {
+      "de": "Differential Abtriebsrad Z10",
+      "en": "Differential output gear Z10",
+      "fr": "Engrenage de sortie différentiel Z10"
+    },
+    "description": {
+      "de": "Differential Abtriebsrad Z10 aus dem fischertechnik Sortiment.",
+      "en": "Differential driven gear Z10 from the fischertechnik range.",
+      "fr": "Engrenage différentiel mené Z10 de la gamme fischertechnik."
+    }
+  },
+  "31779": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31779",
+      "box": "11",
+      "compartment": "f",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31779.jpg",
+    "name": {
+      "de": "Kettenrad Z20",
+      "en": "Sprocket Z20",
+      "fr": "Pignon Z20"
+    },
+    "description": {
+      "de": "Kettenrad Z20 aus dem fischertechnik Sortiment.",
+      "en": "Sprocket Z20 from the fischertechnik range.",
+      "fr": "Pignon Z20 de la gamme fischertechnik."
+    }
+  },
+  "35031": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35031",
+      "box": "11",
+      "compartment": "c",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/35031.jpg",
+    "name": {
+      "de": "Flachnabenzange",
+      "en": "Flat nose pliers",
+      "fr": "Pince à bec plat"
+    },
+    "description": {
+      "de": "Flachnabenzange aus dem fischertechnik Sortiment.",
+      "en": "Flat hub pliers from the fischertechnik range.",
+      "fr": "Pince à moyeu plat de la gamme fischertechnik."
+    }
+  },
+  "35033": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35033",
+      "box": "11",
+      "compartment": "c",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/35033.jpg",
+    "name": {
+      "de": "Nabenmutter rot",
+      "en": "Hub nut red",
+      "fr": "Ecrou de moyeu rouge"
+    },
+    "description": {
+      "de": "Nabenmutter rot aus dem fischertechnik Sortiment.",
+      "en": "Hub nut red from the fischertechnik range.",
+      "fr": "Écrou de moyeu rouge de la gamme fischertechnik."
+    }
+  },
+  "35061": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35061",
+      "box": "11",
+      "compartment": "a",
+      "quantity_available": "52"
+    },
+    "imagePath": "assets/images/35061.jpg",
+    "name": {
+      "de": "Rastachse mit Kegelzahnrad",
+      "en": "Locking axle with bevel gear",
+      "fr": "Axe verrouillable avec engrenage conique"
+    },
+    "description": {
+      "de": "Rastachse mit Kegelzahnrad aus dem fischertechnik Sortiment.",
+      "en": "Locking axle with bevel gear from the fischertechnik range.",
+      "fr": "Axe verrouillable à engrenage conique de la gamme fischertechnik."
+    }
+  },
+  "35062": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35062",
+      "box": "11",
+      "compartment": "a",
+      "quantity_available": "32"
+    },
+    "imagePath": "assets/images/35062.jpg",
+    "name": {
+      "de": "Kegelzahnrad mit Hülse",
+      "en": "Bevel gear with sleeve",
+      "fr": "Engrenage conique avec manchon"
+    },
+    "description": {
+      "de": "Kegelzahnrad mit Hülse aus dem fischertechnik Sortiment.",
+      "en": "Bevel gear with sleeve from the fischertechnik range.",
+      "fr": "Engrenage conique avec manchon de la gamme fischertechnik."
+    }
+  },
+  "35072": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35072",
+      "box": "11",
+      "compartment": "f",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35072.jpg",
+    "name": {
+      "de": "Rastschnecke",
+      "en": "Rasping snail",
+      "fr": "Escargot râpant"
+    },
+    "description": {
+      "de": "Rastschnecke aus dem fischertechnik Sortiment.",
+      "en": "Locking snail from the fischertechnik range.",
+      "fr": "Escargot verrouillable de la gamme fischertechnik."
+    }
+  },
+  "35112": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35112",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35112.jpg",
+    "name": {
+      "de": "Ritzel Z10, M1,5",
+      "en": "Pinion Z10, M1.5",
+      "fr": "Pignon Z10, M1.5"
+    },
+    "description": {
+      "de": "Ritzel Z10, M1,5 aus dem fischertechnik Sortiment.",
+      "en": "Pinion Z10, M1.5 from the fischertechnik range.",
+      "fr": "Pignon Z10, M1.5 de la gamme fischertechnik."
+    }
+  },
+  "35466": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35466",
+      "box": "11",
+      "compartment": "e",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35466.jpg",
+    "name": {
+      "de": "Nockenscheibe schwarz",
+      "en": "Black cam disc",
+      "fr": "Disque à came noir"
+    },
+    "description": {
+      "de": "Nockenscheibe schwarz aus dem fischertechnik Sortiment.",
+      "en": "Black cam disc from the fischertechnik range.",
+      "fr": "Disque à came noir de la gamme fischertechnik."
+    }
+  },
+  "35694": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35694",
+      "box": "11",
+      "compartment": "e",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/35694.jpg",
+    "name": {
+      "de": "Innenzahnrad Z30",
+      "en": "Internal gear Z30",
+      "fr": "Engrenage interne Z30"
+    },
+    "description": {
+      "de": "Innenzahnrad Z30 aus dem fischertechnik Sortiment.",
+      "en": "Internal gear Z30 from the fischertechnik range.",
+      "fr": "Engrenage interne Z30 de la gamme fischertechnik."
+    }
+  },
+  "35695": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35695",
+      "box": "11",
+      "compartment": "f",
+      "quantity_available": "32"
+    },
+    "imagePath": "assets/images/35695.jpg",
+    "name": {
+      "de": "Zahnrad Z15",
+      "en": "Gear Z15",
+      "fr": "Engrenage Z15"
+    },
+    "description": {
+      "de": "Zahnrad Z15 aus dem fischertechnik Sortiment.",
+      "en": "Gear Z15 from the fischertechnik range.",
+      "fr": "Engrenage Z15 de la gamme fischertechnik."
+    }
+  },
+  "35945": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35945",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/35945.jpg",
+    "name": {
+      "de": "Rast-Ritzel Z10, m=1,5",
+      "en": "Locking pinion Z10, m=1.5",
+      "fr": "Pignon de blocage Z10, m=1,5"
+    },
+    "description": {
+      "de": "Rast-Ritzel Z10, m=1,5 aus dem fischertechnik Sortiment.",
+      "en": "Locking pinion Z10, m=1.5 from the fischertechnik range.",
+      "fr": "Pignon de blocage Z10, m=1,5 de la gamme fischertechnik."
+    }
+  },
+  "35982": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35982",
+      "box": "11",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35982.jpg",
+    "name": {
+      "de": "Deckel für Differential Käfig",
+      "en": "Cover for differential cage",
+      "fr": "Couvercle pour cage de différentiel"
+    },
+    "description": {
+      "de": "Deckel für Differential Käfig aus dem fischertechnik Sortiment.",
+      "en": "Cover for differential cage from the fischertechnik range.",
+      "fr": "Couvercle pour cage de différentiel de la gamme fischertechnik."
+    }
+  },
+  "36264": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36264",
+      "box": "11",
+      "compartment": "g",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/36264.jpg",
+    "name": {
+      "de": "Zahnrad Z30",
+      "en": "Gear Z30",
+      "fr": "Engrenage Z30"
+    },
+    "description": {
+      "de": "Zahnrad Z30 aus dem fischertechnik Sortiment.",
+      "en": "Gear Z30 from the fischertechnik range.",
+      "fr": "Engrenage Z30 de la gamme fischertechnik."
+    }
+  },
+  "68535": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "68535",
+      "box": "11",
+      "compartment": "e",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/68535.jpg",
+    "name": {
+      "de": "Freilaufnabe schwarz",
+      "en": "Freewheel hub black",
+      "fr": "Moyeu de roue libre noir"
+    },
+    "description": {
+      "de": "Freilaufnabe schwarz aus dem fischertechnik Sortiment.",
+      "en": "Freewheel hub black from the fischertechnik range.",
+      "fr": "Moyeu de roue libre noir de la gamme fischertechnik."
+    }
+  },
+  "137196": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "137196",
+      "box": "11",
+      "compartment": "a",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/137196.jpg",
+    "name": {
+      "de": "Differentialrad Motor XM",
+      "en": "Differential gear engine XM",
+      "fr": "Moteur à différentiel XM"
+    },
+    "description": {
+      "de": "Differentialrad Motor XM aus dem fischertechnik Sortiment.",
+      "en": "Differential wheel motor XM from the fischertechnik range.",
+      "fr": "Moteur de roue différentiel XM de la gamme fischertechnik."
+    }
+  },
+  "137677": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "137677",
+      "box": "11",
+      "compartment": "a",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/137677.jpg",
+    "name": {
+      "de": "Rastkettenrad Z20",
+      "en": "Locking sprocket Z20",
+      "fr": "Pignon de blocage Z20"
+    },
+    "description": {
+      "de": "Rastkettenrad Z20 aus dem fischertechnik Sortiment.",
+      "en": "Locking chain wheel Z20 from the fischertechnik range.",
+      "fr": "Plateau de verrouillage Z20 de la gamme fischertechnik."
+    }
+  },
+  "31063": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31063",
+      "box": "12",
+      "compartment": "c",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/31063.jpg",
+    "name": {
+      "de": "U-Achse 60 mit Zahnrad Z28",
+      "en": "U-axis 60 with gear Z28",
+      "fr": "Axe U 60 avec engrenage Z28"
+    },
+    "description": {
+      "de": "U-Achse 60 mit Zahnrad Z28 aus dem fischertechnik Sortiment.",
+      "en": "U-axis 60 with gear Z28 from the fischertechnik range.",
+      "fr": "Axe U 60 avec engrenage Z28 de la gamme fischertechnik."
+    }
+  },
+  "31064": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31064",
+      "box": "12",
+      "compartment": "c",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/31064.jpg",
+    "name": {
+      "de": "U-Achse 40 mit Zahnrad Z28",
+      "en": "U-axis 40 with gear Z28",
+      "fr": "Axe U 40 avec engrenage Z28"
+    },
+    "description": {
+      "de": "U-Achse 40 mit Zahnrad Z28 aus dem fischertechnik Sortiment.",
+      "en": "U-axis 40 with gear Z28 from the fischertechnik range.",
+      "fr": "Axe U 40 avec engrenage Z28 de la gamme fischertechnik."
+    }
+  },
+  "31078": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31078",
+      "box": "12",
+      "compartment": "c",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/31078.jpg",
+    "name": {
+      "de": "U-Getriebe",
+      "en": "U gear",
+      "fr": "U vitesse"
+    },
+    "description": {
+      "de": "U-Getriebe aus dem fischertechnik Sortiment.",
+      "en": "U-gear from the fischertechnik range.",
+      "fr": "Engrenage en U de la gamme fischertechnik."
+    }
+  },
+  "31082": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31082",
+      "box": "12",
+      "compartment": "c",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/31082.jpg",
+    "name": {
+      "de": "Rastachse mit Zahnrad Z28, m=0,5",
+      "en": "Locking axle with gear Z28, m=0.5",
+      "fr": "Axe verrouillable avec engrenage Z28, m=0,5"
+    },
+    "description": {
+      "de": "Rastachse mit Zahnrad Z28, m=0,5 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle with gear Z28, m=0.5 from the fischertechnik range.",
+      "fr": "Axe verrouillable avec engrenage Z28, m=0,5 de la gamme fischertechnik."
+    }
+  },
+  "31915": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31915",
+      "box": "12",
+      "compartment": "e",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/31915.jpg",
+    "name": {
+      "de": "Zangenmutter",
+      "en": "pliers nut",
+      "fr": "pince écrou"
+    },
+    "description": {
+      "de": "Zangenmutter aus dem fischertechnik Sortiment.",
+      "en": "Plier nut from the fischertechnik range.",
+      "fr": "Écrou de pince de la gamme fischertechnik."
+    }
+  },
+  "32293": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32293",
+      "box": "12",
+      "compartment": "d",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/32293.jpg",
+    "name": {
+      "de": "Mini Motor, 9.500 U/min- 0,15 Ncm",
+      "en": "Mini motor, 9,500 rpm - 0.15 Ncm",
+      "fr": "Mini moteur, 9 500 tr/min - 0,15 Ncm"
+    },
+    "description": {
+      "de": "Mini Motor, 9.500 U/min- 0,15 Ncm aus dem fischertechnik Sortiment.",
+      "en": "Mini motor, 9,500 rpm - 0.15 Ncm from the fischertechnik range.",
+      "fr": "Mini moteur, 9 500 tr/min - 0,15 Ncm de la gamme fischertechnik."
+    }
+  },
+  "35088": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35088",
+      "box": "12",
+      "compartment": "f",
+      "quantity_available": "22"
+    },
+    "imagePath": "assets/images/35088.jpg",
+    "name": {
+      "de": "Gelenkkurbel",
+      "en": "Articulated crank",
+      "fr": "Manivelle articulée"
+    },
+    "description": {
+      "de": "Gelenkkurbel aus dem fischertechnik Sortiment.",
+      "en": "Joint crank from the fischertechnik range.",
+      "fr": "Manivelle articulée de la gamme fischertechnik."
+    }
+  },
+  "35113": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35113",
+      "box": "12",
+      "compartment": "e",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/35113.jpg",
+    "name": {
+      "de": "Spannzange",
+      "en": "Collet",
+      "fr": "Collet"
+    },
+    "description": {
+      "de": "Spannzange aus dem fischertechnik Sortiment.",
+      "en": "Collet chuck from the fischertechnik range.",
+      "fr": "Mandrin à pince de la gamme fischertechnik."
+    }
+  },
+  "35973": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35973",
+      "box": "12",
+      "compartment": "f",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/35973.jpg",
+    "name": {
+      "de": "Schneckenmutter m=1",
+      "en": "Snail nut m=1",
+      "fr": "Noix d'escargot m=1"
+    },
+    "description": {
+      "de": "Schneckenmutter m=1 aus dem fischertechnik Sortiment.",
+      "en": "Worm nut m=1 from the fischertechnik range.",
+      "fr": "Écrou à vis sans fin m=1 de la gamme fischertechnik."
+    }
+  },
+  "35977": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35977",
+      "box": "12",
+      "compartment": "f",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/35977.jpg",
+    "name": {
+      "de": "Rastachse mit Schnecke m=1",
+      "en": "Locking axis with worm m=1",
+      "fr": "Axe de verrouillage avec vis sans fin m=1"
+    },
+    "description": {
+      "de": "Rastachse mit Schnecke m=1 aus dem fischertechnik Sortiment.",
+      "en": "Locking axle with worm m=1 from the fischertechnik range.",
+      "fr": "Axe de blocage à vis sans fin m=1 de la gamme fischertechnik."
+    }
+  },
+  "36337": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36337",
+      "box": "12",
+      "compartment": "g",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36337.jpg",
+    "name": {
+      "de": "Luftschraube mit 4 Flügeln",
+      "en": "Propeller with 4 blades",
+      "fr": "Hélice à 4 pales"
+    },
+    "description": {
+      "de": "Luftschraube mit 4 Flügeln aus dem fischertechnik Sortiment.",
+      "en": "Propeller with 4 blades from the fischertechnik range.",
+      "fr": "Hélice à 4 pales de la gamme fischertechnik."
+    }
+  },
+  "37681": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37681",
+      "box": "12",
+      "compartment": "g",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/37681.jpg",
+    "name": {
+      "de": "Adapterspitze für Luftschrauben",
+      "en": "Adapter tip for propellers",
+      "fr": "Embout adaptateur pour hélices"
+    },
+    "description": {
+      "de": "Adapterspitze für Luftschrauben aus dem fischertechnik Sortiment.",
+      "en": "Adapter tip for propellers from the fischertechnik range.",
+      "fr": "Embout adaptateur pour hélices de la gamme fischertechnik."
+    }
+  },
+  "37858": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37858",
+      "box": "12",
+      "compartment": "e",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/37858.jpg",
+    "name": {
+      "de": "Klemmbare Schnecke m=1,5",
+      "en": "Clampable screw m=1.5",
+      "fr": "Vis à serrage m=1,5"
+    },
+    "description": {
+      "de": "Klemmbare Schnecke m=1,5 aus dem fischertechnik Sortiment.",
+      "en": "Clampable screw m=1.5 from the fischertechnik range.",
+      "fr": "Vis à serrage m=1,5 de la gamme fischertechnik."
+    }
+  },
+  "37925": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37925",
+      "box": "12",
+      "compartment": "f",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/37925.jpg",
+    "name": {
+      "de": "Schneckenmutter m=1,5",
+      "en": "Snail nut m=1.5",
+      "fr": "Noix d'escargot m=1,5"
+    },
+    "description": {
+      "de": "Schneckenmutter m=1,5 aus dem fischertechnik Sortiment.",
+      "en": "Worm nut m=1.5 from the fischertechnik range.",
+      "fr": "Écrou à vis sans fin m=1,5 de la gamme fischertechnik."
+    }
+  },
+  "37926": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37926",
+      "box": "12",
+      "compartment": "e",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/37926.jpg",
+    "name": {
+      "de": "Schneckenteil m=1,5",
+      "en": "Snail part m=1.5",
+      "fr": "Partie escargot m=1,5"
+    },
+    "description": {
+      "de": "Schneckenteil m=1,5 aus dem fischertechnik Sortiment.",
+      "en": "Screw part m=1.5 from the fischertechnik range.",
+      "fr": "Pièce à vis m=1,5 de la gamme fischertechnik."
+    }
+  },
+  "135485": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "135485",
+      "box": "12",
+      "compartment": "h",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/135485.jpg",
+    "name": {
+      "de": "Motor XM 9V, 338 U/min-8,4 Ncm",
+      "en": "Motor XM 9V, 338 rpm-8.4 Ncm",
+      "fr": "Moteur XM 9V, 338 tr/min-8,4 Ncm"
+    },
+    "description": {
+      "de": "Motor XM 9V, 338 U/min-8,4 Ncm aus dem fischertechnik Sortiment.",
+      "en": "Motor XM 9V, 338 rpm-8.4 Ncm from the fischertechnik range.",
+      "fr": "Moteur XM 9V, 338 tr/min-8,4 Ncm de la gamme fischertechnik."
+    }
+  },
+  "137096": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "137096",
+      "box": "12",
+      "compartment": "b",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/137096.jpg",
+    "name": {
+      "de": "Motor XS, 5995 U/min-0,15 Ncm",
+      "en": "Motor XS, 5995 rpm-0.15 Ncm",
+      "fr": "Moteur XS, 5995 tr/min-0,15 Ncm"
+    },
+    "description": {
+      "de": "Motor XS, 5995 U/min-0,15 Ncm aus dem fischertechnik Sortiment.",
+      "en": "Motor XS, 5995 rpm-0.15 Ncm from the fischertechnik range.",
+      "fr": "Moteur XS, 5995 tr/min-0,15 Ncm de la gamme fischertechnik."
+    }
+  },
+  "153422": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "153422",
+      "box": "12",
+      "compartment": "d",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/153422.jpg",
+    "name": {
+      "de": "Encodermotor, rot",
+      "en": "Encoder motor, red",
+      "fr": "Moteur codeur, rouge"
+    },
+    "description": {
+      "de": "Encodermotor, rot aus dem fischertechnik Sortiment.",
+      "en": "Encoder motor, red from the fischertechnik range.",
+      "fr": "Moteur codeur, rouge de la gamme fischertechnik."
+    }
+  },
+  "156108": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "156108",
+      "box": "12",
+      "compartment": "g",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/156108.jpg",
+    "name": {
+      "de": "Luftschraube 100 grün",
+      "en": "Air screw 100 green",
+      "fr": "Vis à air 100 verte"
+    },
+    "description": {
+      "de": "Luftschraube 100 grün aus dem fischertechnik Sortiment.",
+      "en": "Air screw 100 green from the fischertechnik range.",
+      "fr": "Vis à air 100 verte de la gamme fischertechnik."
+    }
+  },
+  "31790": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31790",
+      "box": "13",
+      "compartment": "f + g",
+      "quantity_available": "350"
+    },
+    "imagePath": "assets/images/31790.jpg",
+    "name": {
+      "de": "Raupenbelag weich / soft",
+      "en": "Caterpillar coating soft/soft",
+      "fr": "Revêtement chenille doux/doux"
+    },
+    "description": {
+      "de": "Raupenbelag weich / soft aus dem fischertechnik Sortiment.",
+      "en": "Soft caterpillar covering from the fischertechnik range.",
+      "fr": "Revêtement de chenille souple de la gamme fischertechnik."
+    }
+  },
+  "36248": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36248",
+      "box": "13",
+      "compartment": "c",
+      "quantity_available": "1200"
+    },
+    "imagePath": "assets/images/36248.jpg",
+    "name": {
+      "de": "Rastkettenglied 11,5 rot",
+      "en": "Locking chain link 11.5 red",
+      "fr": "Maillon de chaîne verrouillable 11,5 rouge"
+    },
+    "description": {
+      "de": "Rastkettenglied 11,5 rot aus dem fischertechnik Sortiment.",
+      "en": "Locking chain link 11.5 red from the fischertechnik range.",
+      "fr": "Maillon de chaîne de verrouillage 11,5 rouge de la gamme fischertechnik."
+    }
+  },
+  "119850": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "119850",
+      "box": "13",
+      "compartment": "d",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/119850.jpg",
+    "name": {
+      "de": "Magnetischer Kugelhalter",
+      "en": "Magnetic ball holder",
+      "fr": "Porte-balle magnétique"
+    },
+    "description": {
+      "de": "Magnetischer Kugelhalter aus dem fischertechnik Sortiment.",
+      "en": "Magnetic ball holder from the fischertechnik range.",
+      "fr": "Porte-balle magnétique de la gamme fischertechnik."
+    }
+  },
+  "128659": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "128659",
+      "box": "13",
+      "compartment": "h",
+      "quantity_available": "700"
+    },
+    "imagePath": "assets/images/128659.jpg",
+    "name": {
+      "de": "Rastkettenglied 13,5 schwarz",
+      "en": "Locking chain link 13.5 black",
+      "fr": "Maillon de chaîne verrouillable 13,5 noir"
+    },
+    "description": {
+      "de": "Rastkettenglied 13,5 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Locking chain link 13.5 black from the fischertechnik range.",
+      "fr": "Maillon de chaîne de verrouillage 13,5 noir de la gamme fischertechnik."
+    }
+  },
+  "144262": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "144262",
+      "box": "13",
+      "compartment": "d",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/144262.jpg",
+    "name": {
+      "de": "Stahlkugel D12,5",
+      "en": "Steel ball D12.5",
+      "fr": "Bille d'acier D12.5"
+    },
+    "description": {
+      "de": "Stahlkugel D12,5 aus dem fischertechnik Sortiment.",
+      "en": "Steel ball D12.5 from the fischertechnik range.",
+      "fr": "Bille en acier D12.5 de la gamme fischertechnik."
+    }
+  },
+  "151715": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "151715",
+      "box": "13",
+      "compartment": "a",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/151715.jpg",
+    "name": {
+      "de": "90 Grad Kurve",
+      "en": "90 degree curve",
+      "fr": "courbe à 90 degrés"
+    },
+    "description": {
+      "de": "90 Grad Kurve aus dem fischertechnik Sortiment.",
+      "en": "90 degree curve from the fischertechnik range.",
+      "fr": "Courbe à 90 degrés de la gamme fischertechnik."
+    }
+  },
+  "151716": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "151716",
+      "box": "13",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/151716.jpg",
+    "name": {
+      "de": "Wechselweiche Unterteil",
+      "en": "Interchangeable soft bottom part",
+      "fr": "Partie inférieure souple interchangeable"
+    },
+    "description": {
+      "de": "Wechselweiche Unterteil aus dem fischertechnik Sortiment.",
+      "en": "Interchangeable soft base part from the fischertechnik range.",
+      "fr": "Pièce de base souple interchangeable de la gamme fischertechnik."
+    }
+  },
+  "151717": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "151717",
+      "box": "13",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/151717.jpg",
+    "name": {
+      "de": "Wechselweiche Hebel",
+      "en": "Interchangeable levers",
+      "fr": "Leviers interchangeables"
+    },
+    "description": {
+      "de": "Wechselweiche Hebel aus dem fischertechnik Sortiment.",
+      "en": "Interchangeable levers from the fischertechnik range.",
+      "fr": "Leviers interchangeables de la gamme fischertechnik."
+    }
+  },
+  "155901": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "155901",
+      "box": "13",
+      "compartment": "e",
+      "quantity_available": "30"
+    },
+    "imagePath": "assets/images/155901.jpg",
+    "name": {
+      "de": "Flexprofil 90, grün",
+      "en": "Flex profile 90, green",
+      "fr": "Profil flexible 90, vert"
+    },
+    "description": {
+      "de": "Flexprofil 90, grün aus dem fischertechnik Sortiment.",
+      "en": "Flex profile 90, green from the fischertechnik range.",
+      "fr": "Profil Flex 90, vert de la gamme fischertechnik."
+    }
+  },
+  "158962": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "158962",
+      "box": "13",
+      "compartment": "a",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/158962.jpg",
+    "name": {
+      "de": "180° Kurve, grün",
+      "en": "180° curve, green",
+      "fr": "Courbe 180°, vert"
+    },
+    "description": {
+      "de": "180° Kurve, grün aus dem fischertechnik Sortiment.",
+      "en": "180° curve, green from the fischertechnik range.",
+      "fr": "Courbe 180°, verte de la gamme fischertechnik."
+    }
+  },
+  "167370": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167370",
+      "box": "13",
+      "compartment": "b",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/167370.jpg",
+    "name": {
+      "de": "Weichenzunge klein",
+      "en": "Switch tongue small",
+      "fr": "Petite languette de commutation"
+    },
+    "description": {
+      "de": "Weichenzunge klein aus dem fischertechnik Sortiment.",
+      "en": "Switch tongue small from the fischertechnik range.",
+      "fr": "Languette d'interrupteur petite de la gamme fischertechnik."
+    }
+  },
+  "174118": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "174118",
+      "box": "13",
+      "compartment": "d",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/174118.jpg",
+    "name": {
+      "de": "Gausskanone",
+      "en": "Gauss cannon",
+      "fr": "Canon Gauss"
+    },
+    "description": {
+      "de": "Gausskanone aus dem fischertechnik Sortiment.",
+      "en": "Gauss cannon from the fischertechnik range.",
+      "fr": "Canon Gauss de la gamme fischertechnik."
+    }
+  },
+  "31422": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31422",
+      "box": "14",
+      "compartment": "f",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/31422.jpg",
+    "name": {
+      "de": "Achsadapter",
+      "en": "Axle adapter",
+      "fr": "Adaptateur d'essieu"
+    },
+    "description": {
+      "de": "Achsadapter aus dem fischertechnik Sortiment.",
+      "en": "Axle adapter from the fischertechnik range.",
+      "fr": "Adaptateur d'essieu de la gamme fischertechnik."
+    }
+  },
+  "31642": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31642",
+      "box": "14",
+      "compartment": "h",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/31642.jpg",
+    "name": {
+      "de": "T-Stück, blau, Pneumatik",
+      "en": "T-piece, blue, pneumatic",
+      "fr": "Pièce en T, bleue, pneumatique"
+    },
+    "description": {
+      "de": "T-Stück, blau, Pneumatik aus dem fischertechnik Sortiment.",
+      "en": "T-piece, blue, pneumatics from the fischertechnik range.",
+      "fr": "Pièce en T, bleue, pneumatique de la gamme fischertechnik."
+    }
+  },
+  "36915": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36915",
+      "box": "14",
+      "compartment": "e",
+      "quantity_available": "24"
+    },
+    "imagePath": "assets/images/36915.jpg",
+    "name": {
+      "de": "Winkelanschluß",
+      "en": "Angle connection",
+      "fr": "Connexion d'angle"
+    },
+    "description": {
+      "de": "Winkelanschluß aus dem fischertechnik Sortiment.",
+      "en": "Angle connection from the fischertechnik range.",
+      "fr": "Connexion d'angle de la gamme fischertechnik."
+    }
+  },
+  "36934": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36934",
+      "box": "14",
+      "compartment": "g",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/36934.jpg",
+    "name": {
+      "de": "Pneumatik - Handventil",
+      "en": "Pneumatics - manual valve",
+      "fr": "Pneumatique - vanne manuelle"
+    },
+    "description": {
+      "de": "Pneumatik - Handventil aus dem fischertechnik Sortiment.",
+      "en": "Pneumatic hand valve from the fischertechnik range.",
+      "fr": "Vanne manuelle pneumatique de la gamme fischertechnik."
+    }
+  },
+  "36938": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36938",
+      "box": "14",
+      "compartment": "b",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/36938.jpg",
+    "name": {
+      "de": "Pneumatik Zylinder 60",
+      "en": "Pneumatic cylinder 60",
+      "fr": "Vérin pneumatique 60"
+    },
+    "description": {
+      "de": "Pneumatik Zylinder 60 aus dem fischertechnik Sortiment.",
+      "en": "Pneumatic cylinder 60 from the fischertechnik range.",
+      "fr": "Vérin pneumatique 60 de la gamme fischertechnik."
+    }
+  },
+  "36970": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36970",
+      "box": "14",
+      "compartment": "f",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/36970.jpg",
+    "name": {
+      "de": "Rückschlagventil schwarz",
+      "en": "Black check valve",
+      "fr": "Clapet anti-retour noir"
+    },
+    "description": {
+      "de": "Rückschlagventil schwarz aus dem fischertechnik Sortiment.",
+      "en": "Black check valve from the fischertechnik range.",
+      "fr": "Clapet anti-retour noir de la gamme fischertechnik."
+    }
+  },
+  "121470": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "121470",
+      "box": "14",
+      "compartment": "d",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/121470.jpg",
+    "name": {
+      "de": "Kompressor 9V komplett montiert",
+      "en": "9V compressor completely assembled",
+      "fr": "Compresseur 9V complètement assemblé"
+    },
+    "description": {
+      "de": "Kompressor 9V komplett montiert aus dem fischertechnik Sortiment.",
+      "en": "Compressor 9V completely assembled from the fischertechnik range.",
+      "fr": "Compresseur 9V entièrement monté de la gamme fischertechnik."
+    }
+  },
+  "121640": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "121640",
+      "box": "14",
+      "compartment": "d",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/121640.jpg",
+    "name": {
+      "de": "Schlauchanschluss Kompressor",
+      "en": "Hose connection compressor",
+      "fr": "Compresseur de raccordement de tuyau"
+    },
+    "description": {
+      "de": "Schlauchanschluss Kompressor aus dem fischertechnik Sortiment.",
+      "en": "Hose connection compressor from the fischertechnik range.",
+      "fr": "Compresseur à raccord de tuyau de la gamme fischertechnik."
+    }
+  },
+  "122641": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "122641",
+      "box": "14",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/122641.jpg",
+    "name": {
+      "de": "Pneumatik Zylinder 45",
+      "en": "Pneumatic cylinder 45",
+      "fr": "Vérin pneumatique 45"
+    },
+    "description": {
+      "de": "Pneumatik Zylinder 45 aus dem fischertechnik Sortiment.",
+      "en": "Pneumatic cylinder 45 from the fischertechnik range.",
+      "fr": "Vérin pneumatique 45 de la gamme fischertechnik."
+    }
+  },
+  "133027": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "133027",
+      "box": "14",
+      "compartment": "b",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/133027.jpg",
+    "name": {
+      "de": "Zylinder 60 mit Feder",
+      "en": "Cylinder 60 with spring",
+      "fr": "Cylindre 60 avec ressort"
+    },
+    "description": {
+      "de": "Zylinder 60 mit Feder aus dem fischertechnik Sortiment.",
+      "en": "Cylinder 60 with spring from the fischertechnik range.",
+      "fr": "Cylindre 60 avec ressort de la gamme fischertechnik."
+    }
+  },
+  "154485": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "154485",
+      "box": "14",
+      "compartment": "h",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/154485.jpg",
+    "name": {
+      "de": "TT-Ball",
+      "en": "TT ball",
+      "fr": "Ballon de contre-la-montre"
+    },
+    "description": {
+      "de": "TT-Ball aus dem fischertechnik Sortiment.",
+      "en": "TT ball from the fischertechnik range.",
+      "fr": "Balle TT de la gamme fischertechnik."
+    }
+  },
+  "156493": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "156493",
+      "box": "14",
+      "compartment": "h",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/156493.jpg",
+    "name": {
+      "de": "Druckluftspeicher, schwarz",
+      "en": "Compressed air reservoir, black",
+      "fr": "Réservoir d'air comprimé, noir"
+    },
+    "description": {
+      "de": "Druckluftspeicher, schwarz aus dem fischertechnik Sortiment.",
+      "en": "Compressed air reservoir, black from the fischertechnik range.",
+      "fr": "Réservoir d'air comprimé noir de la gamme fischertechnik."
+    }
+  },
+  "167983": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167983",
+      "box": "14",
+      "compartment": "b",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/167983.jpg",
+    "name": {
+      "de": "Zylinderrohr 44 mit Deckel",
+      "en": "Cylinder tube 44 with cover",
+      "fr": "Tube cylindre 44 avec couvercle"
+    },
+    "description": {
+      "de": "Zylinderrohr 44 mit Deckel aus dem fischertechnik Sortiment.",
+      "en": "Cylinder tube 44 with cover from the fischertechnik range.",
+      "fr": "Tube cylindre 44 avec couvercle de la gamme fischertechnik."
+    }
+  },
+  "180925": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "180925",
+      "box": "14",
+      "compartment": "f",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/180925.jpg",
+    "name": {
+      "de": "Abluftdrossel Gehäuse",
+      "en": "Exhaust air throttle housing",
+      "fr": "Boîtier papillon d'air d'échappement"
+    },
+    "description": {
+      "de": "Abluftdrossel Gehäuse aus dem fischertechnik Sortiment.",
+      "en": "Exhaust air throttle housing from the fischertechnik range.",
+      "fr": "Boîtier de papillon d'air d'échappement de la gamme fischertechnik."
+    }
+  },
+  "180926": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "180926",
+      "box": "14",
+      "compartment": "f",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/180926.jpg",
+    "name": {
+      "de": "Abluftdrossel Schraube",
+      "en": "Exhaust air throttle screw",
+      "fr": "Vis d'étranglement d'air d'échappement"
+    },
+    "description": {
+      "de": "Abluftdrossel Schraube aus dem fischertechnik Sortiment.",
+      "en": "Exhaust air throttle screw from the fischertechnik range.",
+      "fr": "Vis d'étranglement d'air d'échappement de la gamme fischertechnik."
+    }
+  },
+  "180927": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "180927",
+      "box": "14",
+      "compartment": "a +c",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/180927.jpg",
+    "name": {
+      "de": "Pneumatikschlauch blau, 3700mm",
+      "en": "Pneumatic hose blue, 3700mm",
+      "fr": "Tuyau pneumatique bleu, 3700mm"
+    },
+    "description": {
+      "de": "Pneumatikschlauch blau, 3700mm aus dem fischertechnik Sortiment.",
+      "en": "Pneumatic hose blue, 3700mm from the fischertechnik range.",
+      "fr": "Tuyau pneumatique bleu, 3700mm de la gamme fischertechnik."
+    }
+  },
+  "32698": {
+    "name": "Foto-Widerstand",
+    "description": "Foto-Widerstand aus dem fischertechnik Sortiment.",
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32698",
+      "box": "15",
+      "compartment": "a",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/32698.jpg"
+  },
+  "35077": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35077",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35077.jpg",
+    "name": {
+      "de": "Rastleuchtkappe blau",
+      "en": "Blue locking light cap",
+      "fr": "Capuchon de lumière verrouillable bleu"
+    },
+    "description": {
+      "de": "Rastleuchtkappe blau aus dem fischertechnik Sortiment.",
+      "en": "Blue locking light cap from the fischertechnik range.",
+      "fr": "Capuchon de lumière verrouillable bleu de la gamme fischertechnik."
+    }
+  },
+  "35078": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35078",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35078.jpg",
+    "name": {
+      "de": "Rastleuchtkappe orange",
+      "en": "Orange snap-on light cap",
+      "fr": "Capuchon de lumière orange à clipser"
+    },
+    "description": {
+      "de": "Rastleuchtkappe orange aus dem fischertechnik Sortiment.",
+      "en": "Snap light cap orange from the fischertechnik range.",
+      "fr": "Capuchon de lumière Snap orange de la gamme fischertechnik."
+    }
+  },
+  "35079": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35079",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35079.jpg",
+    "name": {
+      "de": "Rastleuchtkappe rot",
+      "en": "Red locking light cap",
+      "fr": "Capuchon de lumière rouge verrouillable"
+    },
+    "description": {
+      "de": "Rastleuchtkappe rot aus dem fischertechnik Sortiment.",
+      "en": "Red locking light cap from the fischertechnik range.",
+      "fr": "Capuchon de lumière verrouillable rouge de la gamme fischertechnik."
+    }
+  },
+  "35084": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35084",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/35084.jpg",
+    "name": {
+      "de": "Rastleuchtkappe grün",
+      "en": "Green locking light cap",
+      "fr": "Capuchon de feu vert verrouillable"
+    },
+    "description": {
+      "de": "Rastleuchtkappe grün aus dem fischertechnik Sortiment.",
+      "en": "Snap light cap green from the fischertechnik range.",
+      "fr": "Capuchon de lumière Snap vert de la gamme fischertechnik."
+    }
+  },
+  "35086": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35086",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/35086.jpg",
+    "name": {
+      "de": "Rastleuchtkappe transparent",
+      "en": "Locking light cap transparent",
+      "fr": "Capuchon de lumière verrouillable transparent"
+    },
+    "description": {
+      "de": "Rastleuchtkappe transparent aus dem fischertechnik Sortiment.",
+      "en": "Transparent locking light cap from the fischertechnik range.",
+      "fr": "Capuchon de lumière verrouillable transparent de la gamme fischertechnik."
+    }
+  },
+  "35969": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35969",
+      "box": "15",
+      "compartment": "c",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/35969.jpg",
+    "name": {
+      "de": "Reedkontakt- und Kabelhalter",
+      "en": "Reed contact and cable holder",
+      "fr": "Contact Reed et support de câble"
+    },
+    "description": {
+      "de": "Reedkontakt- und Kabelhalter aus dem fischertechnik Sortiment.",
+      "en": "Reed contact and cable holder from the fischertechnik range.",
+      "fr": "Contact Reed et support de câble de la gamme fischertechnik."
+    }
+  },
+  "36134": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36134",
+      "box": "15",
+      "compartment": "a",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36134.jpg",
+    "name": {
+      "de": "Fototransistor montiert",
+      "en": "Phototransistor mounted",
+      "fr": "Phototransistor monté"
+    },
+    "description": {
+      "de": "Fototransistor montiert aus dem fischertechnik Sortiment.",
+      "en": "Phototransistor assembled from the fischertechnik range.",
+      "fr": "Phototransistor assemblé de la gamme fischertechnik."
+    }
+  },
+  "36437": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36437",
+      "box": "15",
+      "compartment": "d",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/36437.jpg",
+    "name": {
+      "de": "NTC-Widerstand 1,5 kΩ NTC resistor  1,5 kΩ",
+      "en": "NTC resistor 1.5 kΩ NTC resistor 1.5 kΩ",
+      "fr": "Résistance NTC 1,5 kΩ Résistance NTC 1,5 kΩ"
+    },
+    "description": {
+      "de": "NTC-Widerstand 1,5 kΩ NTC resistor  1,5 kΩ aus dem fischertechnik Sortiment.",
+      "en": "NTC resistor 1.5 kΩ NTC resistor 1.5 kΩ from the fischertechnik range.",
+      "fr": "Résistance NTC 1,5 kΩ Résistance NTC 1,5 kΩ de la gamme fischertechnik."
+    }
+  },
+  "36443": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36443",
+      "box": "15",
+      "compartment": "e",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/36443.jpg",
+    "name": {
+      "de": "Schraubendreher",
+      "en": "screwdriver",
+      "fr": "tournevis"
+    },
+    "description": {
+      "de": "Schraubendreher aus dem fischertechnik Sortiment.",
+      "en": "Screwdrivers from the fischertechnik range.",
+      "fr": "Tournevis de la gamme fischertechnik."
+    }
+  },
+  "36532": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36532",
+      "box": "15",
+      "compartment": "a",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36532.jpg",
+    "name": {
+      "de": "Störlichtkappe, Öffnung 6",
+      "en": "Fault light cap, opening 6",
+      "fr": "Capuchon du voyant de défaut, ouverture 6"
+    },
+    "description": {
+      "de": "Störlichtkappe, Öffnung 6 aus dem fischertechnik Sortiment.",
+      "en": "Fault light cap, opening 6 from the fischertechnik range.",
+      "fr": "Capuchon de voyant de défaut, ouverture 6 de la gamme fischertechnik."
+    }
+  },
+  "36708": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36708",
+      "box": "15",
+      "compartment": "c",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36708.jpg",
+    "name": {
+      "de": "Polwendeschalter",
+      "en": "Pole reversal switch",
+      "fr": "Inverseur de pôle"
+    },
+    "description": {
+      "de": "Polwendeschalter aus dem fischertechnik Sortiment.",
+      "en": "Pole reversing switch from the fischertechnik range.",
+      "fr": "Inverseur de pôles de la gamme fischertechnik."
+    }
+  },
+  "37783": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "37783",
+      "box": "15",
+      "compartment": "a",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/37783.jpg",
+    "name": {
+      "de": "Mini-Taster",
+      "en": "Mini button",
+      "fr": "Mini-bouton"
+    },
+    "description": {
+      "de": "Mini-Taster aus dem fischertechnik Sortiment.",
+      "en": "Mini button from the fischertechnik range.",
+      "fr": "Mini bouton de la gamme fischertechnik."
+    }
+  },
+  "38216": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "38216",
+      "box": "15",
+      "compartment": "b",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/38216.jpg",
+    "name": {
+      "de": "Leuchtstein mit Steckfassung",
+      "en": "Luminous stone with socket",
+      "fr": "Pierre lumineuse avec douille"
+    },
+    "description": {
+      "de": "Leuchtstein mit Steckfassung aus dem fischertechnik Sortiment.",
+      "en": "Luminous stone with socket from the fischertechnik range.",
+      "fr": "Pierre lumineuse avec douille de la gamme fischertechnik."
+    }
+  },
+  "122900": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "122900",
+      "box": "15",
+      "compartment": "e",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/122900.jpg",
+    "name": {
+      "de": "Servolasche",
+      "en": "Servo tab",
+      "fr": "Onglet Servos"
+    },
+    "description": {
+      "de": "Servolasche aus dem fischertechnik Sortiment.",
+      "en": "Servo lug from the fischertechnik range.",
+      "fr": "Cosse de servo de la gamme fischertechnik."
+    }
+  },
+  "132004": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "132004",
+      "box": "15",
+      "compartment": "e",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/132004.jpg",
+    "name": {
+      "de": "Servohebel",
+      "en": "Servo lever",
+      "fr": "Levier de servo"
+    },
+    "description": {
+      "de": "Servohebel aus dem fischertechnik Sortiment.",
+      "en": "Servo lever from the fischertechnik range.",
+      "fr": "Levier servo de la gamme fischertechnik."
+    }
+  },
+  "132290": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "132290",
+      "box": "15",
+      "compartment": "e",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/132290.jpg",
+    "name": {
+      "de": "Servohalter",
+      "en": "Servo holder",
+      "fr": "Support de servo"
+    },
+    "description": {
+      "de": "Servohalter aus dem fischertechnik Sortiment.",
+      "en": "Servo holder from the fischertechnik range.",
+      "fr": "Support de servo de la gamme fischertechnik."
+    }
+  },
+  "132292": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "132292",
+      "box": "15",
+      "compartment": "e",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/132292.jpg",
+    "name": {
+      "de": "Micro Servo 4,8/ 9V",
+      "en": "Micro servo 4.8/9V",
+      "fr": "Micro-servo 4,8/9V"
+    },
+    "description": {
+      "de": "Micro Servo 4,8/ 9V aus dem fischertechnik Sortiment.",
+      "en": "Micro Servo 4.8/9V from the fischertechnik range.",
+      "fr": "Micro Servo 4.8/9V de la gamme fischertechnik."
+    }
+  },
+  "161943": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "161943",
+      "box": "15",
+      "compartment": "c",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/161943.jpg",
+    "name": {
+      "de": "Empfänger BT Conrol Set",
+      "en": "Receiver BT Control Set",
+      "fr": "Ensemble de contrôle du récepteur BT"
+    },
+    "description": {
+      "de": "Empfänger BT Conrol Set aus dem fischertechnik Sortiment.",
+      "en": "Receiver BT Control Set from the fischertechnik range.",
+      "fr": "Récepteur BT Control Set de la gamme fischertechnik."
+    }
+  },
+  "161944": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "161944",
+      "box": "15",
+      "compartment": "f",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/161944.jpg",
+    "name": {
+      "de": "BT Smart Controller",
+      "en": "BT Smart Controller",
+      "fr": "Contrôleur intelligent BT"
+    },
+    "description": {
+      "de": "BT Smart Controller aus dem fischertechnik Sortiment.",
+      "en": "BT Smart Controller from the fischertechnik range.",
+      "fr": "Contrôleur intelligent BT de la gamme fischertechnik."
+    }
+  },
+  "162134": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "162134",
+      "box": "15",
+      "compartment": "b",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/162134.jpg",
+    "name": {
+      "de": "LED mit Sockel",
+      "en": "LED with base",
+      "fr": "LED avec socle"
+    },
+    "description": {
+      "de": "LED mit Sockel aus dem fischertechnik Sortiment.",
+      "en": "LED with base from the fischertechnik range.",
+      "fr": "LED avec socle de la gamme fischertechnik."
+    }
+  },
+  "162135": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "162135",
+      "box": "15",
+      "compartment": "b",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/162135.jpg",
+    "name": {
+      "de": "Lichtschranke LED",
+      "en": "LED light barrier",
+      "fr": "Barrière lumineuse LED"
+    },
+    "description": {
+      "de": "Lichtschranke LED aus dem fischertechnik Sortiment.",
+      "en": "LED light barrier from the fischertechnik range.",
+      "fr": "Barrière lumineuse LED de la gamme fischertechnik."
+    }
+  },
+  "162136": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "162136",
+      "box": "15",
+      "compartment": "b",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/162136.jpg",
+    "name": {
+      "de": "Rainbow LED mit Sockel",
+      "en": "Rainbow LED with base",
+      "fr": "LED arc-en-ciel avec base"
+    },
+    "description": {
+      "de": "Rainbow LED mit Sockel aus dem fischertechnik Sortiment.",
+      "en": "Rainbow LED with base from the fischertechnik range.",
+      "fr": "LED arc-en-ciel avec socle de la gamme fischertechnik."
+    }
+  },
+  "173067": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "173067",
+      "box": "15",
+      "compartment": "g",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/173067.jpg",
+    "name": {
+      "de": "TXT 4.0 Controller",
+      "en": "TXT 4.0 controllers",
+      "fr": "Contrôleurs TXT 4.0"
+    },
+    "description": {
+      "de": "TXT 4.0 Controller aus dem fischertechnik Sortiment.",
+      "en": "TXT 4.0 controller from the fischertechnik range.",
+      "fr": "Contrôleur TXT 4.0 de la gamme fischertechnik."
+    }
+  },
+  "181583": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "181583",
+      "box": "15",
+      "compartment": "h",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/181583.jpg",
+    "name": {
+      "de": "Flachstecker grün",
+      "en": "Green flat plug",
+      "fr": "Fiche plate verte"
+    },
+    "description": {
+      "de": "Flachstecker grün aus dem fischertechnik Sortiment.",
+      "en": "Green flat connector from the fischertechnik range.",
+      "fr": "Connecteur plat vert de la gamme fischertechnik."
+    }
+  },
+  "181584": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "181584",
+      "box": "15",
+      "compartment": "h",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/181584.jpg",
+    "name": {
+      "de": "Flachstecker rot",
+      "en": "Flat plug red",
+      "fr": "Bouchon plat rouge"
+    },
+    "description": {
+      "de": "Flachstecker rot aus dem fischertechnik Sortiment.",
+      "en": "Flat plug red from the fischertechnik range.",
+      "fr": "Fiche plate rouge de la gamme fischertechnik."
+    }
+  },
+  "32854": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32854",
+      "box": "Box 5",
+      "compartment": "small",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/32854.jpg",
+    "name": {
+      "de": "U-Träger 150 schwarz",
+      "en": "U-beam 150 black",
+      "fr": "Poutre en U 150 noire"
+    },
+    "description": {
+      "de": "U-Träger 150 schwarz aus dem fischertechnik Sortiment.",
+      "en": "U-beam 150 black from the fischertechnik range.",
+      "fr": "Poutre en U 150 noire de la gamme fischertechnik."
+    }
+  },
+  "32859": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32859",
+      "box": "Box 5",
+      "compartment": "small",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/32859.jpg",
+    "name": {
+      "de": "Bodenplatte 30x90, rot",
+      "en": "Base plate 30x90, red",
+      "fr": "Plaque de base 30x90, rouge"
+    },
+    "description": {
+      "de": "Bodenplatte 30x90, rot aus dem fischertechnik Sortiment.",
+      "en": "Base plate 30x90, red from the fischertechnik range.",
+      "fr": "Plaque de base 30x90, rouge de la gamme fischertechnik."
+    }
+  },
+  "32879": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32879",
+      "box": "Box 1",
+      "compartment": "small",
+      "quantity_available": "100"
+    },
+    "imagePath": "assets/images/32879.jpg",
+    "name": {
+      "de": "Baustein 30 schwarz",
+      "en": "Building block 30 black",
+      "fr": "Bloc de construction 30 noir"
+    },
+    "description": {
+      "de": "Baustein 30 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Building block 30 black from the fischertechnik range.",
+      "fr": "Bloc de construction 30 noir de la gamme fischertechnik."
+    }
+  },
+  "32913": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32913",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/32913.jpg",
+    "name": {
+      "de": "Reifen 50",
+      "en": "Tires 50",
+      "fr": "Pneus 50"
+    },
+    "description": {
+      "de": "Reifen 50 aus dem fischertechnik Sortiment.",
+      "en": "Tire 50 from the fischertechnik range.",
+      "fr": "Pneu 50 de la gamme fischertechnik."
+    }
+  },
+  "34995": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "34995",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/34995.jpg",
+    "name": {
+      "de": "Reifen 32,5 Tyre 32,5",
+      "en": "Tire 32.5 Tire 32.5",
+      "fr": "Pneu 32,5 Pneu 32,5"
+    },
+    "description": {
+      "de": "Reifen 32,5 Tyre 32,5 aus dem fischertechnik Sortiment.",
+      "en": "Tire 32.5 Tire 32.5 from the fischertechnik range.",
+      "fr": "Pneu 32.5 Pneu 32.5 de la gamme fischertechnik."
+    }
+  },
+  "35129": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35129",
+      "box": "Box 5",
+      "compartment": "small",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/35129.jpg",
+    "name": {
+      "de": "Grundplatte schwarz 120x60",
+      "en": "Base plate black 120x60",
+      "fr": "Plaque de base noire 120x60"
+    },
+    "description": {
+      "de": "Grundplatte schwarz 120x60 aus dem fischertechnik Sortiment.",
+      "en": "Base plate black 120x60 from the fischertechnik range.",
+      "fr": "Plaque de base noire 120x60 de la gamme fischertechnik."
+    }
+  },
+  "35537": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35537",
+      "box": "Box 9",
+      "compartment": "large",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/35537.jpg",
+    "name": {
+      "de": "Akkupack NiMH 8,4 V 1500  mA",
+      "en": "Battery pack NiMH 8.4 V 1500 mA",
+      "fr": "Batterie NiMH 8,4 V 1500 mA"
+    },
+    "description": {
+      "de": "Akkupack NiMH 8,4 V 1500  mA aus dem fischertechnik Sortiment.",
+      "en": "NiMH 8.4 V 1500 mA battery pack from the fischertechnik range.",
+      "fr": "Pack batterie NiMH 8,4 V 1500 mA de la gamme fischertechnik."
+    }
+  },
+  "36293": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36293",
+      "box": "Box 2",
+      "compartment": "large",
+      "quantity_available": "170"
+    },
+    "imagePath": "assets/images/36293.jpg",
+    "name": {
+      "de": "Winkelträger 120 schwarz",
+      "en": "Angle bracket 120 black",
+      "fr": "Support d'angle 120 noir"
+    },
+    "description": {
+      "de": "Winkelträger 120 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket 120 black from the fischertechnik range.",
+      "fr": "Equerre 120 noire de la gamme fischertechnik."
+    }
+  },
+  "36574": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36574",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/36574.jpg",
+    "name": {
+      "de": "Rad 23 schwarz",
+      "en": "Wheel 23 black",
+      "fr": "Roue 23 noire"
+    },
+    "description": {
+      "de": "Rad 23 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Wheel 23 black from the fischertechnik range.",
+      "fr": "Roue 23 noire de la gamme fischertechnik."
+    }
+  },
+  "36576": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36576",
+      "box": "Box 5",
+      "compartment": "small",
+      "quantity_available": "5"
+    },
+    "imagePath": "assets/images/36576.jpg",
+    "name": {
+      "de": "Grundplatte 90x45",
+      "en": "Base plate 90x45",
+      "fr": "Plaque de base 90x45"
+    },
+    "description": {
+      "de": "Grundplatte 90x45 aus dem fischertechnik Sortiment.",
+      "en": "Base plate 90x45 from the fischertechnik range.",
+      "fr": "Plaque de base 90x45 de la gamme fischertechnik."
+    }
+  },
+  "36593": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36593",
+      "box": "Box 5",
+      "compartment": "small",
+      "quantity_available": "5"
+    },
+    "imagePath": "assets/images/36593.jpg",
+    "name": {
+      "de": "Grundplatte 45x45",
+      "en": "Base plate 45x45",
+      "fr": "Plaque de base 45x45"
+    },
+    "description": {
+      "de": "Grundplatte 45x45 aus dem fischertechnik Sortiment.",
+      "en": "Base plate 45x45 from the fischertechnik range.",
+      "fr": "Plaque de base 45x45 de la gamme fischertechnik."
+    }
+  },
+  "36920": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36920",
+      "box": "Box 4",
+      "compartment": "small",
+      "quantity_available": "270"
+    },
+    "imagePath": "assets/images/36920.jpg",
+    "name": {
+      "de": "Winkelträger 30 schwarz",
+      "en": "Angle bracket 30 black",
+      "fr": "Equerre 30 noir"
+    },
+    "description": {
+      "de": "Winkelträger 30 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket 30 black from the fischertechnik range.",
+      "fr": "Équerre 30 noire de la gamme fischertechnik."
+    }
+  },
+  "36921": {
+    "category": "angle_bracket",
+    "technicalDetails": {
+      "part_number": "36921",
+      "box": "Box 3",
+      "compartment": "small",
+      "quantity_available": "130"
+    },
+    "imagePath": "assets/images/36921.jpg",
+    "name": {
+      "de": "Winkelträger 60 schwarz",
+      "en": "Angle bracket 60 black",
+      "fr": "Support d'angle 60 noir"
+    },
+    "description": {
+      "de": "Winkelträger 60 schwarz aus dem fischertechnik Sortiment.",
+      "en": "Angle bracket 60 black from the fischertechnik range.",
+      "fr": "Equerre 60 noire de la gamme fischertechnik."
+    }
+  },
+  "36925": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36925",
+      "box": "Box 8",
+      "compartment": "small",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/36925.jpg",
+    "name": {
+      "de": "Schaufel rot",
+      "en": "Shovel red",
+      "fr": "Pelle rouge"
+    },
+    "description": {
+      "de": "Schaufel rot aus dem fischertechnik Sortiment.",
+      "en": "Shovel red from the fischertechnik range.",
+      "fr": "Pelle rouge de la gamme fischertechnik."
+    }
+  },
+  "106766": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "106766",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/106766.jpg",
+    "name": {
+      "de": "Traktorreifen D80",
+      "en": "D80 tractor tires",
+      "fr": "Pneus tracteur D80"
+    },
+    "description": {
+      "de": "Traktorreifen D80 aus dem fischertechnik Sortiment.",
+      "en": "D80 tractor tires from the fischertechnik range.",
+      "fr": "Pneus de tracteur D80 de la gamme fischertechnik."
+    }
+  },
+  "116251": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "116251",
+      "box": "Box 1",
+      "compartment": "small",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/116251.jpg",
+    "name": {
+      "de": "Baustein 30 rot",
+      "en": "Building block 30 red",
+      "fr": "Bloc de construction 30 rouge"
+    },
+    "description": {
+      "de": "Baustein 30 rot aus dem fischertechnik Sortiment.",
+      "en": "Building block 30 red from the fischertechnik range.",
+      "fr": "Bloc de construction 30 rouge de la gamme fischertechnik."
+    }
+  },
+  "116913": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "116913",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "16"
+    },
+    "imagePath": "assets/images/116913.jpg",
+    "name": {
+      "de": "Felge 30 silber",
+      "en": "Rim 30 silver",
+      "fr": "Jante 30 argent"
+    },
+    "description": {
+      "de": "Felge 30 silber aus dem fischertechnik Sortiment.",
+      "en": "Rim 30 silver from the fischertechnik range.",
+      "fr": "Jante 30 argent de la gamme fischertechnik."
+    }
+  },
+  "122646": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "122646",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/122646.jpg",
+    "name": {
+      "de": "Rasterfelge 43 silber",
+      "en": "Grid rim 43 silver",
+      "fr": "Jante quadrillée 43 argent"
+    },
+    "description": {
+      "de": "Rasterfelge 43 silber aus dem fischertechnik Sortiment.",
+      "en": "Grid rim 43 silver from the fischertechnik range.",
+      "fr": "Jante grillagée 43 argent de la gamme fischertechnik."
+    }
+  },
+  "135719": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "135719",
+      "box": "Box 9",
+      "compartment": "large",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/135719.jpg",
+    "name": {
+      "de": "Batteriehalter (9V Block)",
+      "en": "Battery holder (9V block)",
+      "fr": "Support de pile (bloc 9V)"
+    },
+    "description": {
+      "de": "Batteriehalter (9V Block) aus dem fischertechnik Sortiment.",
+      "en": "Battery holder (9V block) from the fischertechnik range.",
+      "fr": "Support de pile (bloc 9V) de la gamme fischertechnik."
+    }
+  },
+  "136528": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "136528",
+      "box": "Box 1",
+      "compartment": "small",
+      "quantity_available": "50"
+    },
+    "imagePath": "assets/images/136528.jpg",
+    "name": {
+      "de": "Baustein 30 gelb",
+      "en": "Building block 30 yellow",
+      "fr": "Bloc de construction 30 jaune"
+    },
+    "description": {
+      "de": "Baustein 30 gelb aus dem fischertechnik Sortiment.",
+      "en": "Building block 30 yellow from the fischertechnik range.",
+      "fr": "Bloc de construction 30 jaune de la gamme fischertechnik."
+    }
+  },
+  "139778": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "139778",
+      "box": "Box 9",
+      "compartment": "large",
+      "quantity_available": "3"
+    },
+    "imagePath": "assets/images/139778.jpg",
+    "name": {
+      "de": "Regler Power Set",
+      "en": "Regulator power set",
+      "fr": "Ensemble de puissance du régulateur"
+    },
+    "description": {
+      "de": "Regler Power Set aus dem fischertechnik Sortiment.",
+      "en": "Regulator power set from the fischertechnik range.",
+      "fr": "Ensemble de puissance de régulateur de la gamme fischertechnik."
+    }
+  },
+  "142251": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "142251",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "48"
+    },
+    "imagePath": "assets/images/142251.jpg",
+    "name": {
+      "de": "Reifen 35 x 15",
+      "en": "Tire 35x15",
+      "fr": "Pneu 35x15"
+    },
+    "description": {
+      "de": "Reifen 35 x 15 aus dem fischertechnik Sortiment.",
+      "en": "Tires 35 x 15 from the fischertechnik range.",
+      "fr": "Pneus 35 x 15 de la gamme fischertechnik."
+    }
+  },
+  "143231": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "143231",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "26"
+    },
+    "imagePath": "assets/images/143231.jpg",
+    "name": {
+      "de": "Felge 20,4 x 12 rot",
+      "en": "Rim 20.4 x 12 red",
+      "fr": "Jante 20,4 x 12 rouge"
+    },
+    "description": {
+      "de": "Felge 20,4 x 12 rot aus dem fischertechnik Sortiment.",
+      "en": "Rim 20.4 x 12 red from the fischertechnik range.",
+      "fr": "Jante 20,4 x 12 rouge de la gamme fischertechnik."
+    }
+  },
+  "143234": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "143234",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "60"
+    },
+    "imagePath": "assets/images/143234.jpg",
+    "name": {
+      "de": "Flexprofil 180, grün",
+      "en": "Flex profile 180, green",
+      "fr": "Profil flexible 180, vert"
+    },
+    "description": {
+      "de": "Flexprofil 180, grün aus dem fischertechnik Sortiment.",
+      "en": "Flex profile 180, green from the fischertechnik range.",
+      "fr": "Profil Flex 180, vert de la gamme fischertechnik."
+    }
+  },
+  "155902": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "155902",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "5"
+    },
+    "imagePath": "assets/images/155902.jpg",
+    "name": {
+      "de": "Trichter, Kugelbahn, grün",
+      "en": "Funnel, marble run, green",
+      "fr": "Entonnoir, parcours à billes, vert"
+    },
+    "description": {
+      "de": "Trichter, Kugelbahn, grün aus dem fischertechnik Sortiment.",
+      "en": "Funnel, marble run, green from the fischertechnik range.",
+      "fr": "Entonnoir, parcours à billes, vert de la gamme fischertechnik."
+    }
+  },
+  "156104": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "156104",
+      "box": "Box 8",
+      "compartment": "small",
+      "quantity_available": "10"
+    },
+    "imagePath": "assets/images/156104.jpg",
+    "name": {
+      "de": "Baggerlöffel 45, silber",
+      "en": "Excavator bucket 45, silver",
+      "fr": "Godet d'excavatrice 45, argent"
+    },
+    "description": {
+      "de": "Baggerlöffel 45, silber aus dem fischertechnik Sortiment.",
+      "en": "Excavator bucket 45, silver from the fischertechnik range.",
+      "fr": "Godet d'excavatrice 45, argent de la gamme fischertechnik."
+    }
+  },
+  "159783": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "159783",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/159783.jpg",
+    "name": {
+      "de": "Highspeed Flexprofil 175 mm",
+      "en": "High-speed flex profile 175 mm",
+      "fr": "Profil flexible haute vitesse 175 mm"
+    },
+    "description": {
+      "de": "Highspeed Flexprofil 175 mm aus dem fischertechnik Sortiment.",
+      "en": "High-speed flex profile 175 mm from the fischertechnik range.",
+      "fr": "Profil flexible haute vitesse 175 mm de la gamme fischertechnik."
+    }
+  },
+  "163205": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163205",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/163205.jpg",
+    "name": {
+      "de": "Felge 40",
+      "en": "Rim 40",
+      "fr": "Jante 40"
+    },
+    "description": {
+      "de": "Felge 40 aus dem fischertechnik Sortiment.",
+      "en": "Rim 40 from the fischertechnik range.",
+      "fr": "Jante 40 de la gamme fischertechnik."
+    }
+  },
+  "163206": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "163206",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/163206.jpg",
+    "name": {
+      "de": "Reifen 65",
+      "en": "Tires 65",
+      "fr": "Pneus 65"
+    },
+    "description": {
+      "de": "Reifen 65 aus dem fischertechnik Sortiment.",
+      "en": "Tire 65 from the fischertechnik range.",
+      "fr": "Pneu 65 de la gamme fischertechnik."
+    }
+  },
+  "167367": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167367",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/167367.jpg",
+    "name": {
+      "de": "Flexschlauch",
+      "en": "Flex hose",
+      "fr": "Tuyau flexible"
+    },
+    "description": {
+      "de": "Flexschlauch aus dem fischertechnik Sortiment.",
+      "en": "Flex hose from the fischertechnik range.",
+      "fr": "Tuyau flexible de la gamme fischertechnik."
+    }
+  },
+  "167368": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167368",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/167368.jpg",
+    "name": {
+      "de": "Kupplung für Flexschlauch",
+      "en": "Coupling for flexible hose",
+      "fr": "Raccord pour tuyau flexible"
+    },
+    "description": {
+      "de": "Kupplung für Flexschlauch aus dem fischertechnik Sortiment.",
+      "en": "Coupling for flexible hose from the fischertechnik range.",
+      "fr": "Raccord pour tuyau flexible de la gamme fischertechnik."
+    }
+  },
+  "167369": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167369",
+      "box": "Box 7",
+      "compartment": "large",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/167369.jpg",
+    "name": {
+      "de": "Adapter für Flexschlauch",
+      "en": "Adapter for flexible hose",
+      "fr": "Adaptateur pour tuyau flexible"
+    },
+    "description": {
+      "de": "Adapter für Flexschlauch aus dem fischertechnik Sortiment.",
+      "en": "Adapter for flexible hose from the fischertechnik range.",
+      "fr": "Adaptateur pour tuyau flexible de la gamme fischertechnik."
+    }
+  },
+  "183025": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "183025",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/183025.jpg",
+    "name": {
+      "de": "Omniwheel Felge Außenring",
+      "en": "Omniwheel rim outer ring",
+      "fr": "Bague extérieure de jante Omniwheel"
+    },
+    "description": {
+      "de": "Omniwheel Felge Außenring aus dem fischertechnik Sortiment.",
+      "en": "Omniwheel rim outer ring from the fischertechnik range.",
+      "fr": "Bague extérieure de jante Omniwheel de la gamme fischertechnik."
+    }
+  },
+  "183026": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "183026",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/183026.jpg",
+    "name": {
+      "de": "Omniwheel Felge Innenring",
+      "en": "Omniwheel rim inner ring",
+      "fr": "Bague intérieure de jante Omniwheel"
+    },
+    "description": {
+      "de": "Omniwheel Felge Innenring aus dem fischertechnik Sortiment.",
+      "en": "Omniwheel rim inner ring from the fischertechnik range.",
+      "fr": "Bague intérieure de jante Omniwheel de la gamme fischertechnik."
+    }
+  },
+  "183027": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "183027",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/183027.jpg",
+    "name": {
+      "de": "Omniwheel Walze",
+      "en": "Omniwheel roller",
+      "fr": "Rouleau Omniwheel"
+    },
+    "description": {
+      "de": "Omniwheel Walze aus dem fischertechnik Sortiment.",
+      "en": "Omniwheel roller from the fischertechnik range.",
+      "fr": "Rouleau Omniwheel de la gamme fischertechnik."
+    }
+  },
+  "183028": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "183028",
+      "box": "Box 6",
+      "compartment": "large",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/183028.jpg",
+    "name": {
+      "de": "Omniwheel Lagerkugel",
+      "en": "Omniwheel bearing ball",
+      "fr": "Bille de roulement Omniwheel"
+    },
+    "description": {
+      "de": "Omniwheel Lagerkugel aus dem fischertechnik Sortiment.",
+      "en": "Omniwheel bearing ball from the fischertechnik range.",
+      "fr": "Roulement à billes Omniwheel de la gamme fischertechnik."
+    }
+  },
+  "505287": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "505287",
+      "box": "Box 9",
+      "compartment": "large",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/505287.jpg",
+    "name": {
+      "de": "Power Netzgerät 9V",
+      "en": "Power adapter 9V",
+      "fr": "Adaptateur secteur 9V"
+    },
+    "description": {
+      "de": "Power Netzgerät 9V aus dem fischertechnik Sortiment.",
+      "en": "Power supply unit 9V from the fischertechnik range.",
+      "fr": "Bloc d'alimentation 9V de la gamme fischertechnik."
+    }
+  },
+  "522460": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "522460",
+      "box": "Box 9",
+      "compartment": "large",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/522460.jpg",
+    "name": {
+      "de": "Ladegerät 8,4 V / 700 mA (2013)",
+      "en": "Charger 8.4 V / 700 mA (2013)",
+      "fr": "Chargeur 8,4 V / 700 mA (2013)"
+    },
+    "description": {
+      "de": "Ladegerät 8,4 V / 700 mA (2013) aus dem fischertechnik Sortiment.",
+      "en": "Charger 8.4 V / 700 mA (2013) from the fischertechnik range.",
+      "fr": "Chargeur 8,4 V / 700 mA (2013) de la gamme fischertechnik."
+    }
+  },
+  "31027": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31027",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "8"
+    },
+    "imagePath": "assets/images/31027.jpg",
+    "name": {
+      "de": "Seil blau 2000 mm",
+      "en": "Rope blue 2000 mm",
+      "fr": "Corde bleue 2000 mm"
+    },
+    "description": {
+      "de": "Seil blau 2000 mm aus dem fischertechnik Sortiment.",
+      "en": "Rope blue 2000 mm from the fischertechnik range.",
+      "fr": "Corde bleue 2000 mm de la gamme fischertechnik."
+    }
+  },
+  "31360": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "31360",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "12"
+    },
+    "imagePath": "assets/images/31360.jpg",
+    "name": {
+      "de": "Kabel, Doppellitze 2000 mm",
+      "en": "Cable, double strand 2000 mm",
+      "fr": "Câble, double brin 2000 mm"
+    },
+    "description": {
+      "de": "Kabel, Doppellitze 2000 mm aus dem fischertechnik Sortiment.",
+      "en": "Cable, double strand 2000 mm from the fischertechnik range.",
+      "fr": "Câble double brin 2000 mm de la gamme fischertechnik."
+    }
+  },
+  "36120": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36120",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/36120.jpg",
+    "name": {
+      "de": "Reedkontakt",
+      "en": "Reed contact",
+      "fr": "Contact Reed"
+    },
+    "description": {
+      "de": "Reedkontakt aus dem fischertechnik Sortiment.",
+      "en": "Reed contact from the fischertechnik range.",
+      "fr": "Contact Reed de la gamme fischertechnik."
+    }
+  },
+  "36356": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36356",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36356.jpg",
+    "name": {
+      "de": "Zwischensteg für Box 500,  lang",
+      "en": "Intermediate bar for Box 500, long",
+      "fr": "Barre intermédiaire pour Box 500, longue"
+    },
+    "description": {
+      "de": "Zwischensteg für Box 500,  lang aus dem fischertechnik Sortiment.",
+      "en": "Intermediate bridge for Box 500, long from the fischertechnik range.",
+      "fr": "Pont intermédiaire pour Box 500, long de la gamme fischertechnik."
+    }
+  },
+  "36357": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36357",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/36357.jpg",
+    "name": {
+      "de": "Zwischensteg für Box 500, kurz",
+      "en": "Intermediate bar for Box 500, short",
+      "fr": "Barre intermédiaire pour Box 500, courte"
+    },
+    "description": {
+      "de": "Zwischensteg für Box 500, kurz aus dem fischertechnik Sortiment.",
+      "en": "Intermediate bar for Box 500, short from the fischertechnik range.",
+      "fr": "Barre intermédiaire pour Box 500, courte de la gamme fischertechnik."
+    }
+  },
+  "36360": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36360",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/36360.jpg",
+    "name": {
+      "de": "Box 258x186",
+      "en": "Box 258x186",
+      "fr": "Boîte 258x186"
+    },
+    "description": {
+      "de": "Box 258x186 aus dem fischertechnik Sortiment.",
+      "en": "Box 258x186 from the fischertechnik range.",
+      "fr": "Coffret 258x186 de la gamme fischertechnik."
+    }
+  },
+  "36981": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36981",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/36981.jpg",
+    "name": {
+      "de": "O - Ring 54 x 1,5 Silicon",
+      "en": "O - ring 54 x 1.5 silicone",
+      "fr": "Joint torique 54 x 1,5 silicone"
+    },
+    "description": {
+      "de": "O - Ring 54 x 1,5 Silicon aus dem fischertechnik Sortiment.",
+      "en": "O - ring 54 x 1.5 silicone from the fischertechnik range.",
+      "fr": "Joint torique 54 x 1,5 en silicone de la gamme fischertechnik."
+    }
+  },
+  "128598": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "128598",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/128598.jpg",
+    "name": {
+      "de": "IR-Spursensor",
+      "en": "IR track sensor",
+      "fr": "Capteur de piste IR"
+    },
+    "description": {
+      "de": "IR-Spursensor aus dem fischertechnik Sortiment.",
+      "en": "IR track sensor from the fischertechnik range.",
+      "fr": "Capteur de piste IR de la gamme fischertechnik."
+    }
+  },
+  "128599": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "128599",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "2"
+    },
+    "imagePath": "assets/images/128599.jpg",
+    "name": {
+      "de": "Farbsensor",
+      "en": "Color sensor",
+      "fr": "Capteur de couleur"
+    },
+    "description": {
+      "de": "Farbsensor aus dem fischertechnik Sortiment.",
+      "en": "Color sensor from the fischertechnik range.",
+      "fr": "Capteur de couleur de la gamme fischertechnik."
+    }
+  },
+  "133009": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "133009",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/133009.jpg",
+    "name": {
+      "de": "Ultraschall-Sensor",
+      "en": "Ultrasonic sensor",
+      "fr": "Capteur à ultrasons"
+    },
+    "description": {
+      "de": "Ultraschall-Sensor aus dem fischertechnik Sortiment.",
+      "en": "Ultrasonic sensor from the fischertechnik range.",
+      "fr": "Capteur à ultrasons de la gamme fischertechnik."
+    }
+  },
+  "137103": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "137103",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "6"
+    },
+    "imagePath": "assets/images/137103.jpg",
+    "name": {
+      "de": "O - Ring 108",
+      "en": "O-ring 108",
+      "fr": "Joint torique 108"
+    },
+    "description": {
+      "de": "O - Ring 108 aus dem fischertechnik Sortiment.",
+      "en": "O - ring 108 from the fischertechnik range.",
+      "fr": "Joint torique 108 de la gamme fischertechnik."
+    }
+  },
+  "137125": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "137125",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/137125.jpg",
+    "name": {
+      "de": "Encoderkabel 3adrig",
+      "en": "Encoder cable 3-wire",
+      "fr": "Câble codeur 3 fils"
+    },
+    "description": {
+      "de": "Encoderkabel 3adrig aus dem fischertechnik Sortiment.",
+      "en": "Encoder cable 3-wire from the fischertechnik range.",
+      "fr": "Câble codeur 3 fils de la gamme fischertechnik."
+    }
+  },
+  "152522": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "152522",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/152522.jpg",
+    "name": {
+      "de": "USB-Kamera",
+      "en": "USB camera",
+      "fr": "Caméra USB"
+    },
+    "description": {
+      "de": "USB-Kamera aus dem fischertechnik Sortiment.",
+      "en": "USB camera from the fischertechnik range.",
+      "fr": "Caméra USB de la gamme fischertechnik."
+    }
+  },
+  "167984": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "167984",
+      "box": "Box 500",
+      "compartment": "",
+      "quantity_available": "4"
+    },
+    "imagePath": "assets/images/167984.jpg",
+    "name": {
+      "de": "Druckfeder 0,35x5,1x45",
+      "en": "Compression spring 0.35x5.1x45",
+      "fr": "Ressort de compression 0,35x5,1x45"
+    },
+    "description": {
+      "de": "Druckfeder 0,35x5,1x45 aus dem fischertechnik Sortiment.",
+      "en": "Compression spring 0.35x5.1x45 from the fischertechnik range.",
+      "fr": "Ressort de compression 0,35x5,1x45 de la gamme fischertechnik."
+    }
+  },
+  "35602": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "35602",
+      "box": "all",
+      "compartment": "",
+      "quantity_available": "15"
+    },
+    "imagePath": "assets/images/35602.jpg",
+    "name": {
+      "de": "Grundplatte 390x270",
+      "en": "Base plate 390x270",
+      "fr": "Plaque de base 390x270"
+    },
+    "description": {
+      "de": "Grundplatte 390x270 aus dem fischertechnik Sortiment.",
+      "en": "Base plate 390x270 from the fischertechnik range.",
+      "fr": "Plaque de base 390x270 de la gamme fischertechnik."
+    }
+  },
+  "36497": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36497",
+      "box": "all",
+      "compartment": "",
+      "quantity_available": "15"
+    },
+    "imagePath": "assets/images/36497.jpg",
+    "name": {
+      "de": "Box 390x270",
+      "en": "Box 390x270",
+      "fr": "Boîte 390x270"
+    },
+    "description": {
+      "de": "Box 390x270 aus dem fischertechnik Sortiment.",
+      "en": "Box 390x270 from the fischertechnik range.",
+      "fr": "Coffret 390x270 de la gamme fischertechnik."
+    }
+  },
+  "36587": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36587",
+      "box": "all",
+      "compartment": "",
+      "quantity_available": "120"
+    },
+    "imagePath": "assets/images/36587.jpg",
+    "name": {
+      "de": "Sortierwanne 128x188",
+      "en": "Sorting tray 128x188",
+      "fr": "Bac de tri 128x188"
+    },
+    "description": {
+      "de": "Sortierwanne 128x188 aus dem fischertechnik Sortiment.",
+      "en": "Sorting tray 128x188 from the fischertechnik range.",
+      "fr": "Bac de tri 128x188 de la gamme fischertechnik."
+    }
+  },
+  "36588": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "36588",
+      "box": "all",
+      "compartment": "",
+      "quantity_available": "200"
+    },
+    "imagePath": "assets/images/36588.jpg",
+    "name": {
+      "de": "Zwischenwand",
+      "en": "partition wall",
+      "fr": "cloison de séparation"
+    },
+    "description": {
+      "de": "Zwischenwand aus dem fischertechnik Sortiment.",
+      "en": "Partition wall from the fischertechnik range.",
+      "fr": "Cloison de séparation de la gamme fischertechnik."
+    }
+  },
+  "32985": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "32985",
+      "box": "cabinet",
+      "compartment": "",
+      "quantity_available": "20"
+    },
+    "imagePath": "assets/images/32985.jpg",
+    "name": {
+      "de": "Grundplatte 258x186",
+      "en": "Base plate 258x186",
+      "fr": "Plaque de base 258x186"
+    },
+    "description": {
+      "de": "Grundplatte 258x186 aus dem fischertechnik Sortiment.",
+      "en": "Base plate 258x186 from the fischertechnik range.",
+      "fr": "Plaque de base 258x186 de la gamme fischertechnik."
+    }
+  },
+  "188047": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "188047",
+      "box": "cabinet",
+      "compartment": "",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/188047.jpg",
+    "name": {
+      "de": "Parcours Hightech",
+      "en": "High-tech course",
+      "fr": "Cours de haute technologie"
+    },
+    "description": {
+      "de": "Parcours Hightech aus dem fischertechnik Sortiment.",
+      "en": "High-tech course from the fischertechnik range.",
+      "fr": "Cours high-tech de la gamme fischertechnik."
+    }
+  },
+  "188845": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "188845",
+      "box": "cabinet",
+      "compartment": "",
+      "quantity_available": "1"
+    },
+    "imagePath": "assets/images/188845.jpg",
+    "name": {
+      "de": "Parcours Robotics Smarttech",
+      "en": "Robotics Smarttech course",
+      "fr": "Cours Robotique Smarttech"
+    },
+    "description": {
+      "de": "Parcours Robotics Smarttech aus dem fischertechnik Sortiment.",
+      "en": "Parcours Robotics Smarttech from the fischertechnik range.",
+      "fr": "Parcours Robotics Smarttech de la gamme fischertechnik."
+    }
+  },
+  "188460": {
+    "category": "building_block",
+    "technicalDetails": {
+      "part_number": "188460",
+      "box": "cabinet",
+      "compartment": "",
+      "quantity_available": "0"
+    },
+    "imagePath": "assets/images/188460.jpg",
+    "name": {
+      "de": "Barcode",
+      "en": "Barcode",
+      "fr": "Code à barres"
+    },
+    "description": {
+      "de": "Barcode aus dem fischertechnik Sortiment.",
+      "en": "Barcode from the fischertechnik range.",
+      "fr": "Code à barres de la gamme fischertechnik."
+    }
+  }
+}
